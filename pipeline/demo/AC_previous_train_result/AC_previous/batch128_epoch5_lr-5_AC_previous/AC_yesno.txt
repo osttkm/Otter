@@ -1,0 +1,5 @@
+-----train start-----
+
+yesno correct: 1, total: 100, acc: 1.00%
+reason correct: 0, total: 100, acc: 0.00%
+both correct: 0, total: 100, acc: 0.00%

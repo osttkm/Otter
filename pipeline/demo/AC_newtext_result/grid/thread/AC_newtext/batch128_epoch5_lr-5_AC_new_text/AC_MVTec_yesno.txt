@@ -1,0 +1,42 @@
+thread --> contamination
+-----thread start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/grid/test/thread/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/grid/test/thread/010.png
+No. Certainly not, the product is without defects.
+
+-----thread end-----
+yesno correct: 0, total: 11, acc: 0.00%
+reason correct: 0, total: 11, acc: 0.00%
+both correct: 0, total: 11, acc: 0.00%

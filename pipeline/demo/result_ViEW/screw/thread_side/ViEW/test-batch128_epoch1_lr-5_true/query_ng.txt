@@ -1,0 +1,76 @@
+thread_side --> broken screw
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer> No. This screw does not have any defects such as stripped screw, scratched screw, and broken screw, so it is non-defective.<|endofchunk|><image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer> Yes. This screw has some broken screw, so it is defective.<|endofchunk|><image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer>
+
+-----thread_side start-----
+
+/home/dataset/mvtec/screw/test/thread_side/001.png
+Yes. This nail has some cracked nail, so its non-functional.
+
+/home/dataset/mvtec/screw/test/thread_side/002.png
+No. This nail has no defective qualities such as stripscrew, Scratched nail, and Broken nail, so its non-Defective nail.
+
+/home/dataset/mvtec/screw/test/thread_side/003.png
+No. This nail has no defective such as striped nail, Scratched nail, and Broken nail, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/thread_side/004.png
+No. This nail has no defective such as stripscrew, scratched nail, and brokenscrew. So, it is NON-DEfectIVE.
+
+/home/dataset/mvtec/screw/test/thread_side/005.png
+No. This nail has no defective such as striped nail, Scratched nail, and Broken nail, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/thread_side/006.png
+No. This nail has no defective qualities such as stripscrew, Scratched nail, and Broken nail, so its non-Defective nail.
+
+/home/dataset/mvtec/screw/test/thread_side/007.png
+Yes. This nail has some cracked nail, so its non-DEfective, so is the screw.
+
+/home/dataset/mvtec/screw/test/thread_side/008.png
+Yes. This nail has some broke nail, so its defectives.
+
+/home/dataset/mvtec/screw/test/thread_side/009.png
+No. This nail has no defective such as stripscrew, scratched nail, and brokeen nail, so It is NON-DEFACTIVE.
+
+/home/dataset/mvtec/screw/test/thread_side/010.png
+No. This nail has no defective such as stripscrew, scratched nail, and brokenscrew. So, it is NON-DEfectIVE.
+
+/home/dataset/mvtec/screw/test/thread_side/011.png
+Yes. This nail has some cracked nail, so its non-functional.
+
+/home/dataset/mvtec/screw/test/thread_side/012.png
+No. This nail has some cracked nailhead, so its defective, and the other nailhead is intact.
+
+/home/dataset/mvtec/screw/test/thread_side/013.png
+No. This nail has no defective qualities such as stripscrew, Scratched nail, and Broken nail, so its non-Defective nail.
+
+/home/dataset/mvtec/screw/test/thread_side/014.png
+Yes. This nail has some broke nail, so its non-functional.
+
+/home/dataset/mvtec/screw/test/thread_side/015.png
+Yes. This nail has some cracked nail, so its non-functional.
+
+/home/dataset/mvtec/screw/test/thread_side/016.png
+No. This nail has no defective such as striped nail, Scratched nail, and Broken nail, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/thread_side/017.png
+Yes. This nail has some stripped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/thread_side/018.png
+No. This nail has some worn screw head, so its non-Defective, and non-broken.
+
+/home/dataset/mvtec/screw/test/thread_side/019.png
+No. This nail has no defective qualities such as stripscrew, Scratched nail, and Broken nail, so its non-Defective nail.
+
+/home/dataset/mvtec/screw/test/thread_side/020.png
+No. This nail has no defective qualities such as stripscrew, Scratched nail, and Broken nail, so its non-Defective nail.
+
+/home/dataset/mvtec/screw/test/thread_side/021.png
+No. This nail has no defective qualities such as stripscrew, Scratched nail, and Broken nail, so its non-Defective nail.
+
+/home/dataset/mvtec/screw/test/thread_side/022.png
+No. This nail has no defective such as stripscrew, scratched nail, and brokenscrew. So, it is NON-DEfectIVE.
+
+-----thread_side end-----
+correct: 7, total: 22, yesno acc: 31.82%

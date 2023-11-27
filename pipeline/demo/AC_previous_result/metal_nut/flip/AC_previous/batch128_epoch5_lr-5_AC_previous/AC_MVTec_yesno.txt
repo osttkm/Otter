@@ -1,0 +1,78 @@
+flip --> flip
+-----flip start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/metal_nut/test/flip/000.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/001.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/flip/002.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/003.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/004.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/005.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/flip/006.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/007.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/008.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/flip/009.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/flip/010.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/011.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/012.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/flip/013.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/014.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/015.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/flip/016.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/017.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/018.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/flip/019.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/020.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/021.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/flip/022.png
+chip.
+
+-----flip end-----
+yesno correct: 0, total: 23, acc: 0.00%
+reason correct: 0, total: 23, acc: 0.00%
+both correct: 0, total: 23, acc: 0.00%

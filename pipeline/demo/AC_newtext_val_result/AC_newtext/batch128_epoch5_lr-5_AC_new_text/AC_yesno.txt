@@ -1,0 +1,5 @@
+-----val start-----
+
+yesno correct: 77, total: 100, acc: 77.00%
+reason correct: 74, total: 100, acc: 74.00%
+both correct: 74, total: 100, acc: 74.00%

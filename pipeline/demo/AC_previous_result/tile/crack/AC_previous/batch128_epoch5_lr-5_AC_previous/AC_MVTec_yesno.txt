@@ -1,0 +1,60 @@
+crack --> crack
+-----crack start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/tile/test/crack/000.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/001.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/002.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/003.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/004.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/005.png
+spot.
+
+/home/dataset/mvtec/tile/test/crack/006.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/007.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/008.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/009.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/010.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/011.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/012.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/013.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/014.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/015.png
+crack.
+
+/home/dataset/mvtec/tile/test/crack/016.png
+crack.
+
+-----crack end-----
+yesno correct: 0, total: 17, acc: 0.00%
+reason correct: 0, total: 17, acc: 0.00%
+both correct: 0, total: 17, acc: 0.00%

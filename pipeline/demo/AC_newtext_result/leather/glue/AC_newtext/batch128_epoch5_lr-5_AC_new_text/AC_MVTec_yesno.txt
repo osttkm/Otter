@@ -1,0 +1,66 @@
+glue --> stain
+-----glue start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/leather/test/glue/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/glue/001.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/002.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/glue/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/009.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/glue/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/glue/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/glue/013.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/014.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/glue/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/glue/017.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/glue/018.png
+No. Negative, the product shown is devoid of any defects.
+
+-----glue end-----
+yesno correct: 0, total: 19, acc: 0.00%
+reason correct: 0, total: 19, acc: 0.00%
+both correct: 0, total: 19, acc: 0.00%

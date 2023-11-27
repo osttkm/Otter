@@ -1,0 +1,55 @@
+fabric_interior --> torn zipper
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer> No. This zipper does not have any defects such as broken zipper, torn zipper, and damaged zipper, so it is non-defective.<|endofchunk|><image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer> Yes. This zipper has some torn zipper, so it is defective.<|endofchunk|><image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer>
+
+-----fabric_interior start-----
+
+/home/dataset/mvtec/zipper/test/fabric_interior/001.png
+No. This zippered has no defective such as broke zippers, torn zipzippers, and damage zipzickers, so its non-Defective..
+
+/home/dataset/mvtec/zipper/test/fabric_interior/002.png
+No. This zippered is nondeffective, so its Zipper, Tied, and Tied Zipper Defects are non-existent.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/003.png
+No. This zippered has some twisted zipper tape, so its defective, and non-Defective GPT.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/004.png
+No. This zippered is nondeffective, so its DefectiveZipper.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/005.png
+No. This zippered has some ripped zipper tape, so its defective, and non-non-non.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/006.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/007.png
+No. This zippered has no defective such as broke zippers, torn zipzippers, and damage zipzickers, so its non-Defective..
+
+/home/dataset/mvtec/zipper/test/fabric_interior/008.png
+No. This zippered is nondeffective, so its Zipper Torn Zipper, So It Is Non Defective..
+
+/home/dataset/mvtec/zipper/test/fabric_interior/009.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and damged zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/010.png
+No. This zippered has no defective such as broke zippers, torn zipzippers, and damage zipzickers, so its non-Defective..
+
+/home/dataset/mvtec/zipper/test/fabric_interior/011.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defective..
+
+/home/dataset/mvtec/zipper/test/fabric_interior/012.png
+No. This zippered has some twisted zipper tape, so its non-DEfectIVE.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/013.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/014.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and damaed zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/015.png
+No. This zippered has some ripped zipper tape, so its defective, and non-non-non.
+
+-----fabric_interior end-----
+correct: 3, total: 15, yesno acc: 20.00%

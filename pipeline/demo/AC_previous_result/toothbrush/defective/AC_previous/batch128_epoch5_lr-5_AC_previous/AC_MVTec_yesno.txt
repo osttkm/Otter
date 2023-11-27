@@ -1,0 +1,99 @@
+defective --> broken
+-----defective start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/toothbrush/test/defective/000.png
+fading.
+
+/home/dataset/mvtec/toothbrush/test/defective/001.png
+fading.
+
+/home/dataset/mvtec/toothbrush/test/defective/002.png
+fading.
+
+/home/dataset/mvtec/toothbrush/test/defective/003.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/004.png
+chip.
+
+/home/dataset/mvtec/toothbrush/test/defective/005.png
+fading.
+
+/home/dataset/mvtec/toothbrush/test/defective/006.png
+discoloration.
+
+/home/dataset/mvtec/toothbrush/test/defective/007.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/008.png
+mold.
+
+/home/dataset/mvtec/toothbrush/test/defective/009.png
+fading.
+
+/home/dataset/mvtec/toothbrush/test/defective/010.png
+dead pixel.
+
+/home/dataset/mvtec/toothbrush/test/defective/011.png
+stain.
+
+/home/dataset/mvtec/toothbrush/test/defective/012.png
+stain.
+
+/home/dataset/mvtec/toothbrush/test/defective/013.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/014.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/015.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/016.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/017.png
+stain.
+
+/home/dataset/mvtec/toothbrush/test/defective/018.png
+stain.
+
+/home/dataset/mvtec/toothbrush/test/defective/019.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/020.png
+stain.
+
+/home/dataset/mvtec/toothbrush/test/defective/021.png
+stain.
+
+/home/dataset/mvtec/toothbrush/test/defective/022.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/023.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/024.png
+stain.
+
+/home/dataset/mvtec/toothbrush/test/defective/025.png
+dent.
+
+/home/dataset/mvtec/toothbrush/test/defective/026.png
+stain.
+
+/home/dataset/mvtec/toothbrush/test/defective/027.png
+dead pixel.
+
+/home/dataset/mvtec/toothbrush/test/defective/028.png
+None.
+
+/home/dataset/mvtec/toothbrush/test/defective/029.png
+stain.
+
+-----defective end-----
+yesno correct: 0, total: 30, acc: 0.00%
+reason correct: 0, total: 30, acc: 0.00%
+both correct: 0, total: 30, acc: 0.00%

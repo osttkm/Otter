@@ -1,0 +1,69 @@
+squeeze --> misshapen
+-----squeeze start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/capsule/test/squeeze/000.png
+crack.
+
+/home/dataset/mvtec/capsule/test/squeeze/001.png
+dent.
+
+/home/dataset/mvtec/capsule/test/squeeze/002.png
+500.
+
+/home/dataset/mvtec/capsule/test/squeeze/003.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/004.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/005.png
+crack.
+
+/home/dataset/mvtec/capsule/test/squeeze/006.png
+crack.
+
+/home/dataset/mvtec/capsule/test/squeeze/007.png
+dent.
+
+/home/dataset/mvtec/capsule/test/squeeze/008.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/009.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/010.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/011.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/012.png
+dent.
+
+/home/dataset/mvtec/capsule/test/squeeze/013.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/014.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/015.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/016.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/017.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/018.png
+None.
+
+/home/dataset/mvtec/capsule/test/squeeze/019.png
+chip.
+
+-----squeeze end-----
+yesno correct: 0, total: 20, acc: 0.00%
+reason correct: 0, total: 20, acc: 0.00%
+both correct: 0, total: 20, acc: 0.00%

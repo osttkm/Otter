@@ -1,0 +1,78 @@
+thread_top --> chip
+-----thread_top start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/screw/test/thread_top/000.png
+rust.
+
+/home/dataset/mvtec/screw/test/thread_top/001.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/002.png
+None.
+
+/home/dataset/mvtec/screw/test/thread_top/003.png
+None.
+
+/home/dataset/mvtec/screw/test/thread_top/004.png
+bent.
+
+/home/dataset/mvtec/screw/test/thread_top/005.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/006.png
+None.
+
+/home/dataset/mvtec/screw/test/thread_top/007.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/008.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/009.png
+bent.
+
+/home/dataset/mvtec/screw/test/thread_top/010.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/011.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/012.png
+bent.
+
+/home/dataset/mvtec/screw/test/thread_top/013.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/014.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/015.png
+bent.
+
+/home/dataset/mvtec/screw/test/thread_top/016.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/017.png
+rust.
+
+/home/dataset/mvtec/screw/test/thread_top/018.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/019.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/020.png
+broken.
+
+/home/dataset/mvtec/screw/test/thread_top/021.png
+bent.
+
+/home/dataset/mvtec/screw/test/thread_top/022.png
+broken.
+
+-----thread_top end-----
+yesno correct: 0, total: 23, acc: 0.00%
+reason correct: 0, total: 23, acc: 0.00%
+both correct: 0, total: 23, acc: 0.00%

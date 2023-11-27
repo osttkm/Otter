@@ -1,0 +1,78 @@
+scratch --> scratch
+-----scratch start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/metal_nut/test/scratch/000.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/scratch/001.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/scratch/002.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/003.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/scratch/004.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/scratch/005.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/006.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/scratch/007.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/008.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/scratch/009.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/scratch/010.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/011.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/012.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/013.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/014.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/015.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/016.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/017.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/018.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/019.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/scratch/020.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/scratch/021.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/scratch/022.png
+chip.
+
+-----scratch end-----
+yesno correct: 0, total: 23, acc: 0.00%
+reason correct: 0, total: 23, acc: 0.00%
+both correct: 0, total: 23, acc: 0.00%

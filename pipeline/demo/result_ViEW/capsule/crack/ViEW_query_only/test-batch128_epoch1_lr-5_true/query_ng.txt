@@ -1,0 +1,76 @@
+crack --> cracked capsule
+
+query: NG
+
+<image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer>
+
+-----crack start-----
+
+/home/dataset/mvtec/capsule/test/crack/001.png
+Yes. This capsule has some damaged capsule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/002.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/003.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/004.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/005.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/006.png
+No. This capsule does not have any faults such as crushed capsule, damaged capsule, poke-marked capsule, scratches, and misprinted capsules, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/crack/007.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/008.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/009.png
+No. This capsule does not have any faults such as crushed capsule, damaged capsule, poke-cap capsule, Scratched capsule, Misprinted capsule and poked capsules, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/crack/010.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/011.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/012.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/013.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/014.png
+No. This capsule does not have any faults such as crushed capsule, broken capsule, misplaced capsule, missing capsule, torn capsule, damaged capsule, defective capsule, tampered with capsule, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/crack/015.png
+Yes. This capsule has some damaged capsule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/016.png
+No. This capsule does not have any faults such as crushed capsule, broken capsule, misplaced capsule, missing capsule, defective capsule, damaged capsule, torn capsule, pierced capsule, punctured capsule, poke-through capsule, scratches, and damage, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/crack/017.png
+Yes. This capsule has some poked capsules, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/018.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/019.png
+Yes. This capsule has some damaged capsule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/crack/020.png
+No. This capsule does not have any faults such as crushed capsule, broken capsule, damaged capsule, poke capsule, scratches, and so on, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/crack/021.png
+No. This capsule does not have any faults such as crushed capsule, damaged capsule, poke-capule, misprinted capsule, Scratched capsule and scratched capule, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/crack/022.png
+No. This capsule does not have any faults such as crushed capsule, broken capsule, damaged capsule, poke capsule, scratches, and misprints, so it is non-defective.
+
+-----crack end-----
+correct: 15, total: 22, yesno acc: 68.18%

@@ -1,0 +1,34 @@
+pill_type --> stained pill
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> No. This pill does not have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill, so it is non-defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> Yes. This pill has some stained pill, so it is defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer>
+
+-----pill_type start-----
+
+/home/dataset/mvtec/pill/test/pill_type/001.png
+Yes. This pillow has some stains, so its pill is stained, so defective, so the answer is yes.
+
+/home/dataset/mvtec/pill/test/pill_type/002.png
+Yes. This pillow has some stamped pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/pill_type/003.png
+Yes. This pillow has some stamped pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/pill_type/004.png
+Yes. This pillow has some stamped pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/pill_type/005.png
+Yes. This pillow has some stains pill, So it is faulty.
+
+/home/dataset/mvtec/pill/test/pill_type/006.png
+Yes. This pillow has some stains pill, So it is faulty.
+
+/home/dataset/mvtec/pill/test/pill_type/007.png
+Yes. This pillow has some stamped pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/pill_type/008.png
+Yes. This pillow has some stamped pill,so it is faulty.
+
+-----pill_type end-----
+correct: 8, total: 8, yesno acc: 100.00%

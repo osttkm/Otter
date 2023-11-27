@@ -1,0 +1,37 @@
+hole --> wood with holes
+
+query: NG
+
+<image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer>
+
+-----hole start-----
+
+/home/dataset/mvtec/wood/test/hole/001.png
+Yes. This wood has some wooden holes, so it is defective.
+
+/home/dataset/mvtec/wood/test/hole/002.png
+Yes. This wood has some wooden holes, so it is defective.
+
+/home/dataset/mvtec/wood/test/hole/003.png
+No. This wood does not have anydefects such asstained wood,scratched wood,and wood withholes, so it is non-defective.
+
+/home/dataset/mvtec/wood/test/hole/004.png
+Yes. This wood has some wooden holes, so it is defective.
+
+/home/dataset/mvtec/wood/test/hole/005.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/hole/006.png
+No. This wood does not have anydefects such asstained wood,scratched wood,and wood withholes, so it is non-defective.
+
+/home/dataset/mvtec/wood/test/hole/007.png
+Yes. This wood has some wooden hole, so it is defective.
+
+/home/dataset/mvtec/wood/test/hole/008.png
+No. This wood does not have anydefects such asstained wood,scratched wood,and wood withholes, so it is non-defective.
+
+/home/dataset/mvtec/wood/test/hole/009.png
+Yes. This wood has some wooden holes, so it is defective.
+
+-----hole end-----
+correct: 6, total: 9, yesno acc: 66.67%

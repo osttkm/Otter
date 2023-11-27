@@ -1,0 +1,58 @@
+print --> misprinted hazelnut
+
+query: NG
+
+<image>User: This is an image of hazelnut. Does this hazelnut have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut? GPT:<answer>
+
+-----print start-----
+
+/home/dataset/mvtec/hazelnut/test/print/001.png
+No. This hazelnut does not have any defective such as cracks, scratches, hole-punctured, and missprinted, so it is non-defective.
+
+/home/dataset/mvtec/hazelnut/test/print/002.png
+Yes. This hazelnut has some misprinted nut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/003.png
+No. This hazelnut does not have any defective such as cracks, scratches, holes, misprinted, so it is non-defective.
+
+/home/dataset/mvtec/hazelnut/test/print/004.png
+Yes. This hazelnut has some scratched hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/005.png
+Yes. This hazelnut has some cracked hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/006.png
+Yes. This hazelnut has some scratched hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/007.png
+Yes. This hazelnut has some scratched hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/008.png
+No. This hazelnut does not have any defective such as cracks, scratches, holes, misprinted, so it is non-defective.
+
+/home/dataset/mvtec/hazelnut/test/print/009.png
+Yes. This hazelnut has some cracked hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/010.png
+Yes. This hazelnut has some misprinted nut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/011.png
+Yes. This hazelnut has some scratched hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/012.png
+Yes. This hazelnut has some scratched hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/013.png
+No. This hazelnut does not have any defective such as cracks, scratches, holes, misprinted, so it is non-defective.
+
+/home/dataset/mvtec/hazelnut/test/print/014.png
+Yes. This hazelnut has some cracked hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/print/015.png
+No. This hazelnut does not have any defective such as cracks, scratches, holes, misprinted, so it is non-defective.
+
+/home/dataset/mvtec/hazelnut/test/print/016.png
+Yes. This hazelnut has some scratched hazelnuit, so it is defective.
+
+-----print end-----
+correct: 11, total: 16, yesno acc: 68.75%

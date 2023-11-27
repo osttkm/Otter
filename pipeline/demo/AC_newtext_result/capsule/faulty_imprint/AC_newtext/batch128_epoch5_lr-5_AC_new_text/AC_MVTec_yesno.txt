@@ -1,0 +1,75 @@
+faulty_imprint --> misprint
+-----faulty_imprint start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/000.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/006.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/011.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/015.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/016.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/017.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/018.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/019.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/020.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/021.png
+No. Certainly not, the product is without defects.
+
+-----faulty_imprint end-----
+yesno correct: 0, total: 22, acc: 0.00%
+reason correct: 0, total: 22, acc: 0.00%
+both correct: 0, total: 22, acc: 0.00%

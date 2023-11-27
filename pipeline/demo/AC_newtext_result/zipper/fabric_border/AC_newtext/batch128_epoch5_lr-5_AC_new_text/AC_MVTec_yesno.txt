@@ -1,0 +1,60 @@
+fabric_border --> tear
+-----fabric_border start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/zipper/test/fabric_border/000.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_border/001.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_border/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/fabric_border/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/fabric_border/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/fabric_border/005.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_border/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/fabric_border/007.png
+No. I find no defects in this product.
+
+/home/dataset/mvtec/zipper/test/fabric_border/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/fabric_border/009.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_border/010.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_border/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/fabric_border/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/fabric_border/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/fabric_border/014.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_border/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/fabric_border/016.png
+No. Certainly not, the product is without defects.
+
+-----fabric_border end-----
+yesno correct: 0, total: 17, acc: 0.00%
+reason correct: 0, total: 17, acc: 0.00%
+both correct: 0, total: 17, acc: 0.00%

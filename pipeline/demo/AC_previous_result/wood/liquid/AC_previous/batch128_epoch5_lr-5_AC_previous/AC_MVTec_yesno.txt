@@ -1,0 +1,39 @@
+liquid --> stain
+-----liquid start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/wood/test/liquid/000.png
+chip.
+
+/home/dataset/mvtec/wood/test/liquid/001.png
+water damage.
+
+/home/dataset/mvtec/wood/test/liquid/002.png
+scratch.
+
+/home/dataset/mvtec/wood/test/liquid/003.png
+scratch.
+
+/home/dataset/mvtec/wood/test/liquid/004.png
+water damage.
+
+/home/dataset/mvtec/wood/test/liquid/005.png
+water damage.
+
+/home/dataset/mvtec/wood/test/liquid/006.png
+scratch.
+
+/home/dataset/mvtec/wood/test/liquid/007.png
+scratch.
+
+/home/dataset/mvtec/wood/test/liquid/008.png
+water damage.
+
+/home/dataset/mvtec/wood/test/liquid/009.png
+water damage.
+
+-----liquid end-----
+yesno correct: 0, total: 10, acc: 0.00%
+reason correct: 0, total: 10, acc: 0.00%
+both correct: 0, total: 10, acc: 0.00%

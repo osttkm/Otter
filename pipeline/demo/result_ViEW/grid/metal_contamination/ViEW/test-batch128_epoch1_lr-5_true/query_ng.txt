@@ -1,0 +1,40 @@
+metal_contamination --> contaminated metal grid
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> No. This metal grid does not have any defects such as bent metal grid, broken metal grid, and contaminated metal grid, so it is non-defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> Yes. This metal grid has some contaminated metal grid, so it is defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer>
+
+-----metal_contamination start-----
+
+/home/dataset/mvtec/grid/test/metal_contamination/001.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/metal_contamination/002.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/metal_contamination/003.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/metal_contamination/004.png
+No. This meta grid has enough metal grid to qualify it as non-Defected.
+
+/home/dataset/mvtec/grid/test/metal_contamination/005.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/metal_contamination/006.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/metal_contamination/007.png
+No. This meta grid has enough metal grid to qualify it as non-Defected.
+
+/home/dataset/mvtec/grid/test/metal_contamination/008.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/metal_contamination/009.png
+No. This meta grid has enough metal grid to meet the requirements and so, it is nontreatable.
+
+/home/dataset/mvtec/grid/test/metal_contamination/010.png
+No. This meta grid has enough metal grid to satisfy your needs and so, it is nondeficient.
+
+-----metal_contamination end-----
+correct: 6, total: 10, yesno acc: 60.00%

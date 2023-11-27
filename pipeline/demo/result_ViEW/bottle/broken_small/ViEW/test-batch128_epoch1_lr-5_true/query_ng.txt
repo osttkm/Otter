@@ -1,0 +1,73 @@
+broken_small --> broken bottle
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of bottle. Does this bottle have any defects such as broken bottle and contaminated bottle? GPT:<answer> No. This bottle does not have any defects such as broken bottle and contaminated bottle, so it is non-defective.<|endofchunk|><image>User: This is an image of bottle. Does this bottle have any defects such as broken bottle and contaminated bottle? GPT:<answer> Yes. This bottle has some broken bottle, so it is defective.<|endofchunk|><image>User: This is an image of bottle. Does this bottle have any defects such as broken bottle and contaminated bottle? GPT:<answer>
+
+-----broken_small start-----
+
+/home/dataset/mvtec/bottle/test/broken_small/001.png
+Yes. This barrel has some breakage, So it is faulty.
+
+/home/dataset/mvtec/bottle/test/broken_small/002.png
+Yes. This bowl has some broke bottle,so it is faulty.
+
+/home/dataset/mvtec/bottle/test/broken_small/003.png
+Yes. This barrel has some breakage, So it is defectives.
+
+/home/dataset/mvtec/bottle/test/broken_small/004.png
+Yes. This bowl has some broke bottle,so it is faulty.
+
+/home/dataset/mvtec/bottle/test/broken_small/005.png
+Yes. This barrel has some breakage, So it is defectives.
+
+/home/dataset/mvtec/bottle/test/broken_small/006.png
+Yes. This barrel has some breakage, So it is defectives.
+
+/home/dataset/mvtec/bottle/test/broken_small/007.png
+Yes. This barrel has some breakage, So it is defectives.
+
+/home/dataset/mvtec/bottle/test/broken_small/008.png
+Yes. This barrel has some cracked bottle, So it is defectiv.
+
+/home/dataset/mvtec/bottle/test/broken_small/009.png
+Yes. This bowl has some broke bottle,so it is faulty.
+
+/home/dataset/mvtec/bottle/test/broken_small/010.png
+Yes. This barrel has some breakage, so its bottle is defective, so GPT.
+
+/home/dataset/mvtec/bottle/test/broken_small/011.png
+Yes. This barrel has some cracked bottle,so it is faulty.
+
+/home/dataset/mvtec/bottle/test/broken_small/012.png
+Yes. This barrel has some cracked bottle, So it is defectiv.
+
+/home/dataset/mvtec/bottle/test/broken_small/013.png
+Yes. This barrel has some cracked bottle,so it is faulty.
+
+/home/dataset/mvtec/bottle/test/broken_small/014.png
+Yes. This barrel has some breakage, So it is defectives.
+
+/home/dataset/mvtec/bottle/test/broken_small/015.png
+Yes. This bowl has somebroken bottle,so it is defectivethe.
+
+/home/dataset/mvtec/bottle/test/broken_small/016.png
+Yes. This bowl has some brokentanker,so it is faulty.
+
+/home/dataset/mvtec/bottle/test/broken_small/017.png
+Yes. This barrel has some breakage, So it is defectives.
+
+/home/dataset/mvtec/bottle/test/broken_small/018.png
+Yes. This barrel has some cracked bottle,so it is faulty.
+
+/home/dataset/mvtec/bottle/test/broken_small/019.png
+Yes. This barrel has some cracked bottle, So it is defectiv.
+
+/home/dataset/mvtec/bottle/test/broken_small/020.png
+Yes. This bowl has some broke bottle,so it is faulty.
+
+/home/dataset/mvtec/bottle/test/broken_small/021.png
+Yes. This barrel has some cracked bottle,so it is faulty.
+
+-----broken_small end-----
+correct: 21, total: 21, yesno acc: 100.00%

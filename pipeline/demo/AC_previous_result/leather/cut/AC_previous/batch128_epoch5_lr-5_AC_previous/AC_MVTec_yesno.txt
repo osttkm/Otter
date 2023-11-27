@@ -1,0 +1,66 @@
+cut --> scratch
+-----cut start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/leather/test/cut/000.png
+tear.
+
+/home/dataset/mvtec/leather/test/cut/001.png
+crack.
+
+/home/dataset/mvtec/leather/test/cut/002.png
+crack.
+
+/home/dataset/mvtec/leather/test/cut/003.png
+tear.
+
+/home/dataset/mvtec/leather/test/cut/004.png
+tear.
+
+/home/dataset/mvtec/leather/test/cut/005.png
+crack.
+
+/home/dataset/mvtec/leather/test/cut/006.png
+tear.
+
+/home/dataset/mvtec/leather/test/cut/007.png
+crack.
+
+/home/dataset/mvtec/leather/test/cut/008.png
+tear.
+
+/home/dataset/mvtec/leather/test/cut/009.png
+tear.
+
+/home/dataset/mvtec/leather/test/cut/010.png
+crack.
+
+/home/dataset/mvtec/leather/test/cut/011.png
+crack.
+
+/home/dataset/mvtec/leather/test/cut/012.png
+crack.
+
+/home/dataset/mvtec/leather/test/cut/013.png
+crack.
+
+/home/dataset/mvtec/leather/test/cut/014.png
+tear.
+
+/home/dataset/mvtec/leather/test/cut/015.png
+tear.
+
+/home/dataset/mvtec/leather/test/cut/016.png
+tear.
+
+/home/dataset/mvtec/leather/test/cut/017.png
+crack.
+
+/home/dataset/mvtec/leather/test/cut/018.png
+tear.
+
+-----cut end-----
+yesno correct: 0, total: 19, acc: 0.00%
+reason correct: 0, total: 19, acc: 0.00%
+both correct: 0, total: 19, acc: 0.00%

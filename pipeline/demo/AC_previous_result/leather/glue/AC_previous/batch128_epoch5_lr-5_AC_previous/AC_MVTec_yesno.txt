@@ -1,0 +1,66 @@
+glue --> stain
+-----glue start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/leather/test/glue/000.png
+stain.
+
+/home/dataset/mvtec/leather/test/glue/001.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/002.png
+stain.
+
+/home/dataset/mvtec/leather/test/glue/003.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/004.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/005.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/006.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/007.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/008.png
+leak.
+
+/home/dataset/mvtec/leather/test/glue/009.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/010.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/011.png
+leak.
+
+/home/dataset/mvtec/leather/test/glue/012.png
+stain.
+
+/home/dataset/mvtec/leather/test/glue/013.png
+leak.
+
+/home/dataset/mvtec/leather/test/glue/014.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/015.png
+stain.
+
+/home/dataset/mvtec/leather/test/glue/016.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/017.png
+crack.
+
+/home/dataset/mvtec/leather/test/glue/018.png
+crack.
+
+-----glue end-----
+yesno correct: 0, total: 19, acc: 0.00%
+reason correct: 0, total: 19, acc: 0.00%
+both correct: 0, total: 19, acc: 0.00%

@@ -1,0 +1,46 @@
+bent_wire --> bent cable
+
+query: NG
+
+<image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer>
+
+-----bent_wire start-----
+
+/home/dataset/mvtec/cable/test/bent_wire/001.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/002.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/003.png
+Yes. This cable has some poked cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/004.png
+Yes. This cable has some poked Cable, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/005.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/006.png
+Yes. This cable has some poked Cable, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/007.png
+Yes. This cable has some poked Cable, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/008.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/009.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/010.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/011.png
+Yes. This cable has some copper nails, so it is defective.
+
+/home/dataset/mvtec/cable/test/bent_wire/012.png
+Yes. This cable has some swapped cables, so it is defective.
+
+-----bent_wire end-----
+correct: 12, total: 12, yesno acc: 100.00%

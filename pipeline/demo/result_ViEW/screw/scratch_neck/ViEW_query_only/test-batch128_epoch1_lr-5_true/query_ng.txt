@@ -1,0 +1,82 @@
+scratch_neck --> scratched screw
+
+query: NG
+
+<image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer>
+
+-----scratch_neck start-----
+
+/home/dataset/mvtec/screw/test/scratch_neck/001.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/002.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/003.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/004.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/005.png
+No. This screw does not have any defective such as strip-screwed, scratched screen, and damaged screen, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/006.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/007.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/008.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/009.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/010.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/011.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/012.png
+No. This screw does not have any defective such as strip-screwed, scratched screen, and damaged screen, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/013.png
+No. This screw does not have any faults such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/014.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/015.png
+Yes. This screw has some broken screw, so it is defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/016.png
+Yes. This screw has some broken screw, so it is defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/017.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/018.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/019.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/020.png
+No. This screw does not have any defective such as strip-screwed, scratched screen, and damaged screen, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/021.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/022.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/023.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+/home/dataset/mvtec/screw/test/scratch_neck/024.png
+No. This screw does not have any defective such as striped screw, Scratched screw, broken screw, so it is non-defective.
+
+-----scratch_neck end-----
+correct: 2, total: 24, yesno acc: 8.33%

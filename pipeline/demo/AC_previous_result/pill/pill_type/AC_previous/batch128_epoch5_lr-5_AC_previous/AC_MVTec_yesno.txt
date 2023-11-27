@@ -1,0 +1,36 @@
+pill_type --> stain
+-----pill_type start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/pill/test/pill_type/000.png
+stain.
+
+/home/dataset/mvtec/pill/test/pill_type/001.png
+fading.
+
+/home/dataset/mvtec/pill/test/pill_type/002.png
+fading.
+
+/home/dataset/mvtec/pill/test/pill_type/003.png
+fading.
+
+/home/dataset/mvtec/pill/test/pill_type/004.png
+None.
+
+/home/dataset/mvtec/pill/test/pill_type/005.png
+fading.
+
+/home/dataset/mvtec/pill/test/pill_type/006.png
+fading.
+
+/home/dataset/mvtec/pill/test/pill_type/007.png
+None.
+
+/home/dataset/mvtec/pill/test/pill_type/008.png
+None.
+
+-----pill_type end-----
+yesno correct: 0, total: 9, acc: 0.00%
+reason correct: 0, total: 9, acc: 0.00%
+both correct: 0, total: 9, acc: 0.00%

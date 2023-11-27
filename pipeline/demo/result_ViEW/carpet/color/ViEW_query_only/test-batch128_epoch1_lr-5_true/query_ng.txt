@@ -1,0 +1,64 @@
+color --> stained carpet
+
+query: NG
+
+<image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer>
+
+-----color start-----
+
+/home/dataset/mvtec/carpet/test/color/001.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/002.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/003.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/004.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/005.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/006.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/007.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/008.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/009.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/010.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/011.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/012.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/013.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/014.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/015.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/016.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/017.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/color/018.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+-----color end-----
+correct: 18, total: 18, yesno acc: 100.00%

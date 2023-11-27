@@ -1,0 +1,58 @@
+fabric_border --> torn zipper
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer> No. This zipper does not have any defects such as broken zipper, torn zipper, and damaged zipper, so it is non-defective.<|endofchunk|><image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer> Yes. This zipper has some torn zipper, so it is defective.<|endofchunk|><image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer>
+
+-----fabric_border start-----
+
+/home/dataset/mvtec/zipper/test/fabric_border/001.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_border/002.png
+Yes. This zip has some ripped zipper tape, so its defective. This ZIPPER has some Ripped Zipper Tape.
+
+/home/dataset/mvtec/zipper/test/fabric_border/003.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_border/004.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_border/005.png
+No. This zippered has some ripped zippers, so It is defective, so.
+
+/home/dataset/mvtec/zipper/test/fabric_border/006.png
+Yes. This Zipper has Some Torn Zipper,...
+
+/home/dataset/mvtec/zipper/test/fabric_border/007.png
+Yes. This Zipper has Some Torn Zipper,...
+
+/home/dataset/mvtec/zipper/test/fabric_border/008.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_border/009.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_border/010.png
+No. This zippered has no defective such as broke zippers, torn zipzippers, and damage zipzickers, so its non-DEfectiv.
+
+/home/dataset/mvtec/zipper/test/fabric_border/011.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_border/012.png
+No. This zippered is nondeffective, so its DefectiveZipper.
+
+/home/dataset/mvtec/zipper/test/fabric_border/013.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_border/014.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_border/015.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+/home/dataset/mvtec/zipper/test/fabric_border/016.png
+Yes. This Zipper has Some Torn Zipper, So It Is Defectivo.
+
+-----fabric_border end-----
+correct: 13, total: 16, yesno acc: 81.25%

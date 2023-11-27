@@ -1,0 +1,181 @@
+missing_wire --> missing cable
+
+context1: OK, context2: NG, query: OK
+
+<image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> No. This cable does not have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable, so it is non-defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> Yes. This cable has some missing cable, so it is defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer>
+
+-----missing_wire start-----
+
+/home/dataset/mvtec/cable/test/good/001.png
+Yes. This wire has some missed cable, So it is faulty.
+
+/home/dataset/mvtec/cable/test/good/002.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/003.png
+Yes. This wire has some missin cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/good/004.png
+Yes. This wire has some missng cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/005.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/006.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/007.png
+Yes. This wire has some missed cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/008.png
+Yes. This wire has some misscable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/009.png
+Yes. This wire has some copper cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/good/010.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/011.png
+Yes. This wire has some missng cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/good/012.png
+Yes. This wire has some copper cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/good/013.png
+Yes. This cord has some missng cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/014.png
+Yes. This wire has some missed cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/015.png
+Yes. This cord has some missng cable,so it is defectivet.
+
+/home/dataset/mvtec/cable/test/good/016.png
+Yes. This wire has some missng cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/017.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/018.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/019.png
+Yes. This wire has some missed cable, So it is faulty.
+
+/home/dataset/mvtec/cable/test/good/020.png
+Yes. This wire has some misscable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/021.png
+Yes. This wire has some missed cable, So it is faulty.
+
+/home/dataset/mvtec/cable/test/good/022.png
+Yes. This wire has some missng cable,so it is defectivet.
+
+/home/dataset/mvtec/cable/test/good/023.png
+Yes. This wire has some missin cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/024.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/025.png
+Yes. This wire has some missng cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/026.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/027.png
+Yes. This wire has some missin cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/028.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/029.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/030.png
+Yes. This wire has some copper cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/good/031.png
+Yes. This wire has some miss cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/032.png
+Yes. This wire has some missng cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/033.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/034.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/035.png
+Yes. This wire has some missings cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/036.png
+Yes. This wire has some missng cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/037.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/038.png
+Yes. This wire has some misscable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/039.png
+Yes. This wire has some missng cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/040.png
+Yes. This wire has some missng cable,so it is defectiive..
+
+/home/dataset/mvtec/cable/test/good/041.png
+Yes. This wire has some missng cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/042.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/043.png
+Yes. This wire has some missng cable,so it is defectiive..
+
+/home/dataset/mvtec/cable/test/good/044.png
+Yes. This wire has some copper cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/good/045.png
+Yes. This wire has some missng cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/046.png
+Yes. This wire has some copper cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/good/047.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/048.png
+Yes. This wire has some copper cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/good/049.png
+Yes. This wire has some missed cable, So it is faulty.
+
+/home/dataset/mvtec/cable/test/good/050.png
+Yes. This wire has some missng cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/good/051.png
+Yes. This cage has some copper cable, So it is faulty.
+
+/home/dataset/mvtec/cable/test/good/052.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/053.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/054.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/055.png
+Yes. This wire has some missin cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/good/056.png
+Yes. This wire has some missin cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/good/057.png
+Yes. This wire has some missng cable,so it is defectiv.
+
+-----missing_wire end-----
+correct: 0, total: 57, yesno acc: 0.00%

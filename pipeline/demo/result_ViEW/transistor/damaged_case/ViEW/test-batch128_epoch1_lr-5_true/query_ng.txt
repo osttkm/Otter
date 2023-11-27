@@ -1,0 +1,37 @@
+damaged_case --> damaged transistor
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer> No. This transistor does not have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor, so it is non-defective.<|endofchunk|><image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer> Yes. This transistor has some damaged transistor, so it is defective.<|endofchunk|><image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer>
+
+-----damaged_case start-----
+
+/home/dataset/mvtec/transistor/test/damaged_case/001.png
+Yes. This transmitter has some defective transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/damaged_case/002.png
+Yes. This transmitter has some defective transistor, So it is faulty.
+
+/home/dataset/mvtec/transistor/test/damaged_case/003.png
+Yes. This transformer has some burnt transistor, So it is faulty.
+
+/home/dataset/mvtec/transistor/test/damaged_case/004.png
+Yes. This transmitter has some defective transistor, So it is faulty.
+
+/home/dataset/mvtec/transistor/test/damaged_case/005.png
+Yes. This transmitter has some defective transistor, So it is faulty.
+
+/home/dataset/mvtec/transistor/test/damaged_case/006.png
+Yes. This transmitter has some defective transistor, So it is faulty.
+
+/home/dataset/mvtec/transistor/test/damaged_case/007.png
+Yes. This transmitter has some defective transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/damaged_case/008.png
+Yes. This transmitter has some defective transistor, So it is faulty.
+
+/home/dataset/mvtec/transistor/test/damaged_case/009.png
+Yes. This transmitter has some damage transistor,so it is faulty.
+
+-----damaged_case end-----
+correct: 9, total: 9, yesno acc: 100.00%

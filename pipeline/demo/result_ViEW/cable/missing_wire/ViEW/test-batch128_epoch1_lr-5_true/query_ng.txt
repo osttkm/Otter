@@ -1,0 +1,37 @@
+missing_wire --> missing cable
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> No. This cable does not have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable, so it is non-defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> Yes. This cable has some missing cable, so it is defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer>
+
+-----missing_wire start-----
+
+/home/dataset/mvtec/cable/test/missing_wire/001.png
+Yes. This wire has some missng cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/missing_wire/002.png
+Yes. This wire has some missng cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/missing_wire/003.png
+Yes. This wire has some missng cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/missing_wire/004.png
+Yes. This wire has some missng cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/missing_wire/005.png
+Yes. This wire has some missng cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/missing_wire/006.png
+Yes. This wire has some missng cable,so it is defectivo.
+
+/home/dataset/mvtec/cable/test/missing_wire/007.png
+Yes. This wire has some missng cable,so it is defectiive..
+
+/home/dataset/mvtec/cable/test/missing_wire/008.png
+Yes. This wire has some missng cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/missing_wire/009.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+-----missing_wire end-----
+correct: 9, total: 9, yesno acc: 100.00%

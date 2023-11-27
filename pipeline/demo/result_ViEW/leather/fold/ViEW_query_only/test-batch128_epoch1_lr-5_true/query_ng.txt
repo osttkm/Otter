@@ -1,0 +1,58 @@
+fold --> folded leather
+
+query: NG
+
+<image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer>
+
+-----fold start-----
+
+/home/dataset/mvtec/leather/test/fold/001.png
+No. This leather does not have any defective such as stains, cut leatherare, folded leatherapoked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/fold/002.png
+No. This leather does not have any defective such asstained leather,cut leather,folded leather,and pokedleather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/fold/003.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/fold/004.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/fold/005.png
+No. This leather does not have any defective such as stains, cut leatherare, folded leatherapoked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/fold/006.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/fold/007.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/fold/008.png
+Yes. This leather has some pinched leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/fold/009.png
+No. This leather does not have any defective such asstained leather,cut leather,folded leather,and pokedleather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/fold/010.png
+No. This leather does not have any defective such as stains, cut leatherare, folded leatherapoked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/fold/011.png
+No. This leather does not have any defective such asstained leather,cut leather,folded leather,and pokedleather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/fold/012.png
+No. This leather does not have any defective such as stains, cut leatherare, folded leatherapoked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/fold/013.png
+No. This leather does not have any defective such as staining, cut, folded, and poked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/fold/014.png
+No. This leather does not have any defective such as stains, cut leatherare, folded leatherapoked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/fold/015.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/fold/016.png
+No. This leather does not have any defective such asstained leather,cut leather,folded leather,and pokedleather, so it is non-defective.
+
+-----fold end-----
+correct: 6, total: 16, yesno acc: 37.50%

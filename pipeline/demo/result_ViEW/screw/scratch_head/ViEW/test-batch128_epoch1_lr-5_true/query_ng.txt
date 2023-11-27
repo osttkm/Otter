@@ -1,0 +1,79 @@
+scratch_head --> scratched screw
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer> No. This screw does not have any defects such as stripped screw, scratched screw, and broken screw, so it is non-defective.<|endofchunk|><image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer> Yes. This screw has some scratched screw, so it is defective.<|endofchunk|><image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer>
+
+-----scratch_head start-----
+
+/home/dataset/mvtec/screw/test/scratch_head/001.png
+Yes. This nail has some screwed, so its non-Defective, so, it is Defective Screw.
+
+/home/dataset/mvtec/screw/test/scratch_head/002.png
+No. This nail has no defects such As Striped nail, Scratched nail, and Broken nail, so It is Non-defected.
+
+/home/dataset/mvtec/screw/test/scratch_head/003.png
+No. This nail has some screwed, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/scratch_head/004.png
+No. This nail has some screwed, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/005.png
+Yes. This nail has some stripped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/006.png
+Yes. This nail has some stripped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/007.png
+Yes. This nail has some stripped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/008.png
+No. This nail has some screwed, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/009.png
+No. This nail has some screwed, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/010.png
+No. This nail has some screwed, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/scratch_head/011.png
+Yes. This nail has some screwed, so its non-Defective, so, it is Non-Defected.
+
+/home/dataset/mvtec/screw/test/scratch_head/012.png
+No. This nail has no defects such As Striped nail, Scratched nail, and Broken nail, so It is Non-defected.
+
+/home/dataset/mvtec/screw/test/scratch_head/013.png
+Yes. This nail has some stripped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/014.png
+No. This nail has some screwed, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/015.png
+Yes. This nail has some stripped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/016.png
+Yes. This nail has some screwed, so its non-Defective, so, it is Non-Defected.
+
+/home/dataset/mvtec/screw/test/scratch_head/017.png
+No. This nail has no defects such As Striped nail, Scratched nail, and Broken nail, so It is Non-defected.
+
+/home/dataset/mvtec/screw/test/scratch_head/018.png
+No. This nail has no defects such As Striped nail, Scratched nail, and Broken nail, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/scratch_head/019.png
+Yes. This nail has some stripped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/020.png
+No. This nail has some screwed, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/021.png
+No. This nail has no defects such As Striped nail, Scratched nail, and Broken nail, so It is Non-defected.
+
+/home/dataset/mvtec/screw/test/scratch_head/022.png
+No. This nail has some screwed, so It is defective..
+
+/home/dataset/mvtec/screw/test/scratch_head/023.png
+Yes. This nail has some stripped nail, so It is defective..
+
+-----scratch_head end-----
+correct: 10, total: 23, yesno acc: 43.48%

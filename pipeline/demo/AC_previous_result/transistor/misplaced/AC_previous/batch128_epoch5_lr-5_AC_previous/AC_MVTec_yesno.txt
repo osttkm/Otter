@@ -1,0 +1,39 @@
+misplaced --> misalignment
+-----misplaced start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/transistor/test/misplaced/000.png
+crack.
+
+/home/dataset/mvtec/transistor/test/misplaced/001.png
+broken.
+
+/home/dataset/mvtec/transistor/test/misplaced/002.png
+rust.
+
+/home/dataset/mvtec/transistor/test/misplaced/003.png
+rust.
+
+/home/dataset/mvtec/transistor/test/misplaced/004.png
+broken.
+
+/home/dataset/mvtec/transistor/test/misplaced/005.png
+None.
+
+/home/dataset/mvtec/transistor/test/misplaced/006.png
+burn.
+
+/home/dataset/mvtec/transistor/test/misplaced/007.png
+burn.
+
+/home/dataset/mvtec/transistor/test/misplaced/008.png
+corrosion.
+
+/home/dataset/mvtec/transistor/test/misplaced/009.png
+burn.
+
+-----misplaced end-----
+yesno correct: 0, total: 10, acc: 0.00%
+reason correct: 0, total: 10, acc: 0.00%
+both correct: 0, total: 10, acc: 0.00%

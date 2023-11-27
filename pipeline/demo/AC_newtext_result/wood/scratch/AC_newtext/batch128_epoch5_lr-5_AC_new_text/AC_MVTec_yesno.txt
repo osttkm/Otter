@@ -1,0 +1,72 @@
+scratch --> scratch
+-----scratch start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/wood/test/scratch/000.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/001.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/wood/test/scratch/002.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/wood/test/scratch/003.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/004.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/005.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/scratch/007.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/008.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/009.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/scratch/010.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/011.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/012.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/013.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/scratch/014.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/015.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/scratch/016.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/scratch/017.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/wood/test/scratch/018.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/scratch/019.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/wood/test/scratch/020.png
+Yes. Affirmative, the item exhibits scratch.
+
+-----scratch end-----
+yesno correct: 0, total: 21, acc: 0.00%
+reason correct: 0, total: 21, acc: 0.00%
+both correct: 0, total: 21, acc: 0.00%

@@ -1,0 +1,58 @@
+cut --> scratched hazelnut
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of hazelnut. Does this hazelnut have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut? GPT:<answer> No. This hazelnut does not have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut, so it is non-defective.<|endofchunk|><image>User: This is an image of hazelnut. Does this hazelnut have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut? GPT:<answer> Yes. This hazelnut has some scratched hazelnut, so it is defective.<|endofchunk|><image>User: This is an image of hazelnut. Does this hazelnut have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut? GPT:<answer>
+
+-----cut start-----
+
+/home/dataset/mvtec/hazelnut/test/cut/001.png
+Yes. This hazelnut has Some Scratched Hazelnut,...
+
+/home/dataset/mvtec/hazelnut/test/cut/002.png
+Yes. This hazelnut has Some Scratched Hazelnut,...
+
+/home/dataset/mvtec/hazelnut/test/cut/003.png
+Yes. This Hazelnut Has Some Scratched Hazelnuts, so It Is Defective..
+
+/home/dataset/mvtec/hazelnut/test/cut/004.png
+Yes. This hazelnut has Some Scratched Hazelnuts, so its non-non-defected.
+
+/home/dataset/mvtec/hazelnut/test/cut/005.png
+Yes. This hazelnut has Some Scratched Hazelnut,...
+
+/home/dataset/mvtec/hazelnut/test/cut/006.png
+Yes. This hazelnut has Some Scratched Hazelnut,.
+
+/home/dataset/mvtec/hazelnut/test/cut/007.png
+Yes. This hazelnut has Some Scratched Hazelnut, so its defective. This is a common type of nuts, so the answer is yes.
+
+/home/dataset/mvtec/hazelnut/test/cut/008.png
+Yes. This Hazelnut Has Some Scratched Nut, so It Is Defective..
+
+/home/dataset/mvtec/hazelnut/test/cut/009.png
+Yes. This hazelnut has Some Scratched Hazelnut,...
+
+/home/dataset/mvtec/hazelnut/test/cut/010.png
+Yes. This hazelnut has Some Scratched Hazelnut,.
+
+/home/dataset/mvtec/hazelnut/test/cut/011.png
+Yes. This hazelnut has Some Scratched Hazelnut,...
+
+/home/dataset/mvtec/hazelnut/test/cut/012.png
+Yes. This hazelnut has Some Scratched Hazelnuts, so its defectiveness is true.
+
+/home/dataset/mvtec/hazelnut/test/cut/013.png
+Yes. This hazelnut has Some Scratched Hazelnut,...
+
+/home/dataset/mvtec/hazelnut/test/cut/014.png
+Yes. This Hazelnut Has Some Scratched Hazelnuts, so It Is Defective..
+
+/home/dataset/mvtec/hazelnut/test/cut/015.png
+Yes. This hazelnut has Some Scratched Hazelnut,.
+
+/home/dataset/mvtec/hazelnut/test/cut/016.png
+Yes. This hazelnut has Some Scratched Hazelnut,.
+
+-----cut end-----
+correct: 16, total: 16, yesno acc: 100.00%

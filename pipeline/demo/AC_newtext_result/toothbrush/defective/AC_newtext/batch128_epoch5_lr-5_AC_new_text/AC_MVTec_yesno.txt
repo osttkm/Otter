@@ -1,0 +1,99 @@
+defective --> broken
+-----defective start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/toothbrush/test/defective/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/009.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/015.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/018.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/019.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/020.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/021.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/022.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/023.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/024.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/025.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/026.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/027.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/028.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/toothbrush/test/defective/029.png
+No. Certainly not, the product is without defects.
+
+-----defective end-----
+yesno correct: 0, total: 30, acc: 0.00%
+reason correct: 0, total: 30, acc: 0.00%
+both correct: 0, total: 30, acc: 0.00%

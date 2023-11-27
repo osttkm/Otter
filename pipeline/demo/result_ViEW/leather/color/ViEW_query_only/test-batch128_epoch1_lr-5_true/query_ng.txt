@@ -1,0 +1,64 @@
+color --> stained leather
+
+query: NG
+
+<image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer>
+
+-----color start-----
+
+/home/dataset/mvtec/leather/test/color/001.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/002.png
+No. This leather does not have any defective such as stains, cut leatherare, folded leatherapoked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/color/003.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/004.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/005.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/006.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/007.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/008.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/009.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/010.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/011.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/012.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/013.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/014.png
+No. This leather does not have any defective such asstained leather,cut leather,folded leather,and pokedleather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/color/015.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/016.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/017.png
+Yes. This leather has some blood-stained leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/color/018.png
+Yes. This leather has some Poked leather, so it is defective.
+
+-----color end-----
+correct: 16, total: 18, yesno acc: 88.89%

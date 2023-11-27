@@ -1,0 +1,52 @@
+rough --> stained tile
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer> No. This tile does not have any defects such as cracked tile, contaminated tile, and stained tile, so it is non-defective.<|endofchunk|><image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer> Yes. This tile has some stained tile, so it is defective.<|endofchunk|><image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer>
+
+-----rough start-----
+
+/home/dataset/mvtec/tile/test/rough/001.png
+Yes. This tube has some contaminated tile. So, it is faulty.
+
+/home/dataset/mvtec/tile/test/rough/002.png
+Yes. This tube has some contaminated tile. So, it is faulty.
+
+/home/dataset/mvtec/tile/test/rough/003.png
+Yes. This tube has some contaminated tile. So, it is faulty.
+
+/home/dataset/mvtec/tile/test/rough/004.png
+Yes. This tube has some contaminated tile. So, it is faulty.
+
+/home/dataset/mvtec/tile/test/rough/005.png
+Yes. This tube has some spotted tile,so it is faulty.
+
+/home/dataset/mvtec/tile/test/rough/006.png
+Yes. This tube has some spoiled milk in it and is defective, so the milk is contaminated.
+
+/home/dataset/mvtec/tile/test/rough/007.png
+Yes. This tube has some spoiled food, so its food content is contaminated, and it is contaminated tube.
+
+/home/dataset/mvtec/tile/test/rough/008.png
+Yes. This tube has some contaminated tile. So, it is faulty.
+
+/home/dataset/mvtec/tile/test/rough/009.png
+Yes. This tube has some contaminated tile. So, it is faulty.
+
+/home/dataset/mvtec/tile/test/rough/010.png
+Yes. This tube has some spoiled food in it and is defective, so the food is contaminated.
+
+/home/dataset/mvtec/tile/test/rough/011.png
+Yes. This tube has some contaminated tile. So, it is faulty.
+
+/home/dataset/mvtec/tile/test/rough/012.png
+Yes. This tube has some spoiled milk in it and is contaminated, so its non-spoiled milk tube is defective, so the answer is yes.
+
+/home/dataset/mvtec/tile/test/rough/013.png
+Yes. This tube has some contaminated tile,[1,1].
+
+/home/dataset/mvtec/tile/test/rough/014.png
+Yes. This tube has some spoiled food in it and is defective, so the food is contaminated.
+
+-----rough end-----
+correct: 14, total: 14, yesno acc: 100.00%

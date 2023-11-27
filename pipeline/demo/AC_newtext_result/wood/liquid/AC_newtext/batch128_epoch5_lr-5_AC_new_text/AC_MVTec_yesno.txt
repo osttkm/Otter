@@ -1,0 +1,39 @@
+liquid --> stain
+-----liquid start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/wood/test/liquid/000.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/liquid/001.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/liquid/002.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/liquid/003.png
+No. I find no defects in this product.
+
+/home/dataset/mvtec/wood/test/liquid/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/liquid/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/liquid/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/liquid/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/liquid/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/wood/test/liquid/009.png
+Yes. Affirmative, the item exhibits water damage.
+
+-----liquid end-----
+yesno correct: 0, total: 10, acc: 0.00%
+reason correct: 0, total: 10, acc: 0.00%
+both correct: 0, total: 10, acc: 0.00%

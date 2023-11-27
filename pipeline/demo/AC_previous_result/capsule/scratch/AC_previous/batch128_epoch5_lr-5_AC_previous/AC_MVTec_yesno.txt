@@ -1,0 +1,78 @@
+scratch --> scratch
+-----scratch start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/capsule/test/scratch/000.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/001.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/002.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/003.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/004.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/005.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/006.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/007.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/008.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/009.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/010.png
+scratch.
+
+/home/dataset/mvtec/capsule/test/scratch/011.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/012.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/013.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/014.png
+500.
+
+/home/dataset/mvtec/capsule/test/scratch/015.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/016.png
+500.
+
+/home/dataset/mvtec/capsule/test/scratch/017.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/018.png
+scratch.
+
+/home/dataset/mvtec/capsule/test/scratch/019.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/020.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/021.png
+None.
+
+/home/dataset/mvtec/capsule/test/scratch/022.png
+None.
+
+-----scratch end-----
+yesno correct: 0, total: 23, acc: 0.00%
+reason correct: 0, total: 23, acc: 0.00%
+both correct: 0, total: 23, acc: 0.00%

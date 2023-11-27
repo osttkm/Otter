@@ -1,0 +1,37 @@
+liquid --> stained wood
+
+query: NG
+
+<image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer>
+
+-----liquid start-----
+
+/home/dataset/mvtec/wood/test/liquid/001.png
+Yes. This wood has some stained wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/liquid/002.png
+Yes. This wood has some wood withholes, so it is defective.
+
+/home/dataset/mvtec/wood/test/liquid/003.png
+Yes. This wood has some wooden holes, so it is defective.
+
+/home/dataset/mvtec/wood/test/liquid/004.png
+Yes. This wood has some wooden holes, so it is defective.
+
+/home/dataset/mvtec/wood/test/liquid/005.png
+Yes. This wood has some wooden holes, so it is defective.
+
+/home/dataset/mvtec/wood/test/liquid/006.png
+No. This wood does not have anydefects such asstained wood,scratched wood,and wood withholes, so it is non-defective.
+
+/home/dataset/mvtec/wood/test/liquid/007.png
+Yes. This wood has some wood withholes, so it is defective.
+
+/home/dataset/mvtec/wood/test/liquid/008.png
+Yes. This wood has some stained wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/liquid/009.png
+Yes. This wood has some water-stained wood, so it is defective.
+
+-----liquid end-----
+correct: 8, total: 9, yesno acc: 88.89%

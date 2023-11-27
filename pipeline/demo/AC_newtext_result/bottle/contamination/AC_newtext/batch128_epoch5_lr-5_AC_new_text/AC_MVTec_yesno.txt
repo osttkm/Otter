@@ -1,0 +1,72 @@
+contamination --> contamination
+-----contamination start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/bottle/test/contamination/000.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/001.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/002.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/005.png
+Yes. Affirmative, the item exhibits chip.
+
+/home/dataset/mvtec/bottle/test/contamination/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/009.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/010.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/011.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/012.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/013.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/014.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/015.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/016.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/017.png
+Yes. Affirmative, the item exhibits burn.
+
+/home/dataset/mvtec/bottle/test/contamination/018.png
+Yes. Affirmative, the item exhibits burn.
+
+/home/dataset/mvtec/bottle/test/contamination/019.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/contamination/020.png
+No. Negative, the product shown is devoid of any defects.
+
+-----contamination end-----
+yesno correct: 0, total: 21, acc: 0.00%
+reason correct: 0, total: 21, acc: 0.00%
+both correct: 0, total: 21, acc: 0.00%

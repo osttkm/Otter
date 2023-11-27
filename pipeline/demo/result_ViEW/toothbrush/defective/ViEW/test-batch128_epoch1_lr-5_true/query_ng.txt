@@ -1,0 +1,97 @@
+defective --> damaged toothbrush
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of toothbrush. Does this toothbrush have any defects such as damaged toothbrush? GPT:<answer> No. This toothbrush does not have any defects such as damaged toothbrush, so it is non-defective.<|endofchunk|><image>User: This is an image of toothbrush. Does this toothbrush have any defects such as damaged toothbrush? GPT:<answer> Yes. This toothbrush has some damaged toothbrush, so it is defective.<|endofchunk|><image>User: This is an image of toothbrush. Does this toothbrush have any defects such as damaged toothbrush? GPT:<answer>
+
+-----defective start-----
+
+/home/dataset/mvtec/toothbrush/test/defective/001.png
+Yes. This toilet brush has some deformed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/002.png
+Yes. This toilet brush has some contaminated toothbrush heads, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/003.png
+Yes. This toilet brush has some deformed toothbrush heads, so It is defective,
+
+/home/dataset/mvtec/toothbrush/test/defective/004.png
+Yes. This toilet brush has some destroyed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/005.png
+Yes. This toilet brush has some destroyed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/006.png
+Yes. This toilet brush has some destroyed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/007.png
+Yes. This toilet brush has some destroyed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/008.png
+Yes. This toilet brush has some infected toothbrush head, so its toothbrush is infected and defective. This is a common type of defective product.
+
+/home/dataset/mvtec/toothbrush/test/defective/009.png
+Yes. This toilet brush has some deformed toothbrush heads, so It is defective,
+
+/home/dataset/mvtec/toothbrush/test/defective/010.png
+Yes. This toilet brush has some mutated toothbrush spores, so its toothbrush spore is defective, so is the brush.
+
+/home/dataset/mvtec/toothbrush/test/defective/011.png
+Yes. This toilet brush has some destroyed toothbrush brush heads, so its defective, so.
+
+/home/dataset/mvtec/toothbrush/test/defective/012.png
+Yes. This toilet brush has some destroyed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/013.png
+Yes. This toilet brush has some destroyed toothbrush brush heads,so it is faulty.
+
+/home/dataset/mvtec/toothbrush/test/defective/014.png
+Yes. This toilet brush has some destroyed toothbrush brush,so it is faulty.
+
+/home/dataset/mvtec/toothbrush/test/defective/015.png
+Yes. This toilet brush has some destroyed toothbrush brush heads, so its defective, so.
+
+/home/dataset/mvtec/toothbrush/test/defective/016.png
+Yes. This toilet brush has some destroyed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/017.png
+Yes. This toilet brush has some destroyed toothbrush bristles, So it is defectives.
+
+/home/dataset/mvtec/toothbrush/test/defective/018.png
+Yes. This toilet brush has some destroyed toothbrush brush heads,so it is faulty.
+
+/home/dataset/mvtec/toothbrush/test/defective/019.png
+Yes. This toilet brush has some destroyed toothbrush brush heads,so it is faulty.
+
+/home/dataset/mvtec/toothbrush/test/defective/020.png
+Yes. This toilet brush has some destroyed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/021.png
+Yes. This toilet brush has some destroyed toothbrush heads, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/022.png
+Yes. This toilet brush has some destroyed toothbrush brush head, so its toothbrush head is damaged, and it is defectively.
+
+/home/dataset/mvtec/toothbrush/test/defective/023.png
+Yes. This toilet brush has some destroyed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/024.png
+Yes. This toilet brush has some destroyed toothbrush brush heads, so It is faulty.
+
+/home/dataset/mvtec/toothbrush/test/defective/025.png
+Yes. This toilet brush has some destroyed toothbrush bristles, So it is faulty.
+
+/home/dataset/mvtec/toothbrush/test/defective/026.png
+Yes. This toilet brush has some destroyed toothbrush brush, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/027.png
+Yes. This toilet brush has some contaminated toothbrush heads, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/028.png
+Yes. This toilet brush has some deformed toothbrush heads, so It is defective..
+
+/home/dataset/mvtec/toothbrush/test/defective/029.png
+Yes. This toilet brush has some destroyed toothbrush brush head, so its defective, so.
+
+-----defective end-----
+correct: 29, total: 29, yesno acc: 100.00%

@@ -1,0 +1,58 @@
+hole --> carpet with holes
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer> No. This carpet does not have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet, so it is non-defective.<|endofchunk|><image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer> Yes. This carpet has some carpet with holes, so it is defective.<|endofchunk|><image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer>
+
+-----hole start-----
+
+/home/dataset/mvtec/carpet/test/hole/001.png
+Yes. This carpeting has some carpeting with holes,...
+
+/home/dataset/mvtec/carpet/test/hole/002.png
+Yes. This carpeting has some carpeting with holes,[ref]so it is faulty.
+
+/home/dataset/mvtec/carpet/test/hole/003.png
+Yes. This carpeting has some carpeting with holes,[ref]so it is faulty.
+
+/home/dataset/mvtec/carpet/test/hole/004.png
+Yes. This carpeting has some carpeting with holes,[ref]so it is faulty.
+
+/home/dataset/mvtec/carpet/test/hole/005.png
+Yes. This carpeting has some carpeting with holes,[ref]so it is faulty.
+
+/home/dataset/mvtec/carpet/test/hole/006.png
+Yes. This carpeting has some carpeting with holes,[ref]so it is faulty.
+
+/home/dataset/mvtec/carpet/test/hole/007.png
+Yes. This carpeting has some carpeting with holes,[1,2,3], so it ist defective. 1.
+
+/home/dataset/mvtec/carpet/test/hole/008.png
+Yes. This carpeting has some carpeting with holes,...
+
+/home/dataset/mvtec/carpet/test/hole/009.png
+Yes. This carpeting has some carpeting with holes,[ref]so it is faulty.
+
+/home/dataset/mvtec/carpet/test/hole/010.png
+Yes. This carpeting has some carpeting with holes. So it is faulty.
+
+/home/dataset/mvtec/carpet/test/hole/011.png
+Yes. This carpeting has some carpeting with holes,[ref]so it is faulty.
+
+/home/dataset/mvtec/carpet/test/hole/012.png
+Yes. This carpeting has some carpeting with holes,[ref]so it is faulty.
+
+/home/dataset/mvtec/carpet/test/hole/013.png
+Yes. This carpeting has some carpeting with holes,...
+
+/home/dataset/mvtec/carpet/test/hole/014.png
+Yes. This carpeting has some carpeting with holes,...
+
+/home/dataset/mvtec/carpet/test/hole/015.png
+Yes. This carpeting has some carpeting with holes,...
+
+/home/dataset/mvtec/carpet/test/hole/016.png
+Yes. This carpeting has some carpeting with holes,...
+
+-----hole end-----
+correct: 16, total: 16, yesno acc: 100.00%

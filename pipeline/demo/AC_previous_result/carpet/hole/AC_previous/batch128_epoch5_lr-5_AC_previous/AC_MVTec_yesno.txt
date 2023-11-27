@@ -1,0 +1,60 @@
+hole --> hole
+-----hole start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/carpet/test/hole/000.png
+None.
+
+/home/dataset/mvtec/carpet/test/hole/001.png
+None.
+
+/home/dataset/mvtec/carpet/test/hole/002.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/003.png
+None.
+
+/home/dataset/mvtec/carpet/test/hole/004.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/005.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/006.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/007.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/008.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/009.png
+burn.
+
+/home/dataset/mvtec/carpet/test/hole/010.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/011.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/012.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/013.png
+None.
+
+/home/dataset/mvtec/carpet/test/hole/014.png
+tear.
+
+/home/dataset/mvtec/carpet/test/hole/015.png
+None.
+
+/home/dataset/mvtec/carpet/test/hole/016.png
+tear.
+
+-----hole end-----
+yesno correct: 0, total: 17, acc: 0.00%
+reason correct: 0, total: 17, acc: 0.00%
+both correct: 0, total: 17, acc: 0.00%

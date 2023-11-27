@@ -1,0 +1,84 @@
+bent --> bent
+-----bent start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/metal_nut/test/bent/000.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/bent/001.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/002.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/003.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/004.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/005.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/bent/006.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/007.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/008.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/009.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/010.png
+tarnish.
+
+/home/dataset/mvtec/metal_nut/test/bent/011.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/bent/012.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/bent/013.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/014.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/015.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/016.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/017.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/018.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/019.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/020.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/bent/021.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/bent/022.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/023.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/bent/024.png
+crack.
+
+-----bent end-----
+yesno correct: 0, total: 25, acc: 0.00%
+reason correct: 0, total: 25, acc: 0.00%
+both correct: 0, total: 25, acc: 0.00%

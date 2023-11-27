@@ -1,0 +1,43 @@
+missing_cable --> missing cable
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> No. This cable does not have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable, so it is non-defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> Yes. This cable has some missing cable, so it is defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer>
+
+-----missing_cable start-----
+
+/home/dataset/mvtec/cable/test/missing_cable/001.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/missing_cable/002.png
+Yes. This wire has some miss cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/missing_cable/003.png
+Yes. This wire has some copper cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/missing_cable/004.png
+Yes. This wire has some missng cable,so it is defects.
+
+/home/dataset/mvtec/cable/test/missing_cable/005.png
+Yes. This wire has some missign cable,so it is defectiv.
+
+/home/dataset/mvtec/cable/test/missing_cable/006.png
+Yes. This wire has some missed cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/missing_cable/007.png
+Yes. This wire has some missed cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/missing_cable/008.png
+Yes. This wire has some miss cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/missing_cable/009.png
+Yes. This wire has some missed cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/missing_cable/010.png
+Yes. This wire has some swapped wire, so It is defective..
+
+/home/dataset/mvtec/cable/test/missing_cable/011.png
+Yes. This wire has some miss cable,so it is faulty.
+
+-----missing_cable end-----
+correct: 11, total: 11, yesno acc: 100.00%

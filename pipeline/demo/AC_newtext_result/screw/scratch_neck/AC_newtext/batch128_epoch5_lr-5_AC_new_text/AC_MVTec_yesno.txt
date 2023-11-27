@@ -1,0 +1,84 @@
+scratch_neck --> chip
+-----scratch_neck start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/screw/test/scratch_neck/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/018.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/019.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/020.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/021.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/022.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/023.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/scratch_neck/024.png
+No. Certainly not, the product is without defects.
+
+-----scratch_neck end-----
+yesno correct: 0, total: 25, acc: 0.00%
+reason correct: 0, total: 25, acc: 0.00%
+both correct: 0, total: 25, acc: 0.00%

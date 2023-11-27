@@ -1,0 +1,49 @@
+cut_inner_insulation --> broken cable
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> No. This cable does not have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable, so it is non-defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> Yes. This cable has some broken cable, so it is defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer>
+
+-----cut_inner_insulation start-----
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/001.png
+Yes. This wire has some swapped wire, so It is defective..
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/002.png
+Yes. This wire has some brokencable,so it is defects.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/003.png
+Yes. This wire has some broke cable, So It Is Defected.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/004.png
+Yes. This wire has some bent cable. So, it is defectiv.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/005.png
+Yes. This cord has some bent cable cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/006.png
+Yes. This wire has some brokencable,so it is defects.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/007.png
+Yes. This wire has some bent cable. So, it is defectiv.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/008.png
+Yes. This wire has some broke cable, So It Is Defected.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/009.png
+Yes. This wire has some broke cable, So It Is Defected.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/010.png
+Yes. This cord has some bent cable cable,so it is faulty.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/011.png
+Yes. This wire has some broke cable, So It Is Defected.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/012.png
+Yes. This wire has some broke cable, So It Is Defected.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/013.png
+Yes. This wire has some bent cable. So, it is defectiv.
+
+-----cut_inner_insulation end-----
+correct: 13, total: 13, yesno acc: 100.00%

@@ -1,0 +1,74 @@
+faulty_imprint --> misprinted capsule
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> No. This capsule does not have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule, so it is non-defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> Yes. This capsule has some misprinted capsule, so it is defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer>
+
+-----faulty_imprint start-----
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/001.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/002.png
+Yes. This capslue has some misspelled capslle, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/003.png
+Yes. This capslue has some misspelled capslle, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/004.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, Scratched capsule, damaged capslu, and misprinted capsluo, so It is Non-defected.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/005.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, Scratched capsule, damaged capslu, and misprinted capsluo, so It is Non-defected.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/006.png
+Yes. This capslue has some misspelled capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/007.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/008.png
+Yes. This capslue has some misspelled capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/009.png
+Yes. This capslue has some misspelled capslle, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/010.png
+Yes. This capslue has some misspelled capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/011.png
+Yes. This capslue has some misspelled capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/012.png
+Yes. This capslue has some misspelled capslle, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/013.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/014.png
+Yes. This capslue has some mistyped capsule, So it is faulty.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/015.png
+Yes. This capslue has some misspelled capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/016.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/017.png
+Yes. This capslue has some misspelled capslle, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/018.png
+Yes. This capslue has some misspelled capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/019.png
+Yes. This capslue has some mistyped capslule, so its defective.
+Capsule.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/020.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scratches capsule, damaged capslu, and misprinted capsluo, so its non-Defectives.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/021.png
+Yes. This capslue has some misspelled capslle, so its defective..
+
+-----faulty_imprint end-----
+correct: 18, total: 21, yesno acc: 85.71%

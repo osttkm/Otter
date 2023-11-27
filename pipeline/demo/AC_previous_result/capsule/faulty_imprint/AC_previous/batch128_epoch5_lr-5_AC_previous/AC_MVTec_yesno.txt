@@ -1,0 +1,75 @@
+faulty_imprint --> misprint
+-----faulty_imprint start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/000.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/001.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/002.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/003.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/004.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/005.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/006.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/007.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/008.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/009.png
+stain.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/010.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/011.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/012.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/013.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/014.png
+scratch.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/015.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/016.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/017.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/018.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/019.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/020.png
+None.
+
+/home/dataset/mvtec/capsule/test/faulty_imprint/021.png
+None.
+
+-----faulty_imprint end-----
+yesno correct: 0, total: 22, acc: 0.00%
+reason correct: 0, total: 22, acc: 0.00%
+both correct: 0, total: 22, acc: 0.00%

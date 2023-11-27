@@ -1,0 +1,54 @@
+rough --> contamination
+-----rough start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/tile/test/rough/000.png
+stain.
+
+/home/dataset/mvtec/tile/test/rough/001.png
+discoloration.
+
+/home/dataset/mvtec/tile/test/rough/002.png
+scratch.
+
+/home/dataset/mvtec/tile/test/rough/003.png
+stain.
+
+/home/dataset/mvtec/tile/test/rough/004.png
+oxidation.
+
+/home/dataset/mvtec/tile/test/rough/005.png
+stain.
+
+/home/dataset/mvtec/tile/test/rough/006.png
+stain.
+
+/home/dataset/mvtec/tile/test/rough/007.png
+stain.
+
+/home/dataset/mvtec/tile/test/rough/008.png
+stain.
+
+/home/dataset/mvtec/tile/test/rough/009.png
+oxidation.
+
+/home/dataset/mvtec/tile/test/rough/010.png
+stain.
+
+/home/dataset/mvtec/tile/test/rough/011.png
+scratch.
+
+/home/dataset/mvtec/tile/test/rough/012.png
+stain.
+
+/home/dataset/mvtec/tile/test/rough/013.png
+erosion.
+
+/home/dataset/mvtec/tile/test/rough/014.png
+stain.
+
+-----rough end-----
+yesno correct: 0, total: 15, acc: 0.00%
+reason correct: 0, total: 15, acc: 0.00%
+both correct: 0, total: 15, acc: 0.00%

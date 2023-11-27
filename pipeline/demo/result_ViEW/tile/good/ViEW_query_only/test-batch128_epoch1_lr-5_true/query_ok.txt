@@ -1,0 +1,106 @@
+good --> cracked tile
+
+query: OK
+
+<image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer>
+
+-----good start-----
+
+/home/dataset/mvtec/tile/test/good/001.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/002.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/003.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/004.png
+Yes. This tile has some dirty tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/005.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/006.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/007.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/008.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/009.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/010.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/011.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/012.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/013.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/014.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/015.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/016.png
+Yes. This tile has some dirty tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/017.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/018.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/019.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/020.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/021.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/022.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/023.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/024.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/025.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/026.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/027.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/028.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/029.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/030.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/031.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/good/032.png
+Yes. This tile has some stained tile, so it is defective.
+
+-----good end-----
+correct: 0, total: 32, yesno acc: 0.00%

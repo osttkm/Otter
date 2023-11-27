@@ -1,0 +1,58 @@
+rough --> damaged zipper
+
+query: NG
+
+<image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer>
+
+-----rough start-----
+
+/home/dataset/mvtec/zipper/test/rough/001.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/002.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/003.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/004.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/005.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/006.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/007.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/008.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/009.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/010.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/011.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/012.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/013.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/014.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/015.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/rough/016.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+-----rough end-----
+correct: 0, total: 16, yesno acc: 0.00%

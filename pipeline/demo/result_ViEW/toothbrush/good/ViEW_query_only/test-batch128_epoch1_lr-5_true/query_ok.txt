@@ -1,0 +1,43 @@
+good --> damaged toothbrush
+
+query: OK
+
+<image>User: This is an image of toothbrush. Does this toothbrush have any defects such as damaged toothbrush? GPT:<answer>
+
+-----good start-----
+
+/home/dataset/mvtec/toothbrush/test/good/001.png
+Yes. This toothbrush has some deformed toothbrush, so it is defective.
+
+/home/dataset/mvtec/toothbrush/test/good/002.png
+No. This toothbrush does not have any defective such as defective toothbrush, so it is non-defective.
+
+/home/dataset/mvtec/toothbrush/test/good/003.png
+Yes. This toothbrush has some blue flowers, so it is defective.
+
+/home/dataset/mvtec/toothbrush/test/good/004.png
+Yes. This toothbrush has some defective toothbrush, so it is defective.
+
+/home/dataset/mvtec/toothbrush/test/good/005.png
+Yes. This toothbrush has some stained toothbrush, so it is defective.
+
+/home/dataset/mvtec/toothbrush/test/good/006.png
+Yes. This toothbrush has some defective toothbrush, so it is defective.
+
+/home/dataset/mvtec/toothbrush/test/good/007.png
+Yes. This toothbrush has some defective toothbrush, so it is defective.
+
+/home/dataset/mvtec/toothbrush/test/good/008.png
+Yes. This toothbrush has some defective toothbrush, so it is defective.
+
+/home/dataset/mvtec/toothbrush/test/good/009.png
+Yes. This toothbrush has some defective toothbrush, so it is defective.
+
+/home/dataset/mvtec/toothbrush/test/good/010.png
+Yes. This toothbrush has some defective toothbrush, so it is defective.
+
+/home/dataset/mvtec/toothbrush/test/good/011.png
+Yes. This toothbrush has some defective toothbrush, so it is defective.
+
+-----good end-----
+correct: 1, total: 11, yesno acc: 9.09%

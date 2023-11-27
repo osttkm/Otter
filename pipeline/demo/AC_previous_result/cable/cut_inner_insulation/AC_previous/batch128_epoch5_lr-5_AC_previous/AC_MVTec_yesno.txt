@@ -1,0 +1,51 @@
+cut_inner_insulation --> crack
+-----cut_inner_insulation start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/000.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/001.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/002.png
+broken.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/003.png
+broken.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/004.png
+None.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/005.png
+broken.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/006.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/007.png
+broken.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/008.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/009.png
+discoloration.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/010.png
+discoloration.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/011.png
+discoloration.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/012.png
+broken.
+
+/home/dataset/mvtec/cable/test/cut_inner_insulation/013.png
+None.
+
+-----cut_inner_insulation end-----
+yesno correct: 0, total: 14, acc: 0.00%
+reason correct: 0, total: 14, acc: 0.00%
+both correct: 0, total: 14, acc: 0.00%

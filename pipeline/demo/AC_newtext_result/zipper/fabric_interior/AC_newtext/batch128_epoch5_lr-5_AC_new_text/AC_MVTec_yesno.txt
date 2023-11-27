@@ -1,0 +1,57 @@
+fabric_interior --> frayed
+-----fabric_interior start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/zipper/test/fabric_interior/000.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/001.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/002.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/003.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/004.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/005.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/006.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/007.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/008.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/009.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/010.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/011.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/012.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/013.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/014.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/fabric_interior/015.png
+No. There are no defects in the product depicted.
+
+-----fabric_interior end-----
+yesno correct: 0, total: 16, acc: 0.00%
+reason correct: 0, total: 16, acc: 0.00%
+both correct: 0, total: 16, acc: 0.00%

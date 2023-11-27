@@ -1,0 +1,39 @@
+poke_insulation --> hole
+-----poke_insulation start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/cable/test/poke_insulation/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/cable/test/poke_insulation/001.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/poke_insulation/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/cable/test/poke_insulation/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/cable/test/poke_insulation/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/cable/test/poke_insulation/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/cable/test/poke_insulation/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/cable/test/poke_insulation/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/cable/test/poke_insulation/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/poke_insulation/009.png
+No. Certainly not, the product is without defects.
+
+-----poke_insulation end-----
+yesno correct: 0, total: 10, acc: 0.00%
+reason correct: 0, total: 10, acc: 0.00%
+both correct: 0, total: 10, acc: 0.00%

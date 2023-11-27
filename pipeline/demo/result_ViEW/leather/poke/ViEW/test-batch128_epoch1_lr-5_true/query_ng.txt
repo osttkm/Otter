@@ -1,0 +1,61 @@
+poke --> poked leather
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer> No. This leather does not have any defects such as stained leather, cut leather, folded leather, and poked leather, so it is non-defective.<|endofchunk|><image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer> Yes. This leather has some poked leather, so it is defective.<|endofchunk|><image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer>
+
+-----poke start-----
+
+/home/dataset/mvtec/leather/test/poke/001.png
+Yes. This Leather has some Poked Leatherare defective, so its non-non-defected.
+
+/home/dataset/mvtec/leather/test/poke/002.png
+Yes. This Leather has some Poked Leather, so It is Defected.
+
+/home/dataset/mvtec/leather/test/poke/003.png
+Yes. This Leather has some Poked Leatherare defective,so it is faulty.
+
+/home/dataset/mvtec/leather/test/poke/004.png
+Yes. This Leather has some Poked Leather, So It Is Defective..
+
+/home/dataset/mvtec/leather/test/poke/005.png
+Yes. This Leather has some Poked Leatherare defective, so its non-non-defected.
+
+/home/dataset/mvtec/leather/test/poke/006.png
+Yes. This Leather has some Poked Leather, So It Is Defective..
+
+/home/dataset/mvtec/leather/test/poke/007.png
+Yes. This Leather has some Poked Leather, So It Is Defective..
+
+/home/dataset/mvtec/leather/test/poke/008.png
+Yes. This Leather has some Poked Leather, so It is Defected.
+
+/home/dataset/mvtec/leather/test/poke/009.png
+Yes. This Leather has some Poked Leather, so It is Defected.
+
+/home/dataset/mvtec/leather/test/poke/010.png
+Yes. This Leather has some Poked Leather, So It Is Defective..
+
+/home/dataset/mvtec/leather/test/poke/011.png
+Yes. This Leather has some Poked Leatherare defective,so it is faulty.
+
+/home/dataset/mvtec/leather/test/poke/012.png
+Yes. This Leather has some Poked Leather, so It is Defected.
+
+/home/dataset/mvtec/leather/test/poke/013.png
+Yes. This Leather has some Poked Leather, so It is Defected.
+
+/home/dataset/mvtec/leather/test/poke/014.png
+Yes. This Leather has some Poked Leather, So It Is Defective..
+
+/home/dataset/mvtec/leather/test/poke/015.png
+Yes. This Leather has some Poked Leather, So It Is Defective..
+
+/home/dataset/mvtec/leather/test/poke/016.png
+Yes. This Leather has some Poked Leather, So It Is Defective..
+
+/home/dataset/mvtec/leather/test/poke/017.png
+Yes. This Leather has some Poked Leather, So It Is Defective..
+
+-----poke end-----
+correct: 17, total: 17, yesno acc: 100.00%

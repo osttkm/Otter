@@ -1,0 +1,78 @@
+thread_side --> chip
+-----thread_side start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/screw/test/thread_side/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/018.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/019.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/020.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/021.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/screw/test/thread_side/022.png
+No. Certainly not, the product is without defects.
+
+-----thread_side end-----
+yesno correct: 0, total: 23, acc: 0.00%
+reason correct: 0, total: 23, acc: 0.00%
+both correct: 0, total: 23, acc: 0.00%

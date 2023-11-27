@@ -1,0 +1,64 @@
+cut --> cut leather
+
+query: NG
+
+<image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer>
+
+-----cut start-----
+
+/home/dataset/mvtec/leather/test/cut/001.png
+Yes. This leather has some pinched leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/002.png
+No. This leather does not have any defective such as stains, cut leatherare, folded leatherapoked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/cut/003.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/004.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/005.png
+No. This leather does not have any defective such asstained leather,cut leather,folded leather,and pokedleather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/cut/006.png
+Yes. This leather has some pinched leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/007.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/008.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/009.png
+Yes. This leather has some pinched leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/010.png
+No. This leather does not have any defective such as stains, cut leatherare, folded leatherapoked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/cut/011.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/012.png
+No. This leather does not have any defective such as stains, cut leatherare, folded leatherapoked leather, so it is non-defective.
+
+/home/dataset/mvtec/leather/test/cut/013.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/014.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/015.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/016.png
+Yes. This leather has some Poked leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/017.png
+Yes. This leather has some poked Leather, so it is defective.
+
+/home/dataset/mvtec/leather/test/cut/018.png
+Yes. This leather has some Poked leather, so it is defective.
+
+-----cut end-----
+correct: 14, total: 18, yesno acc: 77.78%

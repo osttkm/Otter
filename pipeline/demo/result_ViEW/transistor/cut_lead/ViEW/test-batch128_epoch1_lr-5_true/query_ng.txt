@@ -1,0 +1,37 @@
+cut_lead --> cut transistor
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer> No. This transistor does not have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor, so it is non-defective.<|endofchunk|><image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer> Yes. This transistor has some cut transistor, so it is defective.<|endofchunk|><image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer>
+
+-----cut_lead start-----
+
+/home/dataset/mvtec/transistor/test/cut_lead/001.png
+Yes. This transmitter has somecut transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/cut_lead/002.png
+Yes. This transmitter has somecut transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/cut_lead/003.png
+Yes. This transmitter has somecut transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/cut_lead/004.png
+Yes. This transmitter has somecut transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/cut_lead/005.png
+Yes. This transmitter has somecut transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/cut_lead/006.png
+Yes. This transmitter has somecut transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/cut_lead/007.png
+Yes. This transmitter has somecut transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/cut_lead/008.png
+No. This transmitter does not havethesedefects such asbent transistor,cut transistor,damaged transistor,andmisplaced transistor,so it isnon-defected.
+
+/home/dataset/mvtec/transistor/test/cut_lead/009.png
+Yes. This transmitter has somecut transistor,so it is faulty.
+
+-----cut_lead end-----
+correct: 8, total: 9, yesno acc: 88.89%

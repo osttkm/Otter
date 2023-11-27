@@ -1,0 +1,70 @@
+poke --> poked capsule
+
+query: NG
+
+<image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer>
+
+-----poke start-----
+
+/home/dataset/mvtec/capsule/test/poke/001.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/002.png
+No. This capsule does not have any faults such as crushed capsule, broken capsule, misplaced capsule, missing capsule, torn capsule, damaged capsule, defective capsule, tampered with capsule, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/poke/003.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/004.png
+Yes. This capsule has some damaged capsule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/005.png
+No. This capsule does not have any faults such as crushed capsule, damaged capsule, poke capsule, scratches capsule, Scratched capsule and misprinted capsules, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/poke/006.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/007.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/008.png
+Yes. This capsule has some damaged capsule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/009.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/010.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/011.png
+No. This capsule does not have any faults such as crushed capsule, broken capsule, damaged capsule, poke capsule, scratches, and so on, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/poke/012.png
+No. This capsule does not have any faults such as crushed capsule, misplaced capsule, broken capsule, torn capsule, damaged capsule, defective capsule, deformed capsule, missing capsule, non-functional capsule, punctured capsule, pierced capsule, tampered capsule, worn capsule, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/poke/013.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/014.png
+No. This capsule does not have any faults such as crushed capsule, broken capsule, misplaced capsule, missing capsule, defective capsule, damaged capsule, deformed capsule, torn capsule, pierced capsule, punctured capsule, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/poke/015.png
+No. This capsule does not have any faults such as crushed capsule, broken capsule, misplaced capsule, off-center capsule, misspelled capsule, non-functional capsule, poke hole capsule, punctured capsule, damaged capsule, scratches and dents, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/poke/016.png
+No. This capsule does not have any faults such as crushed capsule, broken capsule, misplaced capsule, missing capsule, non-functional capsule, defective capsule, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/poke/017.png
+No. This capsule does not have any faults such as crushed capsule, damaged capsule, poke capsule, scratches capsule, Scratched capsule and misprinted capsules, so it is non-defective.
+
+/home/dataset/mvtec/capsule/test/poke/018.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/019.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+/home/dataset/mvtec/capsule/test/poke/020.png
+Yes. This capsule has some misprinted capule, so it is defective.
+
+-----poke end-----
+correct: 12, total: 20, yesno acc: 60.00%

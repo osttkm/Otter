@@ -1,0 +1,43 @@
+broken --> broken metal grid
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> No. This metal grid does not have any defects such as bent metal grid, broken metal grid, and contaminated metal grid, so it is non-defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> Yes. This metal grid has some broken metal grid, so it is defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer>
+
+-----broken start-----
+
+/home/dataset/mvtec/grid/test/broken/001.png
+Yes. This meta grid hassome broken metalgrid, soit is defective..
+
+/home/dataset/mvtec/grid/test/broken/002.png
+Yes. This metals grid hassome broken metalgrid,so it is defectiveso.
+
+/home/dataset/mvtec/grid/test/broken/003.png
+Yes. This meta grid hassome broken metalgrid, soit is defective..
+
+/home/dataset/mvtec/grid/test/broken/004.png
+Yes. This meta grid hassome broken metalgrid, soit is defective..
+
+/home/dataset/mvtec/grid/test/broken/005.png
+Yes. This meta grid hassome broken metalgrid, soit is defective..
+
+/home/dataset/mvtec/grid/test/broken/006.png
+No. This meta grid doesnot have anydefects such asbent metal grid,...
+
+/home/dataset/mvtec/grid/test/broken/007.png
+Yes. This meta grid hassome broken metalgrid, soit is defective..
+
+/home/dataset/mvtec/grid/test/broken/008.png
+Yes. This meta grid hassome broken metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/broken/009.png
+Yes. This metals grid hassome broken metalgrid,so it is defectiveso.
+
+/home/dataset/mvtec/grid/test/broken/010.png
+Yes. This meta grid hassome broken metalgrid, soit is defective..
+
+/home/dataset/mvtec/grid/test/broken/011.png
+Yes. This meta grid hassome broken metalgrid, soit is defective..
+
+-----broken end-----
+correct: 10, total: 11, yesno acc: 90.91%

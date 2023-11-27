@@ -1,0 +1,84 @@
+scratch_neck --> chip
+-----scratch_neck start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/screw/test/scratch_neck/000.png
+bent.
+
+/home/dataset/mvtec/screw/test/scratch_neck/001.png
+bent.
+
+/home/dataset/mvtec/screw/test/scratch_neck/002.png
+rust.
+
+/home/dataset/mvtec/screw/test/scratch_neck/003.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/004.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/005.png
+rust.
+
+/home/dataset/mvtec/screw/test/scratch_neck/006.png
+bent.
+
+/home/dataset/mvtec/screw/test/scratch_neck/007.png
+bent.
+
+/home/dataset/mvtec/screw/test/scratch_neck/008.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/009.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/010.png
+None.
+
+/home/dataset/mvtec/screw/test/scratch_neck/011.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/012.png
+bent.
+
+/home/dataset/mvtec/screw/test/scratch_neck/013.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/014.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/015.png
+bent.
+
+/home/dataset/mvtec/screw/test/scratch_neck/016.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/017.png
+bent.
+
+/home/dataset/mvtec/screw/test/scratch_neck/018.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/019.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/020.png
+bent.
+
+/home/dataset/mvtec/screw/test/scratch_neck/021.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/022.png
+broken.
+
+/home/dataset/mvtec/screw/test/scratch_neck/023.png
+None.
+
+/home/dataset/mvtec/screw/test/scratch_neck/024.png
+bent.
+
+-----scratch_neck end-----
+yesno correct: 0, total: 25, acc: 0.00%
+reason correct: 0, total: 25, acc: 0.00%
+both correct: 0, total: 25, acc: 0.00%

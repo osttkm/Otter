@@ -1,0 +1,75 @@
+broken_small --> broken
+-----broken_small start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/bottle/test/broken_small/000.png
+burn.
+
+/home/dataset/mvtec/bottle/test/broken_small/001.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/002.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/003.png
+burn.
+
+/home/dataset/mvtec/bottle/test/broken_small/004.png
+chip.
+
+/home/dataset/mvtec/bottle/test/broken_small/005.png
+chip.
+
+/home/dataset/mvtec/bottle/test/broken_small/006.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/007.png
+burn.
+
+/home/dataset/mvtec/bottle/test/broken_small/008.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/009.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/010.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/011.png
+scratch.
+
+/home/dataset/mvtec/bottle/test/broken_small/012.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/013.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/014.png
+burn.
+
+/home/dataset/mvtec/bottle/test/broken_small/015.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/016.png
+insect-eaten.
+
+/home/dataset/mvtec/bottle/test/broken_small/017.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/018.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/019.png
+chip.
+
+/home/dataset/mvtec/bottle/test/broken_small/020.png
+crack.
+
+/home/dataset/mvtec/bottle/test/broken_small/021.png
+crack.
+
+-----broken_small end-----
+yesno correct: 0, total: 22, acc: 0.00%
+reason correct: 0, total: 22, acc: 0.00%
+both correct: 0, total: 22, acc: 0.00%

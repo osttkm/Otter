@@ -1,0 +1,78 @@
+crack --> crack
+-----crack start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/capsule/test/crack/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/001.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/capsule/test/crack/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/006.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/capsule/test/crack/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/015.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/capsule/test/crack/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/018.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/019.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/020.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/crack/021.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/crack/022.png
+No. Certainly not, the product is without defects.
+
+-----crack end-----
+yesno correct: 0, total: 23, acc: 0.00%
+reason correct: 0, total: 23, acc: 0.00%
+both correct: 0, total: 23, acc: 0.00%

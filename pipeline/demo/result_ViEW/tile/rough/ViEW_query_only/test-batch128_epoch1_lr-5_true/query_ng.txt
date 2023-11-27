@@ -1,0 +1,52 @@
+rough --> stained tile
+
+query: NG
+
+<image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer>
+
+-----rough start-----
+
+/home/dataset/mvtec/tile/test/rough/001.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/002.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/003.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/004.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/005.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/006.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/007.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/008.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/009.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/010.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/011.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/012.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/013.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/rough/014.png
+Yes. This tile has some stained tile, so it is defective.
+
+-----rough end-----
+correct: 14, total: 14, yesno acc: 100.00%

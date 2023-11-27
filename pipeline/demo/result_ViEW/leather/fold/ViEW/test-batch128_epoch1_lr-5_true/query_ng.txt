@@ -1,0 +1,58 @@
+fold --> folded leather
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer> No. This leather does not have any defects such as stained leather, cut leather, folded leather, and poked leather, so it is non-defective.<|endofchunk|><image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer> Yes. This leather has some folded leather, so it is defective.<|endofchunk|><image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer>
+
+-----fold start-----
+
+/home/dataset/mvtec/leather/test/fold/001.png
+Yes. This leatherette has some faded leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/002.png
+Yes. This leatherette has some cracked leather, So, it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/003.png
+Yes. This leatherette has some cracked leather, So, it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/004.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/005.png
+Yes. This leatherette has some wrinkled leather, So, it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/006.png
+Yes. This leatherette has some cracked leather, So, it is defectivie.
+
+/home/dataset/mvtec/leather/test/fold/007.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/008.png
+Yes. This leatherette has some fold leather, So it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/009.png
+Yes. This leatherette has some faded leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/010.png
+No. This leatherapparently doesn't have anydefects such asstained leather,cut leather,folded leather,and pokedleather,so it isnon-defected.
+
+/home/dataset/mvtec/leather/test/fold/011.png
+Yes. This leatherette has some faded leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/012.png
+Yes. This leatherette has some peeled leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/013.png
+No. This leatherapplies to leather has none of these defects, so its defective, so.
+
+/home/dataset/mvtec/leather/test/fold/014.png
+Yes. This leatherette has some poked Leather, so its defective. This is a type of leather that has been treated to resemble the appearance of genuine leather, but it is actually made from synthetic materials.
+
+/home/dataset/mvtec/leather/test/fold/015.png
+Yes. This leatherette has some cracked leather, So, it is faulty.
+
+/home/dataset/mvtec/leather/test/fold/016.png
+Yes. This leatherette has some faded leather,so it is faulty.
+
+-----fold end-----
+correct: 14, total: 16, yesno acc: 87.50%

@@ -1,0 +1,61 @@
+glue_strip --> contaminated tile
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer> No. This tile does not have any defects such as cracked tile, contaminated tile, and stained tile, so it is non-defective.<|endofchunk|><image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer> Yes. This tile has some contaminated tile, so it is defective.<|endofchunk|><image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer>
+
+-----glue_strip start-----
+
+/home/dataset/mvtec/tile/test/glue_strip/001.png
+Yes. Thistile has somecontaminated tile, soso it is defectiveso.
+
+/home/dataset/mvtec/tile/test/glue_strip/002.png
+Yes. Thistile has somecontaminated tile,so it isdefectiveso.
+
+/home/dataset/mvtec/tile/test/glue_strip/003.png
+Yes. This tube has some defective tile,so it is faulty.
+
+/home/dataset/mvtec/tile/test/glue_strip/004.png
+Yes. This tube has some contaminant, so its tube is contaminated, and it is defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/005.png
+Yes. This tube has some defective tile, such as contaminated tile and stained tube, so its quality is poor.
+
+/home/dataset/mvtec/tile/test/glue_strip/006.png
+Yes. This tube has some defective tile, such as contaminated tile.
+
+/home/dataset/mvtec/tile/test/glue_strip/007.png
+Yes. Thistile has somecontaminated tile, sosometae.
+
+/home/dataset/mvtec/tile/test/glue_strip/008.png
+Yes. This tube has some defective tile, such as contaminated tile. So, it is faulty.
+
+/home/dataset/mvtec/tile/test/glue_strip/009.png
+Yes. Thistile has somecontaminated tile, sosotherefore it is defectiveso.
+
+/home/dataset/mvtec/tile/test/glue_strip/010.png
+Yes. Thistile has some contaminatetile, soit is defective..
+
+/home/dataset/mvtec/tile/test/glue_strip/011.png
+Yes. Thistile has somecontaminated tile,so it isdefectivethe tile.
+
+/home/dataset/mvtec/tile/test/glue_strip/012.png
+Yes. Thistile has somecontaminated tile, sosomenefective,so it isdefectivet.
+
+/home/dataset/mvtec/tile/test/glue_strip/013.png
+Yes. Thistile has some contaminatetile, soit is defective.[1].
+
+/home/dataset/mvtec/tile/test/glue_strip/014.png
+Yes. Thistile has somecontaminated tile,so it isdefectivethe tile.
+
+/home/dataset/mvtec/tile/test/glue_strip/015.png
+Yes. Thistile has some contaminatetile, soit is defective.[1].
+
+/home/dataset/mvtec/tile/test/glue_strip/016.png
+Yes. Thistile has some contaminatetile, soit is defective.[1].
+
+/home/dataset/mvtec/tile/test/glue_strip/017.png
+Yes. This tube has some defective tile,so it is faulty.
+
+-----glue_strip end-----
+correct: 17, total: 17, yesno acc: 100.00%

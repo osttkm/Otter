@@ -1,0 +1,66 @@
+faulty_imprint --> misprint
+-----faulty_imprint start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/pill/test/faulty_imprint/000.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/001.png
+fading.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/002.png
+fading.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/003.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/004.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/005.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/006.png
+fading.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/007.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/008.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/009.png
+fading.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/010.png
+scratch.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/011.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/012.png
+scratch.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/013.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/014.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/015.png
+scratch.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/016.png
+chip.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/017.png
+stain.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/018.png
+chip.
+
+-----faulty_imprint end-----
+yesno correct: 0, total: 19, acc: 0.00%
+reason correct: 0, total: 19, acc: 0.00%
+both correct: 0, total: 19, acc: 0.00%

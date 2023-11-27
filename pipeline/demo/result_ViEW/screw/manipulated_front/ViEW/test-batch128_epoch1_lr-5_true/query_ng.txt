@@ -1,0 +1,79 @@
+manipulated_front --> stripped screw
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer> No. This screw does not have any defects such as stripped screw, scratched screw, and broken screw, so it is non-defective.<|endofchunk|><image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer> Yes. This screw has some stripped screw, so it is defective.<|endofchunk|><image>User: This is an image of screw. Does this screw have any defects such as stripped screw, scratched screw, and broken screw? GPT:<answer>
+
+-----manipulated_front start-----
+
+/home/dataset/mvtec/screw/test/manipulated_front/001.png
+No. This nail has some striped nail, so It is defectives.
+
+/home/dataset/mvtec/screw/test/manipulated_front/002.png
+No. This nail has some scratched nail, so It is defectives.
+
+/home/dataset/mvtec/screw/test/manipulated_front/003.png
+Yes. This nail has some scratched nail, so its defective, and it is Non-Deceptive.
+
+/home/dataset/mvtec/screw/test/manipulated_front/004.png
+No. This nail has some striped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/manipulated_front/005.png
+No. This nail has some scratched nail, so It is defectives.
+
+/home/dataset/mvtec/screw/test/manipulated_front/006.png
+No. This nail has some striped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/manipulated_front/007.png
+No. This nail has some striped nail, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/manipulated_front/008.png
+No. This nail has some striped nail, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/manipulated_front/009.png
+No. This nail has some striped nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/manipulated_front/010.png
+No. This nail has some scratched nailhead, so its defective, and the rest of its features are non-Defective, so the total number of defects is 1.
+
+/home/dataset/mvtec/screw/test/manipulated_front/011.png
+No. This nail has some striped nail, so It is defectives.
+
+/home/dataset/mvtec/screw/test/manipulated_front/012.png
+No. This nail has some scratched nail, so It is defectives.
+
+/home/dataset/mvtec/screw/test/manipulated_front/013.png
+No. This nail has some striped nail, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/manipulated_front/014.png
+No. This nail has some scratched nail, So it is defectives.
+
+/home/dataset/mvtec/screw/test/manipulated_front/015.png
+Yes. This nail has some scratched nail, so its defective, so is non.
+
+/home/dataset/mvtec/screw/test/manipulated_front/016.png
+No. This nail has some scratched nail, so It Is Non-defected.
+
+/home/dataset/mvtec/screw/test/manipulated_front/017.png
+Yes. This nail has some scratched nail, so its defective, so is non.
+
+/home/dataset/mvtec/screw/test/manipulated_front/018.png
+Yes. This nail has some scratched nail, so It is defective..
+
+/home/dataset/mvtec/screw/test/manipulated_front/019.png
+No. This nail has some scratched nail, so It is defectives.
+
+/home/dataset/mvtec/screw/test/manipulated_front/020.png
+No. This nail has some scratched nail, so its defective, and the non-Defective option is selected.
+
+/home/dataset/mvtec/screw/test/manipulated_front/021.png
+Yes. This nail has some scratched nail, so its defective, so is non.
+
+/home/dataset/mvtec/screw/test/manipulated_front/022.png
+Yes. This nail has some scratched nail, so its defectiveness is yes.
+
+/home/dataset/mvtec/screw/test/manipulated_front/023.png
+No. This nail has some scratched nailhead, so its defective, and the rest of its features are non-Defective, so the total number of defects is 1.
+
+-----manipulated_front end-----
+correct: 6, total: 23, yesno acc: 26.09%

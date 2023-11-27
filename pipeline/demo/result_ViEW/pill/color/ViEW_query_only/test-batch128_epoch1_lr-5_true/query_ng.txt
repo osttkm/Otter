@@ -1,0 +1,82 @@
+color --> stained pill
+
+query: NG
+
+<image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer>
+
+-----color start-----
+
+/home/dataset/mvtec/pill/test/color/001.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/002.png
+No. This pill does not have any defective such asstained pill,contaminated pill,cracked pill,mispressed pill,and scratched pill, so it is non-defective.
+
+/home/dataset/mvtec/pill/test/color/003.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/004.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/005.png
+Yes. This pill has some stained pill; so it is defective.
+
+/home/dataset/mvtec/pill/test/color/006.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/007.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/008.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/009.png
+Yes. This pill has some stained pill; so it is defective.
+
+/home/dataset/mvtec/pill/test/color/010.png
+Yes. This pill has some stained pill; so it is defective.
+
+/home/dataset/mvtec/pill/test/color/011.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/012.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/013.png
+Yes. This pill has some stained pill; so it is defective.
+
+/home/dataset/mvtec/pill/test/color/014.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/015.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/016.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/017.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/018.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/019.png
+Yes. This pill has some stained pill; so it is defective.
+
+/home/dataset/mvtec/pill/test/color/020.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/021.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/022.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/023.png
+Yes. This pill has some scratched pill, so it is defective.
+
+/home/dataset/mvtec/pill/test/color/024.png
+Yes. This pill has some scratched pill, so it is defective.
+
+-----color end-----
+correct: 23, total: 24, yesno acc: 95.83%

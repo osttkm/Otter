@@ -1,0 +1,39 @@
+damaged_case --> broken
+-----damaged_case start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/transistor/test/damaged_case/000.png
+crack.
+
+/home/dataset/mvtec/transistor/test/damaged_case/001.png
+burn.
+
+/home/dataset/mvtec/transistor/test/damaged_case/002.png
+burn.
+
+/home/dataset/mvtec/transistor/test/damaged_case/003.png
+burn.
+
+/home/dataset/mvtec/transistor/test/damaged_case/004.png
+chip.
+
+/home/dataset/mvtec/transistor/test/damaged_case/005.png
+crack.
+
+/home/dataset/mvtec/transistor/test/damaged_case/006.png
+crack.
+
+/home/dataset/mvtec/transistor/test/damaged_case/007.png
+burn.
+
+/home/dataset/mvtec/transistor/test/damaged_case/008.png
+burn.
+
+/home/dataset/mvtec/transistor/test/damaged_case/009.png
+burn.
+
+-----damaged_case end-----
+yesno correct: 0, total: 10, acc: 0.00%
+reason correct: 0, total: 10, acc: 0.00%
+both correct: 0, total: 10, acc: 0.00%

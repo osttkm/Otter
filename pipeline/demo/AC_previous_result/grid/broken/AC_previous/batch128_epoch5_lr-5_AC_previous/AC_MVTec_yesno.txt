@@ -1,0 +1,45 @@
+broken --> broken
+-----broken start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/grid/test/broken/000.png
+None.
+
+/home/dataset/mvtec/grid/test/broken/001.png
+None.
+
+/home/dataset/mvtec/grid/test/broken/002.png
+crack.
+
+/home/dataset/mvtec/grid/test/broken/003.png
+hole.
+
+/home/dataset/mvtec/grid/test/broken/004.png
+None.
+
+/home/dataset/mvtec/grid/test/broken/005.png
+None.
+
+/home/dataset/mvtec/grid/test/broken/006.png
+None.
+
+/home/dataset/mvtec/grid/test/broken/007.png
+None.
+
+/home/dataset/mvtec/grid/test/broken/008.png
+tear.
+
+/home/dataset/mvtec/grid/test/broken/009.png
+warp.
+
+/home/dataset/mvtec/grid/test/broken/010.png
+None.
+
+/home/dataset/mvtec/grid/test/broken/011.png
+chip.
+
+-----broken end-----
+yesno correct: 0, total: 12, acc: 0.00%
+reason correct: 0, total: 12, acc: 0.00%
+both correct: 0, total: 12, acc: 0.00%

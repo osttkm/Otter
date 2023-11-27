@@ -1,0 +1,39 @@
+bent_lead --> bent
+-----bent_lead start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/transistor/test/bent_lead/000.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/bent_lead/001.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/bent_lead/002.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/bent_lead/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/bent_lead/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/bent_lead/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/bent_lead/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/bent_lead/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/bent_lead/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/bent_lead/009.png
+No. Negative, the product shown is devoid of any defects.
+
+-----bent_lead end-----
+yesno correct: 0, total: 10, acc: 0.00%
+reason correct: 0, total: 10, acc: 0.00%
+both correct: 0, total: 10, acc: 0.00%

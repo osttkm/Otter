@@ -1,0 +1,40 @@
+thread --> contaminated metal grid
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> No. This metal grid does not have any defects such as bent metal grid, broken metal grid, and contaminated metal grid, so it is non-defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> Yes. This metal grid has some contaminated metal grid, so it is defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer>
+
+-----thread start-----
+
+/home/dataset/mvtec/grid/test/thread/001.png
+Yes. This meta grid has Some Contaminated Metal Grid, So It Is Defected.
+
+/home/dataset/mvtec/grid/test/thread/002.png
+No. This meta grid has enough metal grid to satisfy your needs, so It Is Non-defected.
+
+/home/dataset/mvtec/grid/test/thread/003.png
+No. This meta grid has enough metal grid to be NON-DEFACTIVE.
+
+/home/dataset/mvtec/grid/test/thread/004.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/thread/005.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/thread/006.png
+No. This meta grid doesnot have anydefects such asbent metal grid,...
+
+/home/dataset/mvtec/grid/test/thread/007.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/thread/008.png
+No. This meta grid has enough metal grid to meet the requirements and so, it is nontreatable.
+
+/home/dataset/mvtec/grid/test/thread/009.png
+No. This meta grid has enough metal grid to satisfy your needs so it non-Defective, so the answer is: No.
+
+/home/dataset/mvtec/grid/test/thread/010.png
+No. This meta grid doesnot have anydefects such asbent metal grid,...
+
+-----thread end-----
+correct: 4, total: 10, yesno acc: 40.00%

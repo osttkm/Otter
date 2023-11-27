@@ -1,0 +1,72 @@
+contamination --> contamination
+-----contamination start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/pill/test/contamination/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/014.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/pill/test/contamination/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/018.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/019.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/contamination/020.png
+No. Certainly not, the product is without defects.
+
+-----contamination end-----
+yesno correct: 0, total: 21, acc: 0.00%
+reason correct: 0, total: 21, acc: 0.00%
+both correct: 0, total: 21, acc: 0.00%

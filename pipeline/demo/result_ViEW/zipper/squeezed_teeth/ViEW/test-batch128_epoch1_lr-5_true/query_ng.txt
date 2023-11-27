@@ -1,0 +1,55 @@
+squeezed_teeth --> damaged zipper
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer> No. This zipper does not have any defects such as broken zipper, torn zipper, and damaged zipper, so it is non-defective.<|endofchunk|><image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer> Yes. This zipper has some damaged zipper, so it is defective.<|endofchunk|><image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer>
+
+-----squeezed_teeth start-----
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/001.png
+No. This zippered is nondeffective, so its Defective Zipper Meaning is incorrect.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/002.png
+No. This zippered has no defects such As broken zip, torn zip, and damage zip, so It is non‑defected.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/003.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and dameged zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/004.png
+No. This zippered has no defects such As broken zip, torn zip, and damage zip, so It is non‑defected.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/005.png
+No. This zippered is nondeffective, so its Defective Zipper Meaning is incorrect.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/006.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and damaed zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/007.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and damaed zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/008.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and dameged zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/009.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and dameged zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/010.png
+Yes. This zip has some torn zip, so its defective..
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/011.png
+No. This zippered is nondeffective, so its Defective Zipper Meaning is incorrect.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/012.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and damaed zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/013.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and damaed zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/014.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and damaed zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/015.png
+Yes. This Zipper has Some Damaged Zipper, So It Is Defectiv.
+
+-----squeezed_teeth end-----
+correct: 2, total: 15, yesno acc: 13.33%

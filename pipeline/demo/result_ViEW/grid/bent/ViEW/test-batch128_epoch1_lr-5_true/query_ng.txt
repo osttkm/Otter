@@ -1,0 +1,43 @@
+bent --> bent metal grid
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> No. This metal grid does not have any defects such as bent metal grid, broken metal grid, and contaminated metal grid, so it is non-defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> Yes. This metal grid has some bent metal grid, so it is defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer>
+
+-----bent start-----
+
+/home/dataset/mvtec/grid/test/bent/001.png
+Yes. This meta grid has Some bent metal grill, so its grid is defective, so.
+
+/home/dataset/mvtec/grid/test/bent/002.png
+Yes. This meta grid hassome bent metal grill, so It is defective..
+
+/home/dataset/mvtec/grid/test/bent/003.png
+Yes. This meta grid has Some bent metal grill, so It is defective..
+
+/home/dataset/mvtec/grid/test/bent/004.png
+Yes. This meta grid has Some bent metal grill, so its grid is defective, so.
+
+/home/dataset/mvtec/grid/test/bent/005.png
+No. This meta grid doesnot have anydefects such asbent metal grid,...
+
+/home/dataset/mvtec/grid/test/bent/006.png
+Yes. This meta grid has Some bent metal grill, so its grid is defective, so.
+
+/home/dataset/mvtec/grid/test/bent/007.png
+No. This meta grid has enough metal grid to satisfy your needs, so It Is Non-defected.
+
+/home/dataset/mvtec/grid/test/bent/008.png
+Yes. This meta grid hassome bent metal grill, so It is defective..
+
+/home/dataset/mvtec/grid/test/bent/009.png
+Yes. This meta grid hassome bent metal grill, so It is defective..
+
+/home/dataset/mvtec/grid/test/bent/010.png
+Yes. This meta grid hassome bent metal grill, so It is defective..
+
+/home/dataset/mvtec/grid/test/bent/011.png
+Yes. This meta grid has Some bent metalgrid, so It is defective..
+
+-----bent end-----
+correct: 9, total: 11, yesno acc: 81.82%

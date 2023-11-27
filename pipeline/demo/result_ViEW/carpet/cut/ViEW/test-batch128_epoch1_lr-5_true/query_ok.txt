@@ -1,0 +1,91 @@
+cut --> cut carpet
+
+context1: OK, context2: NG, query: OK
+
+<image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer> No. This carpet does not have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet, so it is non-defective.<|endofchunk|><image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer> Yes. This carpet has some cut carpet, so it is defective.<|endofchunk|><image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer>
+
+-----cut start-----
+
+/home/dataset/mvtec/carpet/test/good/001.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpettso, it is nonsuperviable.
+
+/home/dataset/mvtec/carpet/test/good/002.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/003.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/004.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/005.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/006.png
+No. This carpett does not havether anydefects such asstained carpet,cut carpet,carpet withholes, andcontaminated carpet,so it isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/007.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/008.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/009.png
+No. This carpett does not havether anydefects such asstained carpet,cut carpet,carpet withholes, andcontaminated carpet,so it isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/010.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/011.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpettso, it isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/012.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/013.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/014.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/015.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/016.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/017.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/018.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/019.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/020.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/021.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/022.png
+No. This carpett does not havether anydefects such asstained carpet,cut carpet,carpet withholes, andcontaminated carpet,so it isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/023.png
+No. This carpett does not havether anydefects such asstained carpet,cut carpet,carpet withholes, andcontaminated carpet,so it isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/024.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/025.png
+Yes. This carpeting has somecut carpet,so it is faulty.
+
+/home/dataset/mvtec/carpet/test/good/026.png
+No. This carpett does not havether anydefects such asstained carpet,cut carpet,carpet withholes, andcontaminated carpet,so it isnon-defected.
+
+/home/dataset/mvtec/carpet/test/good/027.png
+No. This carpett does not having any defectssuch as stained carpett, cut carpett. carpet withholes, andcontaminated carpreet, soit isnon-defected.
+
+-----cut end-----
+correct: 26, total: 27, yesno acc: 96.30%

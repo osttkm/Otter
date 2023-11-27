@@ -1,0 +1,78 @@
+flip --> flip
+-----flip start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/metal_nut/test/flip/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/009.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/011.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/018.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/019.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/020.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/021.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/flip/022.png
+No. Certainly not, the product is without defects.
+
+-----flip end-----
+yesno correct: 0, total: 23, acc: 0.00%
+reason correct: 0, total: 23, acc: 0.00%
+both correct: 0, total: 23, acc: 0.00%

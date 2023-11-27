@@ -1,0 +1,45 @@
+bent --> bent
+-----bent start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/grid/test/bent/000.png
+None.
+
+/home/dataset/mvtec/grid/test/bent/001.png
+None.
+
+/home/dataset/mvtec/grid/test/bent/002.png
+None.
+
+/home/dataset/mvtec/grid/test/bent/003.png
+chip.
+
+/home/dataset/mvtec/grid/test/bent/004.png
+None.
+
+/home/dataset/mvtec/grid/test/bent/005.png
+None.
+
+/home/dataset/mvtec/grid/test/bent/006.png
+crack.
+
+/home/dataset/mvtec/grid/test/bent/007.png
+None.
+
+/home/dataset/mvtec/grid/test/bent/008.png
+None.
+
+/home/dataset/mvtec/grid/test/bent/009.png
+hole.
+
+/home/dataset/mvtec/grid/test/bent/010.png
+hole.
+
+/home/dataset/mvtec/grid/test/bent/011.png
+crack.
+
+-----bent end-----
+yesno correct: 0, total: 12, acc: 0.00%
+reason correct: 0, total: 12, acc: 0.00%
+both correct: 0, total: 12, acc: 0.00%

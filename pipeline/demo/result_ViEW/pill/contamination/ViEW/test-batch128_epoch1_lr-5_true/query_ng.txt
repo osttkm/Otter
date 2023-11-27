@@ -1,0 +1,70 @@
+contamination --> contaminated pill
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> No. This pill does not have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill, so it is non-defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> Yes. This pill has some contaminated pill, so it is defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer>
+
+-----contamination start-----
+
+/home/dataset/mvtec/pill/test/contamination/001.png
+Yes. This pillow has some defective pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/002.png
+Yes. This pillow has some contested pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/003.png
+Yes. This pillow has some contaminatd pill, So it is defectivie.
+
+/home/dataset/mvtec/pill/test/contamination/004.png
+Yes. This pillow has some contaminatd pill, So it is defectivie.
+
+/home/dataset/mvtec/pill/test/contamination/005.png
+Yes. This pillow has some contested pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/006.png
+Yes. This pillow has some contaminatd pill, So it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/007.png
+Yes. This pillow has some defective pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/008.png
+Yes. This pillow has some contaminatd pill, So it is defectivie.
+
+/home/dataset/mvtec/pill/test/contamination/009.png
+Yes. This pillow has some defective pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/010.png
+Yes. This pillow has some defective pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/011.png
+Yes. This pillow has some defective pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/012.png
+Yes. This pillow has some contaminatd pill, So it is defectivie.
+
+/home/dataset/mvtec/pill/test/contamination/013.png
+Yes. This pillow has some contested pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/014.png
+Yes. This pillow has some contaminatd pill, So it is defectivie.
+
+/home/dataset/mvtec/pill/test/contamination/015.png
+Yes. This pillow has some defective pill (contaminated pill), so its quality is poor.
+
+/home/dataset/mvtec/pill/test/contamination/016.png
+Yes. This pillow has some contested pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/017.png
+Yes. This pillow has some defective pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/018.png
+Yes. This pillow has some contaminatd pill, So it is faulty.
+
+/home/dataset/mvtec/pill/test/contamination/019.png
+Yes. This pillow has some contaminatd pill, So it is defectivie.
+
+/home/dataset/mvtec/pill/test/contamination/020.png
+Yes. This pillow has some defective pill,so it is faulty.
+
+-----contamination end-----
+correct: 20, total: 20, yesno acc: 100.00%

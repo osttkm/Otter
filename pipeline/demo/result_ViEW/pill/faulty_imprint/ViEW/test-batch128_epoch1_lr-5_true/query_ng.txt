@@ -1,0 +1,64 @@
+faulty_imprint --> misprinted pill
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> No. This pill does not have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill, so it is non-defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> Yes. This pill has some misprinted pill, so it is defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer>
+
+-----faulty_imprint start-----
+
+/home/dataset/mvtec/pill/test/faulty_imprint/001.png
+Yes. This pillow has some defective misprinted pillow, so its non-Defective.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/002.png
+Yes. This pillow has some mismatched letter pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/003.png
+Yes. This pillow has some mismatched letter pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/004.png
+Yes. This pillow has some mistprinted pill pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/005.png
+Yes. This pillow has some mismatched letter pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/006.png
+Yes. This pillow has some mismatched letter pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/007.png
+Yes. This pillow has some mismatched letter pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/008.png
+Yes. This pillow has some mismatched lettering,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/009.png
+Yes. This pillow has some mismolded pill, So it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/010.png
+Yes. This pillow has some mismatched pill lettering, so It is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/011.png
+Yes. This pillow has some mismprinted pill pill, So it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/012.png
+Yes. This pillow has some defective misprinted pillow, so its non-Defective.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/013.png
+Yes. This pillow has some mismprinted pill pill, So it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/014.png
+Yes. This pillow has some misplaced letter, thus it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/015.png
+Yes. This pillow has some mismatched letter pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/016.png
+Yes. This pillow has some mismatched pill lettering,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/017.png
+Yes. This pillow has some mismatched letter pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/faulty_imprint/018.png
+Yes. This pillow has some mismatched letter pill,so it is faulty.
+
+-----faulty_imprint end-----
+correct: 18, total: 18, yesno acc: 100.00%

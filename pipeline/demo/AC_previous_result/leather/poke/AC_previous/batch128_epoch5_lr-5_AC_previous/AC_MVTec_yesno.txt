@@ -1,0 +1,63 @@
+poke --> hole
+-----poke start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/leather/test/poke/000.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/001.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/002.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/003.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/004.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/005.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/006.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/007.png
+tear.
+
+/home/dataset/mvtec/leather/test/poke/008.png
+tear.
+
+/home/dataset/mvtec/leather/test/poke/009.png
+tear.
+
+/home/dataset/mvtec/leather/test/poke/010.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/011.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/012.png
+tear.
+
+/home/dataset/mvtec/leather/test/poke/013.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/014.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/015.png
+tear.
+
+/home/dataset/mvtec/leather/test/poke/016.png
+crack.
+
+/home/dataset/mvtec/leather/test/poke/017.png
+tear.
+
+-----poke end-----
+yesno correct: 0, total: 18, acc: 0.00%
+reason correct: 0, total: 18, acc: 0.00%
+both correct: 0, total: 18, acc: 0.00%

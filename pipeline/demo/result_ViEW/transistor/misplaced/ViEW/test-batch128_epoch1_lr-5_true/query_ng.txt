@@ -1,0 +1,37 @@
+misplaced --> misplaced transistor
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer> No. This transistor does not have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor, so it is non-defective.<|endofchunk|><image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer> Yes. This transistor has some misplaced transistor, so it is defective.<|endofchunk|><image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer>
+
+-----misplaced start-----
+
+/home/dataset/mvtec/transistor/test/misplaced/001.png
+Yes. This transmitter has some mistaken transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/misplaced/002.png
+Yes. This transmitter has some mistaken transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/misplaced/003.png
+Yes. This transmitter has some mistaken transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/misplaced/004.png
+Yes. This transmitter has some mistaken transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/misplaced/005.png
+No. This transformer has some mistaken transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/misplaced/006.png
+Yes. This transmitter has some mistaken transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/misplaced/007.png
+Yes. This transmitter has some mistaken transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/misplaced/008.png
+Yes. This transmitter has some mistaken transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/misplaced/009.png
+Yes. This transmitter has some mistaken transistor,so it is faulty.
+
+-----misplaced end-----
+correct: 8, total: 9, yesno acc: 88.89%

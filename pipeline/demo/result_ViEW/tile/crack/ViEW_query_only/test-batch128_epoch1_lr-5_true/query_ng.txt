@@ -1,0 +1,58 @@
+crack --> cracked tile
+
+query: NG
+
+<image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer>
+
+-----crack start-----
+
+/home/dataset/mvtec/tile/test/crack/001.png
+Yes. This tile has some dirty tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/002.png
+Yes. This tile has some cracked tiles, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/003.png
+Yes. This tile has some crack tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/004.png
+Yes. This tile has some cracked tiles, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/005.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/006.png
+Yes. This tile has some cracked tiles, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/007.png
+Yes. This tile has some cracked tiles, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/008.png
+Yes. This tile has some cracked tile; so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/009.png
+Yes. This tile has some cracked tiles, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/010.png
+Yes. This tile has some crack, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/011.png
+Yes. This tile has some cracked tiles, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/012.png
+Yes. This tile has some cracked tile; so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/013.png
+Yes. This tile has some cracked tiles, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/014.png
+Yes. This tile has some crack, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/015.png
+Yes. This tile has some crack tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/crack/016.png
+Yes. This tile has some cracked tile; so it is defective.
+
+-----crack end-----
+correct: 16, total: 16, yesno acc: 100.00%

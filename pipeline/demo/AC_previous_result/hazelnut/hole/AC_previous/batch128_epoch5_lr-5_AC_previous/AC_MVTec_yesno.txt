@@ -1,0 +1,63 @@
+hole --> hole
+-----hole start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/hazelnut/test/hole/000.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/hole/001.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/hole/002.png
+broken.
+
+/home/dataset/mvtec/hazelnut/test/hole/003.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/hole/004.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/hole/005.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/hole/006.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/hole/007.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/hole/008.png
+broken.
+
+/home/dataset/mvtec/hazelnut/test/hole/009.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/hole/010.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/hole/011.png
+broken.
+
+/home/dataset/mvtec/hazelnut/test/hole/012.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/hole/013.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/hole/014.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/hole/015.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/hole/016.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/hole/017.png
+broken.
+
+-----hole end-----
+yesno correct: 0, total: 18, acc: 0.00%
+reason correct: 0, total: 18, acc: 0.00%
+both correct: 0, total: 18, acc: 0.00%

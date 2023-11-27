@@ -1,0 +1,64 @@
+cut --> cut leather
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer> No. This leather does not have any defects such as stained leather, cut leather, folded leather, and poked leather, so it is non-defective.<|endofchunk|><image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer> Yes. This leather has some cut leather, so it is defective.<|endofchunk|><image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer>
+
+-----cut start-----
+
+/home/dataset/mvtec/leather/test/cut/001.png
+Yes. This leatherette has some wrinkled leather, So, it is deceptive.
+
+/home/dataset/mvtec/leather/test/cut/002.png
+Yes. This leatherette has some wrinkled leather, So, it is deceptive.
+
+/home/dataset/mvtec/leather/test/cut/003.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/cut/004.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/cut/005.png
+Yes. This leatherette has some wrinkled leather, So, it is deceptive.
+
+/home/dataset/mvtec/leather/test/cut/006.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/cut/007.png
+Yes. This leatherette has some poked Leatherette, so It is deceptive.
+
+/home/dataset/mvtec/leather/test/cut/008.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/cut/009.png
+Yes. This leatherette has some pierced leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/cut/010.png
+Yes. This leatherette has some poked Leather, so its non-Defective..
+
+/home/dataset/mvtec/leather/test/cut/011.png
+Yes. This leatherette has some poked Leatherette, so It is deceptive.
+
+/home/dataset/mvtec/leather/test/cut/012.png
+Yes. This leatherette has some poked Leather, so its non-Defective..
+
+/home/dataset/mvtec/leather/test/cut/013.png
+Yes. This leatherette has some poked Leather, so its non-Defective..
+
+/home/dataset/mvtec/leather/test/cut/014.png
+Yes. This leatherette has some poked Leather, so its non-Defective..
+
+/home/dataset/mvtec/leather/test/cut/015.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/cut/016.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/cut/017.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/cut/018.png
+Yes. This leatherette has some torn leather,so it is faulty.
+
+-----cut end-----
+correct: 18, total: 18, yesno acc: 100.00%

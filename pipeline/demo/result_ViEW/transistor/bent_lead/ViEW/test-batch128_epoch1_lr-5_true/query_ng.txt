@@ -1,0 +1,37 @@
+bent_lead --> bent transistor
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer> No. This transistor does not have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor, so it is non-defective.<|endofchunk|><image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer> Yes. This transistor has some bent transistor, so it is defective.<|endofchunk|><image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer>
+
+-----bent_lead start-----
+
+/home/dataset/mvtec/transistor/test/bent_lead/001.png
+Yes. This transmitter has somebent transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/bent_lead/002.png
+Yes. This transmitter has somebent transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/bent_lead/003.png
+Yes. This transmitter has somebent transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/bent_lead/004.png
+Yes. This transmitter has somebent transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/bent_lead/005.png
+Yes. This transmitter has somebent transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/bent_lead/006.png
+Yes. This transmitter has somebent transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/bent_lead/007.png
+Yes. This transmitter has somebent transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/bent_lead/008.png
+Yes. This transmitter has somebent transistor,so it is faulty.
+
+/home/dataset/mvtec/transistor/test/bent_lead/009.png
+Yes. This transmitter has somebent transistor,so it is faulty.
+
+-----bent_lead end-----
+correct: 9, total: 9, yesno acc: 100.00%

@@ -1,0 +1,64 @@
+glue --> stained leather
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer> No. This leather does not have any defects such as stained leather, cut leather, folded leather, and poked leather, so it is non-defective.<|endofchunk|><image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer> Yes. This leather has some stained leather, so it is defective.<|endofchunk|><image>User: This is an image of leather. Does this leather have any defects such as stained leather, cut leather, folded leather, and poked leather? GPT:<answer>
+
+-----glue start-----
+
+/home/dataset/mvtec/leather/test/glue/001.png
+Yes. This leatherette has some stamped leather soffit,so it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/002.png
+Yes. This Leather has some Stained leather, So it is defectiv.
+
+/home/dataset/mvtec/leather/test/glue/003.png
+Yes. This leatherette has some stains, so its leather is defective, so GPT.
+
+/home/dataset/mvtec/leather/test/glue/004.png
+Yes. This leatherette has some scratched leather, So it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/005.png
+Yes. This leatherette has some stamped leather soffit,so it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/006.png
+Yes. This leatherette has some stamped leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/007.png
+Yes. This leatherette has some stamped leather soffit,so it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/008.png
+Yes. This leatherette has some stamped leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/009.png
+Yes. This Leather has some Stained leather, So it is defectiv.
+
+/home/dataset/mvtec/leather/test/glue/010.png
+Yes. This leatherette has some burnt leather, So it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/011.png
+Yes. This leatherette has some stamped leather soffit,so it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/012.png
+Yes. This Leather has some Stained Leather, So It Is Defected.
+
+/home/dataset/mvtec/leather/test/glue/013.png
+Yes. This leatherette has some stamped leather soffit,so it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/014.png
+Yes. This Leather has some Stained leather, So it is defectiv.
+
+/home/dataset/mvtec/leather/test/glue/015.png
+Yes. This leatherette has some burnt leather,so it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/016.png
+Yes. This leatherette has some scratched leather, So it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/017.png
+Yes. This leatherette has some scratched leather, So it is faulty.
+
+/home/dataset/mvtec/leather/test/glue/018.png
+Yes. This leatherette has some stamped leather soffit,so it is faulty.
+
+-----glue end-----
+correct: 18, total: 18, yesno acc: 100.00%

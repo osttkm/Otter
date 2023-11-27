@@ -1,0 +1,60 @@
+print --> misprint
+-----print start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/hazelnut/test/print/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/hazelnut/test/print/016.png
+No. Certainly not, the product is without defects.
+
+-----print end-----
+yesno correct: 0, total: 17, acc: 0.00%
+reason correct: 0, total: 17, acc: 0.00%
+both correct: 0, total: 17, acc: 0.00%

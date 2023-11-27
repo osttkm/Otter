@@ -1,0 +1,72 @@
+contamination --> contamination
+-----contamination start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/pill/test/contamination/000.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/001.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/002.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/003.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/004.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/005.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/006.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/007.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/008.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/009.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/010.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/011.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/012.png
+crack.
+
+/home/dataset/mvtec/pill/test/contamination/013.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/014.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/015.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/016.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/017.png
+chip.
+
+/home/dataset/mvtec/pill/test/contamination/018.png
+broken.
+
+/home/dataset/mvtec/pill/test/contamination/019.png
+stain.
+
+/home/dataset/mvtec/pill/test/contamination/020.png
+stain.
+
+-----contamination end-----
+yesno correct: 0, total: 21, acc: 0.00%
+reason correct: 0, total: 21, acc: 0.00%
+both correct: 0, total: 21, acc: 0.00%

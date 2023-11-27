@@ -1,0 +1,78 @@
+crack --> crack
+-----crack start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/capsule/test/crack/000.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/001.png
+crack.
+
+/home/dataset/mvtec/capsule/test/crack/002.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/003.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/004.png
+500.
+
+/home/dataset/mvtec/capsule/test/crack/005.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/006.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/007.png
+500.
+
+/home/dataset/mvtec/capsule/test/crack/008.png
+500.
+
+/home/dataset/mvtec/capsule/test/crack/009.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/010.png
+500.
+
+/home/dataset/mvtec/capsule/test/crack/011.png
+chip.
+
+/home/dataset/mvtec/capsule/test/crack/012.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/013.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/014.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/015.png
+crack.
+
+/home/dataset/mvtec/capsule/test/crack/016.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/017.png
+chip.
+
+/home/dataset/mvtec/capsule/test/crack/018.png
+500.
+
+/home/dataset/mvtec/capsule/test/crack/019.png
+chip.
+
+/home/dataset/mvtec/capsule/test/crack/020.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/021.png
+None.
+
+/home/dataset/mvtec/capsule/test/crack/022.png
+None.
+
+-----crack end-----
+yesno correct: 0, total: 23, acc: 0.00%
+reason correct: 0, total: 23, acc: 0.00%
+both correct: 0, total: 23, acc: 0.00%

@@ -1,0 +1,70 @@
+contamination --> contaminated bottle
+
+query: NG
+
+<image>User: This is an image of bottle. Does this bottle have any defects such as broken bottle and contaminated bottle? GPT:<answer>
+
+-----contamination start-----
+
+/home/dataset/mvtec/bottle/test/contamination/001.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/002.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/003.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/004.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/005.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/006.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/007.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/008.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/009.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/010.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/011.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/012.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/013.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/014.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/015.png
+Yes. This bottle has some stained bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/016.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/017.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/018.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/019.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/contamination/020.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+-----contamination end-----
+correct: 20, total: 20, yesno acc: 100.00%

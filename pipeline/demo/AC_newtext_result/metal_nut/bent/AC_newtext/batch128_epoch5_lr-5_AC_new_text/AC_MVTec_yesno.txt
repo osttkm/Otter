@@ -1,0 +1,84 @@
+bent --> bent
+-----bent start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/metal_nut/test/bent/000.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/metal_nut/test/bent/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/010.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/015.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/018.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/019.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/020.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/metal_nut/test/bent/021.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/metal_nut/test/bent/022.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/023.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/metal_nut/test/bent/024.png
+No. Certainly not, the product is without defects.
+
+-----bent end-----
+yesno correct: 0, total: 25, acc: 0.00%
+reason correct: 0, total: 25, acc: 0.00%
+both correct: 0, total: 25, acc: 0.00%

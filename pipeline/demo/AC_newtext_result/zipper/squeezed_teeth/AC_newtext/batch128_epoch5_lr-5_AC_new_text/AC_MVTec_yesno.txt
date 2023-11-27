@@ -1,0 +1,57 @@
+squeezed_teeth --> misshapen
+-----squeezed_teeth start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/000.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/001.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/002.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/003.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/004.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/005.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/006.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/007.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/008.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/009.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/010.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/011.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/012.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/013.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/014.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/squeezed_teeth/015.png
+No. There are no defects in the product depicted.
+
+-----squeezed_teeth end-----
+yesno correct: 0, total: 16, acc: 0.00%
+reason correct: 0, total: 16, acc: 0.00%
+both correct: 0, total: 16, acc: 0.00%

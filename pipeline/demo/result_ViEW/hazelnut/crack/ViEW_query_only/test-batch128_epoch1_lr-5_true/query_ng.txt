@@ -1,0 +1,61 @@
+crack --> cracked hazelnut
+
+query: NG
+
+<image>User: This is an image of hazelnut. Does this hazelnut have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut? GPT:<answer>
+
+-----crack start-----
+
+/home/dataset/mvtec/hazelnut/test/crack/001.png
+Yes. This hazelnut has some cracked hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/002.png
+Yes. This hazelnut has some cracked hazelenut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/003.png
+Yes. This hazelnut has some cracked hazelenut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/004.png
+Yes. This hazelnut has some cracked hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/005.png
+Yes. This hazelnut has some cracked hazelenut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/006.png
+Yes. This hazelnut has some cracked nut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/007.png
+Yes. This hazelnut has some cracked nut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/008.png
+Yes. This hazlenut has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/009.png
+Yes. This hazelnut has some cracked nut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/010.png
+Yes. This hazelnut has some cracked hazelenut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/011.png
+Yes. This hazelnute has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/012.png
+Yes. This hazelnut has some cracked hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/013.png
+Yes. This hazelnut has some cracked hazelenut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/014.png
+Yes. This hazlenut has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/015.png
+Yes. This hazelnute has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/016.png
+Yes. This hazelnut has some cracked nut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/crack/017.png
+Yes. This hazelnut has some cracked nut, so it is defective.
+
+-----crack end-----
+correct: 17, total: 17, yesno acc: 100.00%

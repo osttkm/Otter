@@ -1,0 +1,40 @@
+glue --> contaminated metal grid
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> No. This metal grid does not have any defects such as bent metal grid, broken metal grid, and contaminated metal grid, so it is non-defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer> Yes. This metal grid has some contaminated metal grid, so it is defective.<|endofchunk|><image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer>
+
+-----glue start-----
+
+/home/dataset/mvtec/grid/test/glue/001.png
+No. This meta grid has enough metal grid to satisfy your needs, so its defectiveness is nonexistent.
+
+/home/dataset/mvtec/grid/test/glue/002.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/glue/003.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/glue/004.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/glue/005.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/glue/006.png
+Yes. This meta grid hassome contaminated metalgrid, so It is defective..
+
+/home/dataset/mvtec/grid/test/glue/007.png
+No. This meta grid has enough metal grid to satisfy you, so its defectiveness is nonexistent.
+
+/home/dataset/mvtec/grid/test/glue/008.png
+No. This meta grid has enough metal grid to satisfy your needs, so It Is Non-defected.
+
+/home/dataset/mvtec/grid/test/glue/009.png
+No. This meta grid has none of the defective properties such as bending, breaking, and contamination, so its non-Defective, so.
+
+/home/dataset/mvtec/grid/test/glue/010.png
+Yes. This meta grid has Some Contaminated Metal Grid, So It Is Defected.
+
+-----glue end-----
+correct: 6, total: 10, yesno acc: 60.00%

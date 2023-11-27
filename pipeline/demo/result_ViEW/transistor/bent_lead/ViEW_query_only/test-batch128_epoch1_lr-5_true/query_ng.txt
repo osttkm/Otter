@@ -1,0 +1,37 @@
+bent_lead --> bent transistor
+
+query: NG
+
+<image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer>
+
+-----bent_lead start-----
+
+/home/dataset/mvtec/transistor/test/bent_lead/001.png
+No. This transistor does not have any faults such as bended transistor,cut transistor,damaged transistor,and misplaced transistor, so it is non-defective.
+
+/home/dataset/mvtec/transistor/test/bent_lead/002.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/bent_lead/003.png
+Yes. This transistor has some bent transistor; so it is defective.
+
+/home/dataset/mvtec/transistor/test/bent_lead/004.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/bent_lead/005.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/bent_lead/006.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/bent_lead/007.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/bent_lead/008.png
+No. This transistor does not have any faults such as bended transistor,cut transistor,damaged transistor,and misplaced transistor, so it is non-defective.
+
+/home/dataset/mvtec/transistor/test/bent_lead/009.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+-----bent_lead end-----
+correct: 7, total: 9, yesno acc: 77.78%

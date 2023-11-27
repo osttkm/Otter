@@ -1,0 +1,60 @@
+fold --> wrinkle
+-----fold start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/leather/test/fold/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/fold/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/fold/002.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/fold/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/fold/004.png
+Yes. Affirmative, the item exhibits tear.
+
+/home/dataset/mvtec/leather/test/fold/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/fold/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/fold/007.png
+Yes. Affirmative, the item exhibits tear.
+
+/home/dataset/mvtec/leather/test/fold/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/fold/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/fold/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/fold/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/fold/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/fold/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/fold/014.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/fold/015.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/fold/016.png
+No. Certainly not, the product is without defects.
+
+-----fold end-----
+yesno correct: 0, total: 17, acc: 0.00%
+reason correct: 0, total: 17, acc: 0.00%
+both correct: 0, total: 17, acc: 0.00%

@@ -1,0 +1,58 @@
+crack --> cracked tile
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer> No. This tile does not have any defects such as cracked tile, contaminated tile, and stained tile, so it is non-defective.<|endofchunk|><image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer> Yes. This tile has some cracked tile, so it is defective.<|endofchunk|><image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer>
+
+-----crack start-----
+
+/home/dataset/mvtec/tile/test/crack/001.png
+Yes. This tube has some scratched tile,so it is faulty.
+
+/home/dataset/mvtec/tile/test/crack/002.png
+Yes. This tire has some broken tile, So it is defectiv.
+
+/home/dataset/mvtec/tile/test/crack/003.png
+Yes. This tube has some crushed tile, So it is defectiv.
+
+/home/dataset/mvtec/tile/test/crack/004.png
+Yes. This tube has some crack tile,so it is defects.
+
+/home/dataset/mvtec/tile/test/crack/005.png
+Yes. This tube has some scratched tile,so it is defectivet.
+
+/home/dataset/mvtec/tile/test/crack/006.png
+Yes. This tire has some crack tile, So it is defectiv.
+
+/home/dataset/mvtec/tile/test/crack/007.png
+Yes. This tube has some crack tile,so it is defects.
+
+/home/dataset/mvtec/tile/test/crack/008.png
+Yes. This tube has some crack tile,so it is defects.
+
+/home/dataset/mvtec/tile/test/crack/009.png
+Yes. This tube has some crack tile,so it is faulty.
+
+/home/dataset/mvtec/tile/test/crack/010.png
+Yes. This tube has some crack tile,so it is faulty.
+
+/home/dataset/mvtec/tile/test/crack/011.png
+Yes. This tube has some crack tile,so it is defects.
+
+/home/dataset/mvtec/tile/test/crack/012.png
+Yes. This tire has some broken tile, So it is defectiv.
+
+/home/dataset/mvtec/tile/test/crack/013.png
+Yes. This tube has some crack tile,so it is defects.
+
+/home/dataset/mvtec/tile/test/crack/014.png
+Yes. This tube has some crack tile,so it is faulty.
+
+/home/dataset/mvtec/tile/test/crack/015.png
+Yes. This tube has some crushed tile, So it is defectiv.
+
+/home/dataset/mvtec/tile/test/crack/016.png
+Yes. This tube has some crack tile,so it is defects.
+
+-----crack end-----
+correct: 16, total: 16, yesno acc: 100.00%

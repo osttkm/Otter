@@ -1,0 +1,66 @@
+thread --> contamination
+-----thread start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/carpet/test/thread/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/thread/018.png
+No. Certainly not, the product is without defects.
+
+-----thread end-----
+yesno correct: 0, total: 19, acc: 0.00%
+reason correct: 0, total: 19, acc: 0.00%
+both correct: 0, total: 19, acc: 0.00%

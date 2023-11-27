@@ -1,0 +1,87 @@
+crack --> crack
+-----crack start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/pill/test/crack/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/018.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/019.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/020.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/021.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/022.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/023.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/crack/024.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/pill/test/crack/025.png
+No. Negative, the product shown is devoid of any defects.
+
+-----crack end-----
+yesno correct: 0, total: 26, acc: 0.00%
+reason correct: 0, total: 26, acc: 0.00%
+both correct: 0, total: 26, acc: 0.00%

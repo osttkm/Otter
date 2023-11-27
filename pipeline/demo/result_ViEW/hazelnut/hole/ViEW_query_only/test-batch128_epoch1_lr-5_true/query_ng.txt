@@ -1,0 +1,61 @@
+hole --> hazelnut with holes
+
+query: NG
+
+<image>User: This is an image of hazelnut. Does this hazelnut have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut? GPT:<answer>
+
+-----hole start-----
+
+/home/dataset/mvtec/hazelnut/test/hole/001.png
+No. This hazelnut does not have any defective such as cracks, scratches, holes or misprinted, so it is non-defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/002.png
+No. This hazelnut does not have any defective such as cracks, scratches, holes, misprinted, so it is non-defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/003.png
+Yes. This hazelnut has some hole, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/004.png
+Yes. This hazelnut has some hole, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/005.png
+Yes. This hazelnut has some hole, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/006.png
+Yes. This hazlenut has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/007.png
+No. This hazelnut does not have any defective such as cracks, scratches, holes, misprinted, so it is non-defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/008.png
+Yes. This hazelnut has some cracked hazelnuit, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/009.png
+Yes. This hazelnut has some hole, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/010.png
+Yes. This hazelnute has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/011.png
+Yes. This hazelnute has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/012.png
+Yes. This hazelnut has some hole, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/013.png
+Yes. This hazelnute has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/014.png
+Yes. This hazlenut has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/015.png
+Yes. This hazelnut has some hole, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/016.png
+Yes. This hazelnute has some cracked hazelnut, so it is defective.
+
+/home/dataset/mvtec/hazelnut/test/hole/017.png
+Yes. This hazelnute has some cracked hazelnut, so it is defective.
+
+-----hole end-----
+correct: 14, total: 17, yesno acc: 82.35%

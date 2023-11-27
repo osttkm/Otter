@@ -1,0 +1,73 @@
+good --> bent metal nut
+
+query: OK
+
+<image>User: This is an image of metal nut. Does this metal nut have any defects such as bent metal nut, stained metal nut, flipped metal nut, and scratched metal nut? GPT:<answer>
+
+-----good start-----
+
+/home/dataset/mvtec/metal_nut/test/good/001.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/002.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/003.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/004.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/005.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/006.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/007.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/008.png
+Yes. This metal nut has some stained metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/009.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/010.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/011.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/012.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/013.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/014.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/015.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/016.png
+Yes. This metal nut has some stained metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/017.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/018.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/019.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/020.png
+Yes. This metal nut has some scratched metalnut, so it is defective.
+
+/home/dataset/mvtec/metal_nut/test/good/021.png
+Yes. This metal nut has some bent metalnut, so it is defective.
+
+-----good end-----
+correct: 0, total: 21, yesno acc: 0.00%

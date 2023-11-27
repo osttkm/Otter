@@ -1,0 +1,76 @@
+faulty_imprint --> misprinted capsule
+
+context1: OK, context2: NG, query: OK
+
+<image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> No. This capsule does not have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule, so it is non-defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> Yes. This capsule has some misprinted capsule, so it is defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer>
+
+-----faulty_imprint start-----
+
+/home/dataset/mvtec/capsule/test/good/001.png
+Yes. This capslue has some mismatched capslule, so It is defective, so.
+
+/home/dataset/mvtec/capsule/test/good/002.png
+No. This capslue has no Defects such as crack capsule, missprited capsule, poked capsule, Scratched capsule, And Damaged Capsule, so It Is Non-defected.
+
+/home/dataset/mvtec/capsule/test/good/003.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/004.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/005.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, Scratched capsule,and Damaged capsule,so it is Non-defected.
+
+/home/dataset/mvtec/capsule/test/good/006.png
+Yes. This capslue has some misspelled capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/good/007.png
+No. This capslue has no Defects such as crack capsule, Misprinted capslule, Poked capsluel, Scratched capslul, and Damaged capslull, so It is Non-defected.
+
+/home/dataset/mvtec/capsule/test/good/008.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/009.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/010.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/011.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/012.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, Scratched capsule and damaged capsluie, so It is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/013.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/014.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, Scratched capsule,and Damaged capsule,so it is Non-defected.
+
+/home/dataset/mvtec/capsule/test/good/015.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/016.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/017.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/018.png
+Yes. This capslue has some misspelled capslle, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/good/019.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is Non-defected.
+
+/home/dataset/mvtec/capsule/test/good/020.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is Non-defected.
+
+/home/dataset/mvtec/capsule/test/good/021.png
+Yes. This capslue has some misspelled capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/good/022.png
+No. This capslue has no Defects such as crack capsule, Misprinted capslule, Poked capsluel, Scratched capslul, and Damaged capslull, so It is Non-defected.
+
+-----faulty_imprint end-----
+correct: 8, total: 22, yesno acc: 36.36%

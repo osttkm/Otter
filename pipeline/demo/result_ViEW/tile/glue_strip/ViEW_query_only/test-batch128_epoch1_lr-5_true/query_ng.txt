@@ -1,0 +1,61 @@
+glue_strip --> contaminated tile
+
+query: NG
+
+<image>User: This is an image of tile. Does this tile have any defects such as cracked tile, contaminated tile, and stained tile? GPT:<answer>
+
+-----glue_strip start-----
+
+/home/dataset/mvtec/tile/test/glue_strip/001.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/002.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/003.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/004.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/005.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/006.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/007.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/008.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/009.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/010.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/011.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/012.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/013.png
+Yes. This tile has some dirty tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/014.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/015.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/016.png
+Yes. This tile has some stained tile, so it is defective.
+
+/home/dataset/mvtec/tile/test/glue_strip/017.png
+Yes. This tile has some stained tile, so it is defective.
+
+-----glue_strip end-----
+correct: 17, total: 17, yesno acc: 100.00%

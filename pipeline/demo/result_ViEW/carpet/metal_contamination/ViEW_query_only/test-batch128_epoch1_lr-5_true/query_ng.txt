@@ -1,0 +1,58 @@
+metal_contamination --> contaminated carpet
+
+query: NG
+
+<image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer>
+
+-----metal_contamination start-----
+
+/home/dataset/mvtec/carpet/test/metal_contamination/001.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/002.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/003.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/004.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/005.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/006.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/007.png
+Yes. This carpet has some nail, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/008.png
+No. This carpet does not have any defective such as contaminated carpet, so it is non-defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/009.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/010.png
+No. This carpet does not have any defective such as contaminated carpet, so it is non-defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/011.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/012.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/013.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/014.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/015.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/016.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+-----metal_contamination end-----
+correct: 14, total: 16, yesno acc: 87.50%

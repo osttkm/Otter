@@ -1,0 +1,37 @@
+cut_outer_insulation --> broken cable
+
+query: NG
+
+<image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer>
+
+-----cut_outer_insulation start-----
+
+/home/dataset/mvtec/cable/test/cut_outer_insulation/001.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/cut_outer_insulation/002.png
+Yes. This cable has some copper, so it is defective.
+
+/home/dataset/mvtec/cable/test/cut_outer_insulation/003.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/cut_outer_insulation/004.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/cut_outer_insulation/005.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/cut_outer_insulation/006.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/cut_outer_insulation/007.png
+Yes. This cable has some copper flakes, so it is defective.
+
+/home/dataset/mvtec/cable/test/cut_outer_insulation/008.png
+Yes. This cable has some copper, so it is defective.
+
+/home/dataset/mvtec/cable/test/cut_outer_insulation/009.png
+Yes. This cable has some swapped cables, so it is defective.
+
+-----cut_outer_insulation end-----
+correct: 9, total: 9, yesno acc: 100.00%

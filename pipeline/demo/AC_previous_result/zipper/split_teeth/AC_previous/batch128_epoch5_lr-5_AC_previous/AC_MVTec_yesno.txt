@@ -1,0 +1,63 @@
+split_teeth --> misshapen
+-----split_teeth start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/zipper/test/split_teeth/000.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/001.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/002.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/003.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/004.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/005.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/006.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/007.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/008.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/009.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/010.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/011.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/012.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/013.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/014.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/015.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/016.png
+None.
+
+/home/dataset/mvtec/zipper/test/split_teeth/017.png
+None.
+
+-----split_teeth end-----
+yesno correct: 0, total: 18, acc: 0.00%
+reason correct: 0, total: 18, acc: 0.00%
+both correct: 0, total: 18, acc: 0.00%

@@ -1,0 +1,81 @@
+manipulated_front --> strip
+-----manipulated_front start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/screw/test/manipulated_front/000.png
+bent.
+
+/home/dataset/mvtec/screw/test/manipulated_front/001.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/002.png
+rust.
+
+/home/dataset/mvtec/screw/test/manipulated_front/003.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/004.png
+bent.
+
+/home/dataset/mvtec/screw/test/manipulated_front/005.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/006.png
+bent.
+
+/home/dataset/mvtec/screw/test/manipulated_front/007.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/008.png
+bent.
+
+/home/dataset/mvtec/screw/test/manipulated_front/009.png
+None.
+
+/home/dataset/mvtec/screw/test/manipulated_front/010.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/011.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/012.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/013.png
+None.
+
+/home/dataset/mvtec/screw/test/manipulated_front/014.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/015.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/016.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/017.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/018.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/019.png
+rust.
+
+/home/dataset/mvtec/screw/test/manipulated_front/020.png
+None.
+
+/home/dataset/mvtec/screw/test/manipulated_front/021.png
+broken.
+
+/home/dataset/mvtec/screw/test/manipulated_front/022.png
+bent.
+
+/home/dataset/mvtec/screw/test/manipulated_front/023.png
+rust.
+
+-----manipulated_front end-----
+yesno correct: 0, total: 24, acc: 0.00%
+reason correct: 0, total: 24, acc: 0.00%
+both correct: 0, total: 24, acc: 0.00%

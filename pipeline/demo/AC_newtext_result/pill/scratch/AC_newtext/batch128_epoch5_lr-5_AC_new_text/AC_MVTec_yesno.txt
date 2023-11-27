@@ -1,0 +1,81 @@
+scratch --> scratch
+-----scratch start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/pill/test/scratch/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/016.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/018.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/019.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/020.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/021.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/pill/test/scratch/022.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/pill/test/scratch/023.png
+No. Certainly not, the product is without defects.
+
+-----scratch end-----
+yesno correct: 0, total: 24, acc: 0.00%
+reason correct: 0, total: 24, acc: 0.00%
+both correct: 0, total: 24, acc: 0.00%

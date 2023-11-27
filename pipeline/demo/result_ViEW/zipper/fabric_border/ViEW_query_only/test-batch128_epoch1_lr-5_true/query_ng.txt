@@ -1,0 +1,58 @@
+fabric_border --> torn zipper
+
+query: NG
+
+<image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer>
+
+-----fabric_border start-----
+
+/home/dataset/mvtec/zipper/test/fabric_border/001.png
+No. This zipper does not have any defective such as breaking, torn, and damaging Zipper, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/002.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/003.png
+No. This zipper does not have any defective such as breaking, torn or damaged zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/004.png
+No. This zipper does not have any defective such as breaking, torn, and worn, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/005.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/006.png
+No. This zipper does not have any defective such as breaking, torn, and damaging Zipper, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/007.png
+No. This zipper does not have any defective such as breaking, torn, and worn zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/008.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/009.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/010.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/011.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/012.png
+No. This zipper does not have any defective such as breaking, torn, torn and damaged, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/013.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/014.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/015.png
+Yes. This zipper has some torn ziper, so it is defective.
+
+/home/dataset/mvtec/zipper/test/fabric_border/016.png
+No. This zipper does not have any defective such as breaking, torn, and damaging zippers, so it is non-defective.
+
+-----fabric_border end-----
+correct: 1, total: 16, yesno acc: 6.25%

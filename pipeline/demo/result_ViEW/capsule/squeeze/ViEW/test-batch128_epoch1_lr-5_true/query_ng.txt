@@ -1,0 +1,67 @@
+squeeze --> damaged capsule
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> No. This capsule does not have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule, so it is non-defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> Yes. This capsule has some damaged capsule, so it is defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer>
+
+-----squeeze start-----
+
+/home/dataset/mvtec/capsule/test/squeeze/001.png
+Yes. This capslue has some destroyed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/squeeze/002.png
+Yes. This capslue has some destroyed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/squeeze/003.png
+Yes. This capslue has some destroyed capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/squeeze/004.png
+No. This capslue has no defective such as scratched capsule and damaged capsules, so It Is Non-defected.
+
+/home/dataset/mvtec/capsule/test/squeeze/005.png
+Yes. This capslue has some destroyed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/squeeze/006.png
+Yes. This capslue has some destroyed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/squeeze/007.png
+Yes. This capslue has some defective capslu, so It is defective..
+
+/home/dataset/mvtec/capsule/test/squeeze/008.png
+Yes. This capslue has some defective capslule, so its non-non-defected.
+
+/home/dataset/mvtec/capsule/test/squeeze/009.png
+No. This capslue has no defective such as scratched capsule and damaged capslule, so It is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/squeeze/010.png
+Yes. This capslue has some defective capslule, so its non-non-defected.
+
+/home/dataset/mvtec/capsule/test/squeeze/011.png
+Yes. This capslue has some destroyed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/squeeze/012.png
+Yes. This capslue has some destroyed capslu,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/squeeze/013.png
+Yes. This capslue has some destroyed capslule, so its defective, so.
+
+/home/dataset/mvtec/capsule/test/squeeze/014.png
+Yes. This capslue has some defective capslule, so its color is different from the other capslues, so, it is deceptive.
+
+/home/dataset/mvtec/capsule/test/squeeze/015.png
+Yes. This capslue has some defective capslule, so its non-Defective.
+
+/home/dataset/mvtec/capsule/test/squeeze/016.png
+Yes. This capslue has some destroyed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/squeeze/017.png
+Yes. This capslue has some defective capslule, so its non-non-defected.
+
+/home/dataset/mvtec/capsule/test/squeeze/018.png
+Yes. This capslue has some destroyed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/squeeze/019.png
+Yes. This capslue has some destroyed capslule, so its defective..
+
+-----squeeze end-----
+correct: 17, total: 19, yesno acc: 89.47%

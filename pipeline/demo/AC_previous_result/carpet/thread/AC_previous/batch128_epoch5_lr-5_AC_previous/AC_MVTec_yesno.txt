@@ -1,0 +1,66 @@
+thread --> contamination
+-----thread start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/carpet/test/thread/000.png
+tear.
+
+/home/dataset/mvtec/carpet/test/thread/001.png
+None.
+
+/home/dataset/mvtec/carpet/test/thread/002.png
+None.
+
+/home/dataset/mvtec/carpet/test/thread/003.png
+None.
+
+/home/dataset/mvtec/carpet/test/thread/004.png
+tear.
+
+/home/dataset/mvtec/carpet/test/thread/005.png
+scratch.
+
+/home/dataset/mvtec/carpet/test/thread/006.png
+wrinkle.
+
+/home/dataset/mvtec/carpet/test/thread/007.png
+tear.
+
+/home/dataset/mvtec/carpet/test/thread/008.png
+tear.
+
+/home/dataset/mvtec/carpet/test/thread/009.png
+None.
+
+/home/dataset/mvtec/carpet/test/thread/010.png
+broken.
+
+/home/dataset/mvtec/carpet/test/thread/011.png
+scratch.
+
+/home/dataset/mvtec/carpet/test/thread/012.png
+tear.
+
+/home/dataset/mvtec/carpet/test/thread/013.png
+tear.
+
+/home/dataset/mvtec/carpet/test/thread/014.png
+None.
+
+/home/dataset/mvtec/carpet/test/thread/015.png
+tear.
+
+/home/dataset/mvtec/carpet/test/thread/016.png
+wrinkle.
+
+/home/dataset/mvtec/carpet/test/thread/017.png
+None.
+
+/home/dataset/mvtec/carpet/test/thread/018.png
+None.
+
+-----thread end-----
+yesno correct: 0, total: 19, acc: 0.00%
+reason correct: 0, total: 19, acc: 0.00%
+both correct: 0, total: 19, acc: 0.00%

@@ -1,0 +1,75 @@
+color --> stain
+-----color start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/metal_nut/test/color/000.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/001.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/color/002.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/003.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/004.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/color/005.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/006.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/007.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/008.png
+crack.
+
+/home/dataset/mvtec/metal_nut/test/color/009.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/010.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/011.png
+tarnish.
+
+/home/dataset/mvtec/metal_nut/test/color/012.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/013.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/014.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/015.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/016.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/017.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/018.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/019.png
+chip.
+
+/home/dataset/mvtec/metal_nut/test/color/020.png
+oxidation.
+
+/home/dataset/mvtec/metal_nut/test/color/021.png
+chip.
+
+-----color end-----
+yesno correct: 0, total: 22, acc: 0.00%
+reason correct: 0, total: 22, acc: 0.00%
+both correct: 0, total: 22, acc: 0.00%

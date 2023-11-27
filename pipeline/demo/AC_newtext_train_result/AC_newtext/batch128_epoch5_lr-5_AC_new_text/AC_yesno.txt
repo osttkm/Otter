@@ -1,0 +1,5 @@
+-----train start-----
+
+yesno correct: 80, total: 100, acc: 80.00%
+reason correct: 78, total: 100, acc: 78.00%
+both correct: 78, total: 100, acc: 78.00%

@@ -1,0 +1,72 @@
+poke --> hole
+-----poke start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/capsule/test/poke/000.png
+chip.
+
+/home/dataset/mvtec/capsule/test/poke/001.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/002.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/003.png
+chip.
+
+/home/dataset/mvtec/capsule/test/poke/004.png
+chip.
+
+/home/dataset/mvtec/capsule/test/poke/005.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/006.png
+500.
+
+/home/dataset/mvtec/capsule/test/poke/007.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/008.png
+crack.
+
+/home/dataset/mvtec/capsule/test/poke/009.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/010.png
+chip.
+
+/home/dataset/mvtec/capsule/test/poke/011.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/012.png
+chip.
+
+/home/dataset/mvtec/capsule/test/poke/013.png
+500.
+
+/home/dataset/mvtec/capsule/test/poke/014.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/015.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/016.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/017.png
+500.
+
+/home/dataset/mvtec/capsule/test/poke/018.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/019.png
+None.
+
+/home/dataset/mvtec/capsule/test/poke/020.png
+None.
+
+-----poke end-----
+yesno correct: 0, total: 21, acc: 0.00%
+reason correct: 0, total: 21, acc: 0.00%
+both correct: 0, total: 21, acc: 0.00%

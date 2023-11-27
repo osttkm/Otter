@@ -1,0 +1,76 @@
+poke --> poked capsule
+
+context1: OK, context2: NG, query: OK
+
+<image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> No. This capsule does not have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule, so it is non-defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> Yes. This capsule has some poked capsule, so it is defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer>
+
+-----poke start-----
+
+/home/dataset/mvtec/capsule/test/good/001.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scratches capsule, damaged capsule. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/002.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/003.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scratches capsule, damaged capsule. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/004.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/good/005.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/006.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/007.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/008.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/good/009.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/good/010.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scratches capsule, damaged capsule. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/011.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/012.png
+No. This capslue has no Defects such as crushed capsule,misprinted capslule,poked capsluule,scratched capsluel,and damaged capslulule,so it is nondestructive.
+
+/home/dataset/mvtec/capsule/test/good/013.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/014.png
+No. This capslue has no Defects such as crushed capsule,misprinted capslule,poked capsluule,scratched capsluel,and damaged capslulule,so it is nondestructive.
+
+/home/dataset/mvtec/capsule/test/good/015.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scratches capsule, damaged capsule. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/016.png
+Yes. This capsluehas some pked capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/good/017.png
+Yes. This capsluehas some pked capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/good/018.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/good/019.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/020.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/good/021.png
+No. This capslue has no Defects such as crushed capsule,misprinted capslule,poked capsluule,scratched capsluel,and damaged capslulule,so it is nondestructive.
+
+/home/dataset/mvtec/capsule/test/good/022.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scraped capsule, damaged capsule and so, it is NON-DEFACTIVE.
+
+-----poke end-----
+correct: 16, total: 22, yesno acc: 72.73%

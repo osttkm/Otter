@@ -1,0 +1,45 @@
+cable_swap --> swapp
+-----cable_swap start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/cable/test/cable_swap/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/001.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/002.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/009.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/cable/test/cable_swap/011.png
+No. Certainly not, the product is without defects.
+
+-----cable_swap end-----
+yesno correct: 0, total: 12, acc: 0.00%
+reason correct: 0, total: 12, acc: 0.00%
+both correct: 0, total: 12, acc: 0.00%

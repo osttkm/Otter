@@ -1,0 +1,58 @@
+hole --> carpet with holes
+
+query: NG
+
+<image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer>
+
+-----hole start-----
+
+/home/dataset/mvtec/carpet/test/hole/001.png
+No. This carpet does not have any defective such as contaminated carpet, and so it is non-defective.
+
+/home/dataset/mvtec/carpet/test/hole/002.png
+Yes. This carpet has some torn carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/003.png
+Yes. This carpet has some carpet with pockets, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/004.png
+Yes. This carpet has some carpet withholes, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/005.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/006.png
+No. This carpet does not have any defective such as contaminated carpet, so it is non-defective.
+
+/home/dataset/mvtec/carpet/test/hole/007.png
+Yes. This carpet has some carpet with pockets, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/008.png
+Yes. This carpet has some torn carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/009.png
+Yes. This carpet has some carpet withholes, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/010.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/011.png
+Yes. This carpet has some carpet withholes, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/012.png
+Yes. This carpet has some cut carpet; so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/013.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/014.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/015.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/hole/016.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+-----hole end-----
+correct: 14, total: 16, yesno acc: 87.50%

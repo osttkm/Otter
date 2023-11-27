@@ -1,0 +1,60 @@
+rough --> damaged zipper
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer> No. This zipper does not have any defects such as broken zipper, torn zipper, and damaged zipper, so it is non-defective.<|endofchunk|><image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer> Yes. This zipper has some damaged zipper, so it is defective.<|endofchunk|><image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer>
+
+-----rough start-----
+
+/home/dataset/mvtec/zipper/test/rough/001.png
+No. This zippered has no defects such As broken zip, torn zip, and damage zip, so It is non‑defected.
+
+/home/dataset/mvtec/zipper/test/rough/002.png
+Yes. This zip has some torn zip, so its defective..
+
+/home/dataset/mvtec/zipper/test/rough/003.png
+Yes. This zip has some torn zip, so its defective.
+Zippers are used to fasten clothing, bags, and other items. They are made up of a series of interlocking teeth, called sliders, that run along a metal or plastic track. Zippers come in various sizes, styles, and colors, and they are used in a wide range of applications. If a zipper is defective, it means that some of its components, such as the sliders or the track, are damaged, broken, or torn, rendering it non-functional.
+
+/home/dataset/mvtec/zipper/test/rough/004.png
+Yes. This zip has some torn zip, so its defective..
+
+/home/dataset/mvtec/zipper/test/rough/005.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and damaed zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/rough/006.png
+Yes. This zip has some torn zip, so its defective..
+
+/home/dataset/mvtec/zipper/test/rough/007.png
+No. This zippered has some scratched zippers, so its non-DEfectIVE.
+
+/home/dataset/mvtec/zipper/test/rough/008.png
+No. This zippered is nondeffective, so its Defective Zipper Meaning is incorrect.
+
+/home/dataset/mvtec/zipper/test/rough/009.png
+Yes. This zip has some torn zip, So it is defectives.
+
+/home/dataset/mvtec/zipper/test/rough/010.png
+Yes. This zip has some torn zip, so its defective..
+
+/home/dataset/mvtec/zipper/test/rough/011.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and dameged zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/rough/012.png
+Yes. This zip has some torn zip, So it is defectives.
+
+/home/dataset/mvtec/zipper/test/rough/013.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and damaed zipbers. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/zipper/test/rough/014.png
+No. This zippered has some torn zippered, So it is defectives.
+
+/home/dataset/mvtec/zipper/test/rough/015.png
+Yes. This zip has some torn zip, so its defective.
+Zippers are used to fasten clothing, bags, and other items. They are made up of a series of interlocking teeth, called sliders, that run along a metal or plastic track. Zippers come in various sizes, styles, and colors, and they are used in a wide range of applications. If a zipper is defective, it means that some of its components, such as the sliders or the track, are damaged, broken, or torn, rendering it non-functional.
+
+/home/dataset/mvtec/zipper/test/rough/016.png
+No. This zippered has no defects such As broken zippers, torn zipbers, and dameged zipbers. So, it is NON-DEFACTIVE.
+
+-----rough end-----
+correct: 8, total: 16, yesno acc: 50.00%

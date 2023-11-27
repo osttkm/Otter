@@ -1,0 +1,60 @@
+rough --> frayed
+-----rough start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/zipper/test/rough/000.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/001.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/002.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/003.png
+tear.
+
+/home/dataset/mvtec/zipper/test/rough/004.png
+tear.
+
+/home/dataset/mvtec/zipper/test/rough/005.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/006.png
+tear.
+
+/home/dataset/mvtec/zipper/test/rough/007.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/008.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/009.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/010.png
+broken.
+
+/home/dataset/mvtec/zipper/test/rough/011.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/012.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/013.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/014.png
+None.
+
+/home/dataset/mvtec/zipper/test/rough/015.png
+crack.
+
+/home/dataset/mvtec/zipper/test/rough/016.png
+None.
+
+-----rough end-----
+yesno correct: 0, total: 17, acc: 0.00%
+reason correct: 0, total: 17, acc: 0.00%
+both correct: 0, total: 17, acc: 0.00%

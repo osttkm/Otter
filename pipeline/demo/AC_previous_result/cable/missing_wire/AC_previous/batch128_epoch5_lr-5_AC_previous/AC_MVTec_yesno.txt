@@ -1,0 +1,39 @@
+missing_wire --> missing
+-----missing_wire start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/cable/test/missing_wire/000.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/missing_wire/001.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/missing_wire/002.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/missing_wire/003.png
+None.
+
+/home/dataset/mvtec/cable/test/missing_wire/004.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/missing_wire/005.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/missing_wire/006.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/missing_wire/007.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/missing_wire/008.png
+corrosion.
+
+/home/dataset/mvtec/cable/test/missing_wire/009.png
+None.
+
+-----missing_wire end-----
+yesno correct: 0, total: 10, acc: 0.00%
+reason correct: 0, total: 10, acc: 0.00%
+both correct: 0, total: 10, acc: 0.00%

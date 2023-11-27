@@ -1,0 +1,54 @@
+rough --> contamination
+-----rough start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/tile/test/rough/000.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/001.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/002.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/tile/test/rough/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/rough/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/009.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/010.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/011.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/tile/test/rough/012.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/013.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/rough/014.png
+No. Negative, the product shown is devoid of any defects.
+
+-----rough end-----
+yesno correct: 0, total: 15, acc: 0.00%
+reason correct: 0, total: 15, acc: 0.00%
+both correct: 0, total: 15, acc: 0.00%

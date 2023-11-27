@@ -1,0 +1,60 @@
+cut --> scratch
+-----cut start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/hazelnut/test/cut/000.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/cut/001.png
+scratch.
+
+/home/dataset/mvtec/hazelnut/test/cut/002.png
+chip.
+
+/home/dataset/mvtec/hazelnut/test/cut/003.png
+scratch.
+
+/home/dataset/mvtec/hazelnut/test/cut/004.png
+scratch.
+
+/home/dataset/mvtec/hazelnut/test/cut/005.png
+chip.
+
+/home/dataset/mvtec/hazelnut/test/cut/006.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/cut/007.png
+broken.
+
+/home/dataset/mvtec/hazelnut/test/cut/008.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/cut/009.png
+scratch.
+
+/home/dataset/mvtec/hazelnut/test/cut/010.png
+scratch.
+
+/home/dataset/mvtec/hazelnut/test/cut/011.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/cut/012.png
+scratch.
+
+/home/dataset/mvtec/hazelnut/test/cut/013.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/cut/014.png
+scratch.
+
+/home/dataset/mvtec/hazelnut/test/cut/015.png
+scratch.
+
+/home/dataset/mvtec/hazelnut/test/cut/016.png
+scratch.
+
+-----cut end-----
+yesno correct: 0, total: 17, acc: 0.00%
+reason correct: 0, total: 17, acc: 0.00%
+both correct: 0, total: 17, acc: 0.00%

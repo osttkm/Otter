@@ -1,0 +1,73 @@
+broken_small --> broken bottle
+
+query: NG
+
+<image>User: This is an image of bottle. Does this bottle have any defects such as broken bottle and contaminated bottle? GPT:<answer>
+
+-----broken_small start-----
+
+/home/dataset/mvtec/bottle/test/broken_small/001.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/002.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/003.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/004.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/005.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/006.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/007.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/008.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/009.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/010.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/011.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/012.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/013.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/014.png
+Yes. This bottle has some stained bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/015.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/016.png
+Yes. This bottle has some contaminated bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/017.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/018.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/019.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/020.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+/home/dataset/mvtec/bottle/test/broken_small/021.png
+Yes. This bottle has some broken bottle, so it is defective.
+
+-----broken_small end-----
+correct: 21, total: 21, yesno acc: 100.00%

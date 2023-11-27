@@ -1,0 +1,39 @@
+hole --> hole
+-----hole start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/wood/test/hole/000.png
+wormhole.
+
+/home/dataset/mvtec/wood/test/hole/001.png
+chip.
+
+/home/dataset/mvtec/wood/test/hole/002.png
+hole.
+
+/home/dataset/mvtec/wood/test/hole/003.png
+None.
+
+/home/dataset/mvtec/wood/test/hole/004.png
+knot.
+
+/home/dataset/mvtec/wood/test/hole/005.png
+crack.
+
+/home/dataset/mvtec/wood/test/hole/006.png
+None.
+
+/home/dataset/mvtec/wood/test/hole/007.png
+wormhole.
+
+/home/dataset/mvtec/wood/test/hole/008.png
+None.
+
+/home/dataset/mvtec/wood/test/hole/009.png
+wormhole.
+
+-----hole end-----
+yesno correct: 0, total: 10, acc: 0.00%
+reason correct: 0, total: 10, acc: 0.00%
+both correct: 0, total: 10, acc: 0.00%

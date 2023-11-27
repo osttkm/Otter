@@ -1,0 +1,40 @@
+thread --> contaminated metal grid
+
+query: NG
+
+<image>User: This is an image of metal grid. Does this metal grid have any defects such as bent metal grid, broken metal grid, and contaminated metal grid? GPT:<answer>
+
+-----thread start-----
+
+/home/dataset/mvtec/grid/test/thread/001.png
+Yes. This metal grid has some bent metal mesh, so it is defective.
+
+/home/dataset/mvtec/grid/test/thread/002.png
+No. This metal grid does not have any defective such as bending, broken, and contamination, so it is non-defective.
+
+/home/dataset/mvtec/grid/test/thread/003.png
+No. This metal grid does not have any defective such as bending, broken, and contamination, so it is non-defective.
+
+/home/dataset/mvtec/grid/test/thread/004.png
+Yes. This metal grid has some bent metal, so it is defective.
+
+/home/dataset/mvtec/grid/test/thread/005.png
+Yes. This metal grid has some bent metal mesh, so it is defective.
+
+/home/dataset/mvtec/grid/test/thread/006.png
+No. This metal grid does not have any defective such as bending, breaking, and contamination, so it is non-defective.
+
+/home/dataset/mvtec/grid/test/thread/007.png
+Yes. This metal grid has some bent metal mesh, so it is defective.
+
+/home/dataset/mvtec/grid/test/thread/008.png
+No. This metal grid does not have any defective such as bending, broken, and contamination, so it is non-defective.
+
+/home/dataset/mvtec/grid/test/thread/009.png
+No. This metal grid does not have any defective such as bending, breaking, and contamination, so it is non-defective.
+
+/home/dataset/mvtec/grid/test/thread/010.png
+No. This metal grid does not have any defective such as bending, broken, and contamination, so it is non-defective.
+
+-----thread end-----
+correct: 4, total: 10, yesno acc: 40.00%

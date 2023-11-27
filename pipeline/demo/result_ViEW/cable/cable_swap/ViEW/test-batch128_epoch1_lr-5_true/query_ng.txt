@@ -1,0 +1,43 @@
+cable_swap --> swapped cable
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> No. This cable does not have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable, so it is non-defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer> Yes. This cable has some swapped cable, so it is defective.<|endofchunk|><image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer>
+
+-----cable_swap start-----
+
+/home/dataset/mvtec/cable/test/cable_swap/001.png
+Yes. This wire has some Swapped Cable, so It is defective..
+
+/home/dataset/mvtec/cable/test/cable_swap/002.png
+Yes. This wire has some Swapped cable. So, it is defectiv.
+
+/home/dataset/mvtec/cable/test/cable_swap/003.png
+Yes. This wire has some Swapped cable. So, it is defectiv.
+
+/home/dataset/mvtec/cable/test/cable_swap/004.png
+Yes. This wire has some Swapped cable. So, it is defectiv.
+
+/home/dataset/mvtec/cable/test/cable_swap/005.png
+Yes. This wire has some copper cable swapped, so It is defective..
+
+/home/dataset/mvtec/cable/test/cable_swap/006.png
+Yes. This wire has some Swapped cable. So, it is defectiv.
+
+/home/dataset/mvtec/cable/test/cable_swap/007.png
+Yes. This wire has some copper cable swapped, so It is defective..
+
+/home/dataset/mvtec/cable/test/cable_swap/008.png
+Yes. This wire has some copper cable swapped with another copper cable, So it is defectiv.
+
+/home/dataset/mvtec/cable/test/cable_swap/009.png
+Yes. This wire has some poked wire, so It is defective..
+
+/home/dataset/mvtec/cable/test/cable_swap/010.png
+Yes. This wire has some Swapped cable. So, it is defectiv.
+
+/home/dataset/mvtec/cable/test/cable_swap/011.png
+Yes. This wire has some poked wire, so It is defective..
+
+-----cable_swap end-----
+correct: 11, total: 11, yesno acc: 100.00%

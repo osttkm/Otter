@@ -1,0 +1,70 @@
+scratch --> scratched wood
+
+query: NG
+
+<image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer>
+
+-----scratch start-----
+
+/home/dataset/mvtec/wood/test/scratch/001.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/002.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/003.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/004.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/005.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/006.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/007.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/008.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/009.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/010.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/011.png
+Yes. This wood has some wood withholes, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/012.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/013.png
+Yes. This wood has some wood withholes, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/014.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/015.png
+Yes. This wood has some wood withholes, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/016.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/017.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/018.png
+Yes. This wood has some wood withholes, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/019.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+/home/dataset/mvtec/wood/test/scratch/020.png
+Yes. This wood has some Scratched wood, so it is defective.
+
+-----scratch end-----
+correct: 20, total: 20, yesno acc: 100.00%

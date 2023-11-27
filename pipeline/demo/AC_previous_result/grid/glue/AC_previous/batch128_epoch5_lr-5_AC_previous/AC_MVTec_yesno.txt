@@ -1,0 +1,42 @@
+glue --> contamination
+-----glue start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/grid/test/glue/000.png
+None.
+
+/home/dataset/mvtec/grid/test/glue/001.png
+None.
+
+/home/dataset/mvtec/grid/test/glue/002.png
+None.
+
+/home/dataset/mvtec/grid/test/glue/003.png
+None.
+
+/home/dataset/mvtec/grid/test/glue/004.png
+crack.
+
+/home/dataset/mvtec/grid/test/glue/005.png
+crack.
+
+/home/dataset/mvtec/grid/test/glue/006.png
+chip.
+
+/home/dataset/mvtec/grid/test/glue/007.png
+None.
+
+/home/dataset/mvtec/grid/test/glue/008.png
+None.
+
+/home/dataset/mvtec/grid/test/glue/009.png
+None.
+
+/home/dataset/mvtec/grid/test/glue/010.png
+crack.
+
+-----glue end-----
+yesno correct: 0, total: 11, acc: 0.00%
+reason correct: 0, total: 11, acc: 0.00%
+both correct: 0, total: 11, acc: 0.00%

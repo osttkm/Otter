@@ -1,0 +1,79 @@
+scratch --> scratched pill
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> No. This pill does not have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill, so it is non-defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> Yes. This pill has some scratched pill, so it is defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer>
+
+-----scratch start-----
+
+/home/dataset/mvtec/pill/test/scratch/001.png
+Yes. This pillow has some scrambled pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/002.png
+Yes. This pillow has some scrambled text, so its text is misprinted, and as a result, it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/003.png
+Yes. This pillow has some scrambled text, so its text is misprinted, and it is deformed, so some parts of the text are scratched, so this pill is deficient, so deceptive.
+
+/home/dataset/mvtec/pill/test/scratch/004.png
+Yes. This pillow has some scrambled pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/005.png
+Yes. This pillow has some scrambled pill lettering,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/006.png
+Yes. This pillow has some scrambled text, so its text is misprinted, and as a result, it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/007.png
+Yes. This pillow has some scrambled pill lettering,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/008.png
+Yes. This pillow has some scrambled pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/009.png
+Yes. This pillow has some scrambled pill lettering,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/010.png
+Yes. This pillow has some scrambled pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/011.png
+Yes. This pillow has some scrambled text, so its text is misprinted, and it is deformed, so some parts of the text are scratched, so this pill is deficient, so deceptive.
+
+/home/dataset/mvtec/pill/test/scratch/012.png
+Yes. This pillow has some scrambled pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/013.png
+Yes. This pillow has some scrambled pill, So it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/014.png
+Yes. This pillow has some scrambled pill lettering,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/015.png
+Yes. This pillow has some scrambled pill, So it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/016.png
+Yes. This pillow has some scrambled text, so its text is misprinted, and it is deformed, so some parts of the text are scratched, so this pill is deficient, so deceptive.
+
+/home/dataset/mvtec/pill/test/scratch/017.png
+Yes. This pillow has some scrambled pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/018.png
+Yes. This pillow has some scrambled pill lettering,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/019.png
+Yes. This pillow has some scrambled pill lettering,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/020.png
+Yes. This pillow has some scrambled pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/021.png
+Yes. This pillow has some scrambled pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/022.png
+Yes. This pillow has some scrambled pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/scratch/023.png
+Yes. This pillow has some scrambled text, so its text is misprinted, and it is deformed, so this pill is defective.[1,2].
+
+-----scratch end-----
+correct: 23, total: 23, yesno acc: 100.00%

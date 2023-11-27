@@ -1,0 +1,37 @@
+hole --> wood with holes
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer> No. This wood does not have any defects such as stained wood, scratched wood, and wood with holes, so it is non-defective.<|endofchunk|><image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer> Yes. This wood has some wood with holes, so it is defective.<|endofchunk|><image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer>
+
+-----hole start-----
+
+/home/dataset/mvtec/wood/test/hole/001.png
+Yes. This wooden with some holes is defective, so the answer is yes.
+
+/home/dataset/mvtec/wood/test/hole/002.png
+Yes. This wooden with some holes is defective, so the answer is yes.
+
+/home/dataset/mvtec/wood/test/hole/003.png
+Yes. This woods has some wooden holes,so it is defects.
+
+/home/dataset/mvtec/wood/test/hole/004.png
+Yes. This wooden with some holes is defective, so the answer is yes.
+
+/home/dataset/mvtec/wood/test/hole/005.png
+Yes. This wooden is defective, so its wood with some wood-with-holes, so the answer is yes.
+
+/home/dataset/mvtec/wood/test/hole/006.png
+No. This woods does notHaveAnyDefectsSuchAsStainedwood,Scratchedwood,AndWoodWithHoles, so It Is Non-defected.
+
+/home/dataset/mvtec/wood/test/hole/007.png
+Yes. This wooden with some holes is defective, so the answer is yes.
+
+/home/dataset/mvtec/wood/test/hole/008.png
+No. This woods does notHaveAnyDefectsSuchAsStainedwood,Scratchedwood,AndWoodWithHoles, so It Is Non-defected.
+
+/home/dataset/mvtec/wood/test/hole/009.png
+Yes. This wooden with some holes is defective, so the answer is yes.
+
+-----hole end-----
+correct: 7, total: 9, yesno acc: 77.78%

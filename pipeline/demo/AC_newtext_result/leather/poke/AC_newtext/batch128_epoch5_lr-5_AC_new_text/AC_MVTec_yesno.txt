@@ -1,0 +1,63 @@
+poke --> hole
+-----poke start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/leather/test/poke/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/poke/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/poke/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/poke/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/poke/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/poke/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/poke/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/poke/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/poke/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/poke/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/poke/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/poke/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/leather/test/poke/012.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/poke/013.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/poke/014.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/poke/015.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/poke/016.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/leather/test/poke/017.png
+No. Negative, the product shown is devoid of any defects.
+
+-----poke end-----
+yesno correct: 0, total: 18, acc: 0.00%
+reason correct: 0, total: 18, acc: 0.00%
+both correct: 0, total: 18, acc: 0.00%

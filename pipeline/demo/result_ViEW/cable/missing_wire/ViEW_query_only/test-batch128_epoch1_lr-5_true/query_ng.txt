@@ -1,0 +1,37 @@
+missing_wire --> missing cable
+
+query: NG
+
+<image>User: This is an image of cable. Does this cable have any defects such as bent cable, swapped cable, broken cable, missing cable, and poked cable? GPT:<answer>
+
+-----missing_wire start-----
+
+/home/dataset/mvtec/cable/test/missing_wire/001.png
+Yes. This cable has some copper, so it is defective.
+
+/home/dataset/mvtec/cable/test/missing_wire/002.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/missing_wire/003.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/missing_wire/004.png
+Yes. This cable has some swapped cables, so it is defective.
+
+/home/dataset/mvtec/cable/test/missing_wire/005.png
+Yes. This cable has some copper powder, so it is defective.
+
+/home/dataset/mvtec/cable/test/missing_wire/006.png
+Yes. This cable has some copper cable, so it is defective.
+
+/home/dataset/mvtec/cable/test/missing_wire/007.png
+Yes. This cable has some copper pokes, so it is defective.
+
+/home/dataset/mvtec/cable/test/missing_wire/008.png
+Yes. This cable has some poked Cable, so it is defective.
+
+/home/dataset/mvtec/cable/test/missing_wire/009.png
+Yes. This cable has some swapped cables, so it is defective.
+
+-----missing_wire end-----
+correct: 9, total: 9, yesno acc: 100.00%

@@ -1,0 +1,70 @@
+poke --> poked capsule
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> No. This capsule does not have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule, so it is non-defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> Yes. This capsule has some poked capsule, so it is defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer>
+
+-----poke start-----
+
+/home/dataset/mvtec/capsule/test/poke/001.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/poke/002.png
+Yes. This capsluehas some pked capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/poke/003.png
+Yes. This capslue has somepoked capsule.
+
+/home/dataset/mvtec/capsule/test/poke/004.png
+Yes. This capslue has somepoked capsule.
+
+/home/dataset/mvtec/capsule/test/poke/005.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/poke/006.png
+Yes. This capslue has somepoked capsule. So, it is defectivie.
+
+/home/dataset/mvtec/capsule/test/poke/007.png
+Yes. This capsluehas some pked capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/poke/008.png
+Yes. This capsluehas some pked capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/poke/009.png
+Yes. This capsluehas some pked capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/poke/010.png
+Yes. This capsluehas some pked capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/poke/011.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/poke/012.png
+Yes. This capslue has somepoked capsule. So, it is defectivie.
+
+/home/dataset/mvtec/capsule/test/poke/013.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/poke/014.png
+No. This capslue has no Defects such as crushed capsule, misspelled capsule, poke capsule, scratches capsule, damaged capsule. So, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/capsule/test/poke/015.png
+Yes. This capslue has somepoked capsule. So, it is defectivie.
+
+/home/dataset/mvtec/capsule/test/poke/016.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/poke/017.png
+Yes. This capsluehas some pked capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/poke/018.png
+Yes. This capsluehas some pked capsule,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/poke/019.png
+Yes. This capsluehas some pked capsule,so it is defectsve.
+
+/home/dataset/mvtec/capsule/test/poke/020.png
+Yes. This capslue has somepoked capsule.
+
+-----poke end-----
+correct: 19, total: 20, yesno acc: 95.00%

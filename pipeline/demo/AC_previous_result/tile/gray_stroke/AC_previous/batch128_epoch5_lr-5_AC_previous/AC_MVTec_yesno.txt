@@ -1,0 +1,57 @@
+gray_stroke --> stain
+-----gray_stroke start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/tile/test/gray_stroke/000.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/001.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/002.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/003.png
+mold.
+
+/home/dataset/mvtec/tile/test/gray_stroke/004.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/005.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/006.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/007.png
+discoloration.
+
+/home/dataset/mvtec/tile/test/gray_stroke/008.png
+dirt.
+
+/home/dataset/mvtec/tile/test/gray_stroke/009.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/010.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/011.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/012.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/013.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/014.png
+stain.
+
+/home/dataset/mvtec/tile/test/gray_stroke/015.png
+stain.
+
+-----gray_stroke end-----
+yesno correct: 0, total: 16, acc: 0.00%
+reason correct: 0, total: 16, acc: 0.00%
+both correct: 0, total: 16, acc: 0.00%

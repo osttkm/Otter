@@ -1,0 +1,69 @@
+broken_large --> broken
+-----broken_large start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/bottle/test/broken_large/000.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/001.png
+Yes. Affirmative, the item exhibits tear.
+
+/home/dataset/mvtec/bottle/test/broken_large/002.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/broken_large/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/broken_large/005.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/006.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/007.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/008.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/009.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/broken_large/010.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/011.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/broken_large/012.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/013.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/014.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/bottle/test/broken_large/015.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/016.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/017.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/018.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/bottle/test/broken_large/019.png
+Yes. Affirmative, the item exhibits crack.
+
+-----broken_large end-----
+yesno correct: 0, total: 20, acc: 0.00%
+reason correct: 0, total: 20, acc: 0.00%
+both correct: 0, total: 20, acc: 0.00%

@@ -1,0 +1,37 @@
+damaged_case --> damaged transistor
+
+query: NG
+
+<image>User: This is an image of transistor. Does this transistor have any defects such as bent transistor, cut transistor, damaged transistor, and misplaced transistor? GPT:<answer>
+
+-----damaged_case start-----
+
+/home/dataset/mvtec/transistor/test/damaged_case/001.png
+Yes. This transistor has some burnt transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/damaged_case/002.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/damaged_case/003.png
+Yes. This transistor has some burnt transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/damaged_case/004.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/damaged_case/005.png
+Yes. This transistor has some bent transistor; so it is defective.
+
+/home/dataset/mvtec/transistor/test/damaged_case/006.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/damaged_case/007.png
+Yes. This transistor has some misplaced transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/damaged_case/008.png
+Yes. This transistor has some burned transistor, so it is defective.
+
+/home/dataset/mvtec/transistor/test/damaged_case/009.png
+Yes. This transistor has some bent transistor; so it is defective.
+
+-----damaged_case end-----
+correct: 9, total: 9, yesno acc: 100.00%

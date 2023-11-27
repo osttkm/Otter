@@ -1,0 +1,63 @@
+glue_strip --> contamination
+-----glue_strip start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/tile/test/glue_strip/000.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/001.png
+Yes. Affirmative, the item exhibits chip.
+
+/home/dataset/mvtec/tile/test/glue_strip/002.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/003.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/tile/test/glue_strip/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/006.png
+Yes. Affirmative, the item exhibits chip.
+
+/home/dataset/mvtec/tile/test/glue_strip/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/008.png
+Yes. Affirmative, the item exhibits chip.
+
+/home/dataset/mvtec/tile/test/glue_strip/009.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/010.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/011.png
+Yes. Affirmative, the item exhibits scratch.
+
+/home/dataset/mvtec/tile/test/glue_strip/012.png
+Yes. Affirmative, the item exhibits chip.
+
+/home/dataset/mvtec/tile/test/glue_strip/013.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/014.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/015.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/016.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/glue_strip/017.png
+Yes. Affirmative, the item exhibits chip.
+
+-----glue_strip end-----
+yesno correct: 0, total: 18, acc: 0.00%
+reason correct: 0, total: 18, acc: 0.00%
+both correct: 0, total: 18, acc: 0.00%

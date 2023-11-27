@@ -1,0 +1,37 @@
+liquid --> stained wood
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer> No. This wood does not have any defects such as stained wood, scratched wood, and wood with holes, so it is non-defective.<|endofchunk|><image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer> Yes. This wood has some stained wood, so it is defective.<|endofchunk|><image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer>
+
+-----liquid start-----
+
+/home/dataset/mvtec/wood/test/liquid/001.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+/home/dataset/mvtec/wood/test/liquid/002.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+/home/dataset/mvtec/wood/test/liquid/003.png
+Yes. This wooden board has some stain, so its wood is defective, so the answer is 'Yes'.
+
+/home/dataset/mvtec/wood/test/liquid/004.png
+Yes. This woods has some stamped wood,so it is faulty.
+
+/home/dataset/mvtec/wood/test/liquid/005.png
+Yes. This wooden this has some scratched wood and some wooden with some wood with some water drops, so It is defective.
+
+/home/dataset/mvtec/wood/test/liquid/006.png
+No. This woods does notHave any defects Such as Stained wood, Scratchedwood, and Wood with holes. So it is Non-defected.
+
+/home/dataset/mvtec/wood/test/liquid/007.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+/home/dataset/mvtec/wood/test/liquid/008.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+/home/dataset/mvtec/wood/test/liquid/009.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+-----liquid end-----
+correct: 8, total: 9, yesno acc: 88.89%

@@ -1,0 +1,85 @@
+crack --> cracked pill
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> No. This pill does not have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill, so it is non-defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> Yes. This pill has some cracked pill, so it is defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer>
+
+-----crack start-----
+
+/home/dataset/mvtec/pill/test/crack/001.png
+Yes. This pillow has some crushed pill and some scratched pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/002.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/003.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/004.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective, so the answer is 'Yes'.
+
+/home/dataset/mvtec/pill/test/crack/005.png
+Yes. This pillow has some crushed pill and some scratched pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/006.png
+Yes. This pillow has some crushed pill and some scratched pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/007.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/008.png
+Yes. This pillow has some crushed pill and some scratched pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/009.png
+Yes. This pillow has some crushed pill and some scratched pillow, so It is defective.
+
+/home/dataset/mvtec/pill/test/crack/010.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective, so.
+
+/home/dataset/mvtec/pill/test/crack/011.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective, so GPT.
+
+/home/dataset/mvtec/pill/test/crack/012.png
+Yes. This pillow has some crushed pill and some stained pill on it. So, it is defects.
+
+/home/dataset/mvtec/pill/test/crack/013.png
+Yes. This pillow has some crushed pill and some scratched pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/014.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/015.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/016.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/017.png
+Yes. This pillow has some crushed pill and some scratched pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/018.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/019.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective, so GPT.
+
+/home/dataset/mvtec/pill/test/crack/020.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective, so GPT.
+
+/home/dataset/mvtec/pill/test/crack/021.png
+Yes. This pillow has some crushed pill and some scratched pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/022.png
+Yes. This pillow has some crushed pill and some stained pill on it. So, it is defects.
+
+/home/dataset/mvtec/pill/test/crack/023.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective, so.
+
+/home/dataset/mvtec/pill/test/crack/024.png
+Yes. This pillow has some crushed pill and some stained pillow, so It is defective..
+
+/home/dataset/mvtec/pill/test/crack/025.png
+Yes. This pillow has some crushed pill and some stained pill on it. So, it is defectives.
+
+-----crack end-----
+correct: 25, total: 25, yesno acc: 100.00%

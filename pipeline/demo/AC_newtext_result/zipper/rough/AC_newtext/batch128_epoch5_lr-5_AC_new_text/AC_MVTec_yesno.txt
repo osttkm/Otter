@@ -1,0 +1,60 @@
+rough --> frayed
+-----rough start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/zipper/test/rough/000.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/001.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/002.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/003.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/zipper/test/rough/005.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/006.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/007.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/008.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/009.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/010.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/011.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/012.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/013.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/014.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/015.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/zipper/test/rough/016.png
+No. There are no defects in the product depicted.
+
+-----rough end-----
+yesno correct: 0, total: 17, acc: 0.00%
+reason correct: 0, total: 17, acc: 0.00%
+both correct: 0, total: 17, acc: 0.00%

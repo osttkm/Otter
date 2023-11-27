@@ -1,0 +1,63 @@
+crack --> crack
+-----crack start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/hazelnut/test/crack/000.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/001.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/002.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/003.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/004.png
+broken.
+
+/home/dataset/mvtec/hazelnut/test/crack/005.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/006.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/007.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/008.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/009.png
+broken.
+
+/home/dataset/mvtec/hazelnut/test/crack/010.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/011.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/012.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/013.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/014.png
+hole.
+
+/home/dataset/mvtec/hazelnut/test/crack/015.png
+broken.
+
+/home/dataset/mvtec/hazelnut/test/crack/016.png
+crack.
+
+/home/dataset/mvtec/hazelnut/test/crack/017.png
+broken.
+
+-----crack end-----
+yesno correct: 0, total: 18, acc: 0.00%
+reason correct: 0, total: 18, acc: 0.00%
+both correct: 0, total: 18, acc: 0.00%

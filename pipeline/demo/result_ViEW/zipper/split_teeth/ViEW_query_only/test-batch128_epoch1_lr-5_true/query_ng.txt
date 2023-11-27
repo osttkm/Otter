@@ -1,0 +1,61 @@
+split_teeth --> broken zipper
+
+query: NG
+
+<image>User: This is an image of zipper. Does this zipper have any defects such as broken zipper, torn zipper, and damaged zipper? GPT:<answer>
+
+-----split_teeth start-----
+
+/home/dataset/mvtec/zipper/test/split_teeth/001.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/002.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/003.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/004.png
+No. This zipper does not have any defective such as breaking, torn, torn and damaged, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/005.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/006.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/007.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/008.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/009.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/010.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/011.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/012.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/013.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/014.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/015.png
+No. This zipper does not have any defective such as breaking, torn, torn and damaged, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/016.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+/home/dataset/mvtec/zipper/test/split_teeth/017.png
+No. This zipper does not have any defective such as breaking, torn, and damaging, so it is non-defective.
+
+-----split_teeth end-----
+correct: 0, total: 17, yesno acc: 0.00%

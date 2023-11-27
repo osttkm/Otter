@@ -1,0 +1,33 @@
+color --> stain
+-----color start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/wood/test/color/000.png
+scratch.
+
+/home/dataset/mvtec/wood/test/color/001.png
+scratch.
+
+/home/dataset/mvtec/wood/test/color/002.png
+scratch.
+
+/home/dataset/mvtec/wood/test/color/003.png
+dead pixel.
+
+/home/dataset/mvtec/wood/test/color/004.png
+scratch.
+
+/home/dataset/mvtec/wood/test/color/005.png
+scratch.
+
+/home/dataset/mvtec/wood/test/color/006.png
+stain.
+
+/home/dataset/mvtec/wood/test/color/007.png
+scratch.
+
+-----color end-----
+yesno correct: 0, total: 8, acc: 0.00%
+reason correct: 0, total: 8, acc: 0.00%
+both correct: 0, total: 8, acc: 0.00%

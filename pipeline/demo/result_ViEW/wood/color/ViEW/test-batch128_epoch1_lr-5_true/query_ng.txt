@@ -1,0 +1,31 @@
+color --> stained wood
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer> No. This wood does not have any defects such as stained wood, scratched wood, and wood with holes, so it is non-defective.<|endofchunk|><image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer> Yes. This wood has some stained wood, so it is defective.<|endofchunk|><image>User: This is an image of wood. Does this wood have any defects such as stained wood, scratched wood, and wood with holes? GPT:<answer>
+
+-----color start-----
+
+/home/dataset/mvtec/wood/test/color/001.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+/home/dataset/mvtec/wood/test/color/002.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+/home/dataset/mvtec/wood/test/color/003.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+/home/dataset/mvtec/wood/test/color/004.png
+Yes. This wooden is stained with some blood, so its wood is stained, and it is faulty.
+
+/home/dataset/mvtec/wood/test/color/005.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+/home/dataset/mvtec/wood/test/color/006.png
+Yes. This wooden is stained, so its wood is defective.[1,2].
+
+/home/dataset/mvtec/wood/test/color/007.png
+Yes. This wooden is stained with blood, so its wood is stained, and it is faulty.
+
+-----color end-----
+correct: 7, total: 7, yesno acc: 100.00%

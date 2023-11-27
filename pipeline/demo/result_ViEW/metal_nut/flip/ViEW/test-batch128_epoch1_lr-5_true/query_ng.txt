@@ -1,0 +1,76 @@
+flip --> flipped metal nut
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of metal nut. Does this metal nut have any defects such as bent metal nut, stained metal nut, flipped metal nut, and scratched metal nut? GPT:<answer> No. This metal nut does not have any defects such as bent metal nut, stained metal nut, flipped metal nut, and scratched metal nut, so it is non-defective.<|endofchunk|><image>User: This is an image of metal nut. Does this metal nut have any defects such as bent metal nut, stained metal nut, flipped metal nut, and scratched metal nut? GPT:<answer> Yes. This metal nut has some flipped metal nut, so it is defective.<|endofchunk|><image>User: This is an image of metal nut. Does this metal nut have any defects such as bent metal nut, stained metal nut, flipped metal nut, and scratched metal nut? GPT:<answer>
+
+-----flip start-----
+
+/home/dataset/mvtec/metal_nut/test/flip/001.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/002.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/003.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/004.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/005.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/006.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/007.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/008.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/009.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/010.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/011.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/012.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defective..
+
+/home/dataset/mvtec/metal_nut/test/flip/013.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defective..
+
+/home/dataset/mvtec/metal_nut/test/flip/014.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/015.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/016.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/017.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defective..
+
+/home/dataset/mvtec/metal_nut/test/flip/018.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/019.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defective..
+
+/home/dataset/mvtec/metal_nut/test/flip/020.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/021.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defected.
+
+/home/dataset/mvtec/metal_nut/test/flip/022.png
+Yes. This meta nut has Some Flipped Metal Nut, So It Is Defective..
+
+-----flip end-----
+correct: 22, total: 22, yesno acc: 100.00%

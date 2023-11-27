@@ -1,0 +1,82 @@
+color --> stained pill
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> No. This pill does not have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill, so it is non-defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer> Yes. This pill has some stained pill, so it is defective.<|endofchunk|><image>User: This is an image of pill. Does this pill have any defects such as stained pill, contaminated pill, cracked pill, misprinted pill, and scratched pill? GPT:<answer>
+
+-----color start-----
+
+/home/dataset/mvtec/pill/test/color/001.png
+Yes. This pillow has some stamped pill with letter "f" and some yellow color,so it is faulty.
+
+/home/dataset/mvtec/pill/test/color/002.png
+Yes. This pillow has some stamped pill with letter "f", so it istainted pilldefectative.
+
+/home/dataset/mvtec/pill/test/color/003.png
+Yes. This pillow has some stamped pill with letter "f" on it, so its non-Defective, so, it is deceptive.
+
+/home/dataset/mvtec/pill/test/color/004.png
+Yes. This pillow has some stamped pill with letter "f" on it and some stained pillow, so its defective, so.
+
+/home/dataset/mvtec/pill/test/color/005.png
+Yes. This pillow has some stamped pill with letter "f" on it and some stained pillow, so its defective, so, it is NON-DEFACTIVE.
+
+/home/dataset/mvtec/pill/test/color/006.png
+Yes. This pillow has some stains pill, So it is defects.
+
+/home/dataset/mvtec/pill/test/color/007.png
+Yes. This pillow has some stamped pill with letter "f" on it and some blood spots on it, so its non-Defective: Stamped pill.
+
+/home/dataset/mvtec/pill/test/color/008.png
+Yes. This pillow has some stains pill, So it is defects.
+
+/home/dataset/mvtec/pill/test/color/009.png
+Yes. This pillow has some stamped pill with letter "f" on it. So, it is faulty.
+
+/home/dataset/mvtec/pill/test/color/010.png
+Yes. This pillow has some stamped pill with letter "f" on it. So, it is faulty.
+
+/home/dataset/mvtec/pill/test/color/011.png
+Yes. This pillow has some stamped pill with letter "f" on it, so its non-Defective, so, it is deceptive.
+
+/home/dataset/mvtec/pill/test/color/012.png
+Yes. This pillow has some stamped pill with letter "f" on it, so its non-Defective, so, it is deceptive.
+
+/home/dataset/mvtec/pill/test/color/013.png
+Yes. This pillow has some stamped pill with letter "f" on it, so its non-Defective, so, it is deceptive.
+
+/home/dataset/mvtec/pill/test/color/014.png
+Yes. This pillow has some stamped pill,so it is faulty.
+
+/home/dataset/mvtec/pill/test/color/015.png
+Yes. This pillow has some stains, so its pill is stained, and it is faulty.
+
+/home/dataset/mvtec/pill/test/color/016.png
+Yes. This pillow has some stamped pill with letter "f" on it, so its non-Defective, so, it is deceptive.
+
+/home/dataset/mvtec/pill/test/color/017.png
+Yes. This pillow has some stamped pill with letter "f" on it, so its non-Defective, so, it is deceptive.
+
+/home/dataset/mvtec/pill/test/color/018.png
+Yes. This pillow has some stains pill, So it is defects.
+
+/home/dataset/mvtec/pill/test/color/019.png
+Yes. This pillow has some stamped pill with letter "f" and some red dye,so it is deficient.
+
+/home/dataset/mvtec/pill/test/color/020.png
+Yes. This pillow has some stamped pill with letter "f" on it and some red spots on it. So, it is faulty.
+
+/home/dataset/mvtec/pill/test/color/021.png
+Yes. This pillow has some stamped pill with letter "f" and some red spots on it, so its non-Defective, so, it is deceptive.
+
+/home/dataset/mvtec/pill/test/color/022.png
+Yes. This pillow has some stamped pill with letter "f" on it and some stained pillow, so its defective, so.
+
+/home/dataset/mvtec/pill/test/color/023.png
+Yes. This pillow has some stamped pill with letter "f" on it, so its non-Defective, so.
+
+/home/dataset/mvtec/pill/test/color/024.png
+Yes. This pillow has some stains pill, So it is defects.
+
+-----color end-----
+correct: 24, total: 24, yesno acc: 100.00%

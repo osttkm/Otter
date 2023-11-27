@@ -1,0 +1,76 @@
+crack --> cracked capsule
+
+context1: OK, context2: NG, query: NG
+
+<image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> No. This capsule does not have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule, so it is non-defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer> Yes. This capsule has some cracked capsule, so it is defective.<|endofchunk|><image>User: This is an image of capsule. Does this capsule have any defects such as cracked capsule, misprinted capsule, poked capsule, scratched capsule, and damaged capsule? GPT:<answer>
+
+-----crack start-----
+
+/home/dataset/mvtec/capsule/test/crack/001.png
+Yes. This capslue has some crushed capslu,so it is faulty.
+
+/home/dataset/mvtec/capsule/test/crack/002.png
+Yes. This capslue has some crushed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/crack/003.png
+Yes. This capslue has some crushed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/crack/004.png
+Yes. This capslue has some crushed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/crack/005.png
+Yes. This capslue has some crushed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/crack/006.png
+No. This capslue has no Defects such as crackd capsule, missprinted capsslue, pokeed capsslune, scratched capsslun, and damagd capslun, soit is nondefectiv.
+
+/home/dataset/mvtec/capsule/test/crack/007.png
+Yes. This capslueHas some cracked capsslue, so It is defective..
+
+/home/dataset/mvtec/capsule/test/crack/008.png
+Yes. This capslue has some crushed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/crack/009.png
+Yes. This capslue has some crushed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/crack/010.png
+Yes. This capslueHas some cracked capslu,e so it Is defective..
+
+/home/dataset/mvtec/capsule/test/crack/011.png
+Yes. This capslue has some crushed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/crack/012.png
+Yes. This capslueHas some cracked capslu,e so it Is defective..
+
+/home/dataset/mvtec/capsule/test/crack/013.png
+Yes. This capslue has some crushed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/crack/014.png
+Yes. This capslueHas some cracked capslule, so It is defective..
+
+/home/dataset/mvtec/capsule/test/crack/015.png
+Yes. This capslue has some crushed capsule, So it is faulty.
+
+/home/dataset/mvtec/capsule/test/crack/016.png
+Yes. This capslueHas some cracked capslu,e misprinted capslo,e poked capsluo,e scratched capslum,e and damaged capslud,e;e, so It is defective..
+
+/home/dataset/mvtec/capsule/test/crack/017.png
+Yes. This capslueHas some cracked capsslue, so It is defective..
+
+/home/dataset/mvtec/capsule/test/crack/018.png
+Yes. This capslue has some crushed capslule, so its defective..
+
+/home/dataset/mvtec/capsule/test/crack/019.png
+Yes. This capslue has some crushed capsule, So it is faulty.
+
+/home/dataset/mvtec/capsule/test/crack/020.png
+Yes. This capslueHas some cracked capslu,e misprinted capslo,e poked capsluo,e scratched capslum,e and damaged capslud,e;e, so It is defective..
+
+/home/dataset/mvtec/capsule/test/crack/021.png
+Yes. This capsluehas some cracked capsslue, so It is defective..
+
+/home/dataset/mvtec/capsule/test/crack/022.png
+Yes. This capsluehas some cracked capsslue, so It is defective..
+
+-----crack end-----
+correct: 21, total: 22, yesno acc: 95.45%

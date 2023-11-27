@@ -1,0 +1,58 @@
+cut --> cut carpet
+
+query: NG
+
+<image>User: This is an image of carpet. Does this carpet have any defects such as stained carpet, cut carpet, carpet with holes, and contaminated carpet? GPT:<answer>
+
+-----cut start-----
+
+/home/dataset/mvtec/carpet/test/cut/001.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/002.png
+Yes. This carpet has some torn carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/003.png
+Yes. This carpet has some torn carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/004.png
+Yes. This carpet has some cut carpet,...
+
+/home/dataset/mvtec/carpet/test/cut/005.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/006.png
+Yes. This carpet has some cut carpet; so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/007.png
+Yes. This carpet has some torn carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/008.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/009.png
+Yes. This carpet has some torn carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/010.png
+Yes. This carpet has some cut carpet,...
+
+/home/dataset/mvtec/carpet/test/cut/011.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/012.png
+Yes. This carpet has some torn carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/013.png
+No. This carpet does not have any defective such as contaminated carpet, so it is non-defective.
+
+/home/dataset/mvtec/carpet/test/cut/014.png
+Yes. This carpet has some torn carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/015.png
+Yes. This carpet has some contaminated carpet, so it is defective.
+
+/home/dataset/mvtec/carpet/test/cut/016.png
+No. This carpet does not have any defective such as contaminated carpet, so it is non-defective.
+
+-----cut end-----
+correct: 14, total: 16, yesno acc: 87.50%

@@ -1,0 +1,60 @@
+metal_contamination --> contamination
+-----metal_contamination start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/carpet/test/metal_contamination/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/012.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/013.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/015.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/carpet/test/metal_contamination/016.png
+No. Certainly not, the product is without defects.
+
+-----metal_contamination end-----
+yesno correct: 0, total: 17, acc: 0.00%
+reason correct: 0, total: 17, acc: 0.00%
+both correct: 0, total: 17, acc: 0.00%

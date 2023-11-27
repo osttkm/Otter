@@ -1,0 +1,69 @@
+squeeze --> misshapen
+-----squeeze start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/capsule/test/squeeze/000.png
+Yes. Affirmative, the item exhibits tear.
+
+/home/dataset/mvtec/capsule/test/squeeze/001.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/capsule/test/squeeze/002.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/004.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/capsule/test/squeeze/005.png
+Yes. Affirmative, the item exhibits crack.
+
+/home/dataset/mvtec/capsule/test/squeeze/006.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/009.png
+No. The item does not exhibit any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/010.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/011.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/012.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/013.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/014.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/015.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/016.png
+No. There are no defects in the product depicted.
+
+/home/dataset/mvtec/capsule/test/squeeze/017.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/018.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/capsule/test/squeeze/019.png
+No. Certainly not, the product is without defects.
+
+-----squeeze end-----
+yesno correct: 0, total: 20, acc: 0.00%
+reason correct: 0, total: 20, acc: 0.00%
+both correct: 0, total: 20, acc: 0.00%

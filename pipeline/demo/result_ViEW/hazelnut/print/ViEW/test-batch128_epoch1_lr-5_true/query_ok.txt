@@ -1,0 +1,127 @@
+print --> misprinted hazelnut
+
+context1: OK, context2: NG, query: OK
+
+<image>User: This is an image of hazelnut. Does this hazelnut have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut? GPT:<answer> No. This hazelnut does not have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut, so it is non-defective.<|endofchunk|><image>User: This is an image of hazelnut. Does this hazelnut have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut? GPT:<answer> Yes. This hazelnut has some misprinted hazelnut, so it is defective.<|endofchunk|><image>User: This is an image of hazelnut. Does this hazelnut have any defects such as cracked hazelnut, scratched hazelnut, hazelnut with holes, and misprinted hazelnut? GPT:<answer>
+
+-----print start-----
+
+/home/dataset/mvtec/hazelnut/test/good/001.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/002.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/003.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/004.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/005.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/006.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/007.png
+Yes. This Hazelnut Has Some Misprinted Nut, so It Is Defective..
+
+/home/dataset/mvtec/hazelnut/test/good/008.png
+No. This hazelnut doesn't have anydefects such ascracked hazelnut, scratched hazenut, hazelnutholes, andmisprinted hazelnuit, soit is non‑defected.
+
+/home/dataset/mvtec/hazelnut/test/good/009.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/010.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/011.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/012.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/013.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/014.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/015.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/016.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/017.png
+No. This hazelnut doesn't have anydefects such ascracked hazelnut, scratched hazenut, hazelnutholes, andmisprinted hazelnuit, soit is non‑defected.
+
+/home/dataset/mvtec/hazelnut/test/good/018.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/019.png
+Yes. This Hazelnuthas some misprintedshell, so itshazelnut is defective..
+
+/home/dataset/mvtec/hazelnut/test/good/020.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/021.png
+Yes. This hazelnut has Some misprinted hazelnuts, so its defective..
+
+/home/dataset/mvtec/hazelnut/test/good/022.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/023.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/024.png
+No. This hazelnut doesn't have any faults such as cracks, holes, misprinted, and scratched hazlenut, so its non-Defective, so.
+
+/home/dataset/mvtec/hazelnut/test/good/025.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defective..
+
+/home/dataset/mvtec/hazelnut/test/good/026.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/027.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/028.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defective..
+
+/home/dataset/mvtec/hazelnut/test/good/029.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/030.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/031.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/032.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/033.png
+No. This Hazelnut doesn't have any faults such as cracks, holes, misprints, and scratches in its skin, so its non-Defective, and it is Non-Debilitated.
+
+/home/dataset/mvtec/hazelnut/test/good/034.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defective..
+
+/home/dataset/mvtec/hazelnut/test/good/035.png
+No. This Hazelnut doesn't have any faults such as cracks, holes, misprinted, and scratches in its surface, so It is Non-defected.
+
+/home/dataset/mvtec/hazelnut/test/good/036.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/037.png
+Yes. This hazelnut has Some misprinted hazelnuts, so its defective..
+
+/home/dataset/mvtec/hazelnut/test/good/038.png
+Yes. This Hazelnut Has Some Misprinted Hazelnut, so It Is Defectivo.
+
+/home/dataset/mvtec/hazelnut/test/good/039.png
+No. This hazelnut doesn't have any faults such as cracks, holes, misprinted nut, and so on, so its quality is satisfactory, and it is nontreatable.
+
+-----print end-----
+correct: 6, total: 39, yesno acc: 15.38%

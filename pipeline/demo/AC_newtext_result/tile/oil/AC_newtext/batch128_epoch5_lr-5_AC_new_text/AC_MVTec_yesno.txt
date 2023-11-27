@@ -1,0 +1,63 @@
+oil --> stain
+-----oil start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/tile/test/oil/000.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/001.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/002.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/oil/003.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/004.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/005.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/oil/007.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/008.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/009.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/010.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/oil/011.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/012.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/oil/013.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/tile/test/oil/014.png
+No. Certainly not, the product is without defects.
+
+/home/dataset/mvtec/tile/test/oil/015.png
+Yes. Affirmative, the item exhibits stain.
+
+/home/dataset/mvtec/tile/test/oil/016.png
+Yes. Affirmative, the item exhibits stain.
+
+/home/dataset/mvtec/tile/test/oil/017.png
+No. Certainly not, the product is without defects.
+
+-----oil end-----
+yesno correct: 0, total: 18, acc: 0.00%
+reason correct: 0, total: 18, acc: 0.00%
+both correct: 0, total: 18, acc: 0.00%

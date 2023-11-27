@@ -1,0 +1,39 @@
+damaged_case --> broken
+-----damaged_case start-----
+
+<image>User: Does this image have any defects? If there are any defects, please provide the defect name. If not, please say None. GPT:<answer>
+
+/home/dataset/mvtec/transistor/test/damaged_case/000.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/damaged_case/001.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/damaged_case/002.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/damaged_case/003.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/damaged_case/004.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/damaged_case/005.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/damaged_case/006.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/damaged_case/007.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/damaged_case/008.png
+No. Negative, the product shown is devoid of any defects.
+
+/home/dataset/mvtec/transistor/test/damaged_case/009.png
+No. Negative, the product shown is devoid of any defects.
+
+-----damaged_case end-----
+yesno correct: 0, total: 10, acc: 0.00%
+reason correct: 0, total: 10, acc: 0.00%
+both correct: 0, total: 10, acc: 0.00%
